@@ -1,0 +1,887 @@
+propertyid,city,state,zipcode,address,bedrooms,bathrooms,squarefeet,pricing,yearbuilt,description,listingdate,status,type
+87623441,Challis,Idaho,83226,8109 Renee Crossroad Suite 965,4,3,1823,1617931.37,2019,Perfect for first-time buyers or investors.,2024-04-26,Off Market,townhouses
+22759467,Saint Louis,Missouri,63127,0692 Chris Well,5,2,4514,3315748.79,1964,Perfect for first-time buyers or investors.,2024-02-03,Pending,single houses
+98383107,Lubbock,Texas,79430,28985 Spencer Stream,4,3,2857,613700.54,1926,A beautiful home with stunning views.,2024-04-06,Off Market,apartments
+54113232,Bedford,Texas,76022,6500 Spears Way Suite 199,2,3,790,601140.74,1938,Spacious property with a large backyard.,2024-05-25,Off Market,condominiums
+77072907,Toledo,Ohio,43666,81089 Rickey Junctions,3,3,3187,1878261.83,1985,Perfect for first-time buyers or investors.,2023-12-26,Off Market,villas
+88551880,Kingman,Indiana,47952,0759 Victoria Canyon Suite 495,4,2,4762,3667740.56,1988,Close to schools and shopping centers.,2023-10-27,Sold,condominiums
+93164833,Mattawa,Washington,99349,1822 Robert Mount,1,1,2569,1156326.0,1905,"Located in a quiet neighborhood, this property offers great potential.",2024-08-02,Off Market,apartments
+93002318,Ralph,South Dakota,57650,10665 Daniels Throughway Apt. 422,1,3,2566,1591606.94,1927,Close to schools and shopping centers.,2024-03-06,Under Contract,townhouses
+11360794,Conway,New Hampshire,3818,40679 Theresa Islands,5,3,4517,1781719.65,2007,Close to schools and shopping centers.,2024-05-19,Pending,condominiums
+25796487,South Webster,Ohio,45682,0894 Stark Turnpike Apt. 836,3,2,4497,2710452.77,1929,Perfect for first-time buyers or investors.,2023-08-23,Sold,single houses
+51540116,Sextonville,Wisconsin,53584,0392 Rhonda Ferry,4,2,2087,638594.81,1920,Close to schools and shopping centers.,2024-05-06,Sold,apartments
+64381349,Dayton,Virginia,22821,771 Seth Road,1,3,1221,4256017.07,1945,"Located in a quiet neighborhood, this property offers great potential.",2024-06-27,Off Market,condominiums
+56252015,Troy,Michigan,48099,659 Rogers Street,1,3,1577,3652178.74,1956,Spacious property with a large backyard.,2024-06-20,Under Contract,villas
+20653803,APO AE,,9815,32392 Thomas Locks Apt. 173,2,2,1053,4234341.07,1912,A beautiful home with stunning views.,2024-02-22,Sold,apartments
+92248842,Ocala,Florida,34474,672 Brittany Landing Apt. 118,4,2,2871,976307.1,1906,Recently renovated with modern finishes.,2023-12-05,Sold,apartments
+18367045,APO AE,,9766,2740 Brandy Mall Suite 251,3,3,887,4524663.84,1933,Perfect for first-time buyers or investors.,2023-12-25,Under Contract,single houses
+76425808,Enfield,New Hampshire,3748,4278 Thomas Light Apt. 993,2,3,3327,4559018.65,1986,Recently renovated with modern finishes.,2024-07-13,Under Contract,condominiums
+16631373,Connerville,Oklahoma,74836,6773 Luna View,1,2,714,775499.11,1919,A beautiful home with stunning views.,2024-03-14,Pending,townhouses
+61891439,Dayton,Maryland,21036,678 Vanessa Row,5,2,1992,3070474.29,1930,A beautiful home with stunning views.,2024-02-29,Off Market,condominiums
+24825927,Phoenix,Maryland,21131,87197 Thomas Way Apt. 921,5,3,1795,520722.91,1906,Spacious property with a large backyard.,2023-09-28,For Sale,townhouses
+36685864,Webberville,Michigan,48892,630 Cristina Trafficway Apt. 323,5,2,2989,4939512.54,1995,A beautiful home with stunning views.,2024-06-02,Off Market,apartments
+31210265,Darien,Georgia,31305,36280 Graham Roads Apt. 856,4,3,3146,4502461.46,1987,"Located in a quiet neighborhood, this property offers great potential.",2024-01-02,Off Market,townhouses
+26576810,Buckatunna,Mississippi,39322,6560 Steele Grove Suite 106,1,1,1764,1105467.26,1987,Close to schools and shopping centers.,2023-10-26,Sold,townhouses
+23197340,Griffin,Georgia,30224,3123 Brandon Trace,1,2,4617,2717722.3,1993,Close to schools and shopping centers.,2023-12-13,Under Contract,single houses
+86137889,South Dartmouth,Massachusetts,2748,86182 Jessica Corner,4,3,4150,3222276.3,2007,Perfect for first-time buyers or investors.,2024-03-10,Pending,townhouses
+47915047,White Oak,Texas,75693,57472 Michael Corners Suite 041,1,3,4779,3444415.68,1942,A beautiful home with stunning views.,2024-02-23,Sold,condominiums
+73983277,Bass Lake,California,93604,06538 Joyce Gardens Apt. 225,4,1,4370,1359204.9,1981,Close to schools and shopping centers.,2024-06-21,For Sale,single houses
+85399659,Sutton,Nebraska,68979,68287 Lawrence Islands,4,1,922,3272587.89,1964,Perfect for first-time buyers or investors.,2023-11-10,Off Market,townhouses
+53855728,Dubois,Indiana,47527,73606 Kim Mountain,1,2,3520,3906219.46,1984,Recently renovated with modern finishes.,2024-01-22,Sold,condominiums
+24157100,Doylestown,Pennsylvania,18901,594 Hanson Rapids,1,2,2052,2001767.73,1943,Spacious property with a large backyard.,2024-06-25,Under Contract,condominiums
+13131889,Westbrook,Connecticut,6498,12065 Hernandez Hollow,4,1,3982,459571.88,1911,"Located in a quiet neighborhood, this property offers great potential.",2024-02-05,Pending,villas
+89714638,Washington,District of Columbia,20230,974 Lisa Circle Suite 871,3,1,2037,2474382.99,1958,A beautiful home with stunning views.,2024-05-10,Under Contract,condominiums
+46342850,Royalton,Illinois,62983,0001 Christopher Brooks Suite 642,1,3,3996,4538243.77,1922,A beautiful home with stunning views.,2023-11-29,Under Contract,villas
+31796173,Palm Springs,California,92264,17841 Julie Divide,2,2,2206,1928167.18,1918,"Located in a quiet neighborhood, this property offers great potential.",2023-10-04,Under Contract,single houses
+49193146,Exchange,West Virginia,26619,09744 Douglas Points,1,3,790,2955013.21,1916,Perfect for first-time buyers or investors.,2023-12-01,Sold,single houses
+98099092,Wellsville,Missouri,63384,528 Jodi View,1,1,2872,1950218.88,1994,Recently renovated with modern finishes.,2023-09-03,Pending,single houses
+58573621,Richmond,California,94805,062 Henry Dam,3,3,4238,3602877.74,1963,"Located in a quiet neighborhood, this property offers great potential.",2024-05-15,Sold,apartments
+40749229,Berwick,Pennsylvania,18603,95471 Woodard Gardens,3,2,2608,664893.95,2022,A beautiful home with stunning views.,2023-11-22,Off Market,townhouses
+57412003,Sebastopol,Mississippi,39359,6907 Jonathan Falls Apt. 846,1,1,3075,4433293.23,1935,"Located in a quiet neighborhood, this property offers great potential.",2024-01-01,For Sale,condominiums
+43423930,Edinburg,Texas,78541,765 Castillo Heights Apt. 586,4,1,3036,1984639.76,2000,Recently renovated with modern finishes.,2024-07-07,Sold,condominiums
+52569810,Hayward,California,94543,9980 Becker Square,4,1,3606,2208510.19,1970,A beautiful home with stunning views.,2024-01-27,Off Market,single houses
+73416542,Moran,Kansas,66755,1653 Allen Tunnel,2,3,1546,3556007.16,1950,Recently renovated with modern finishes.,2023-09-24,Sold,townhouses
+36324139,Cincinnati,Ohio,45236,89887 Warren Drive Apt. 302,5,1,515,1999033.75,2001,Perfect for first-time buyers or investors.,2024-03-08,For Sale,apartments
+23680103,Wallagrass,Maine,4781,303 Katherine Park,5,2,4545,1943981.18,1988,Spacious property with a large backyard.,2023-10-08,For Sale,villas
+24052140,Staunton,Indiana,47881,484 Henderson Shoal Suite 575,2,3,2963,346948.91,1948,Recently renovated with modern finishes.,2024-04-16,Under Contract,villas
+78041473,Jerome,Pennsylvania,15937,8337 Wendy Bypass,1,1,2279,3282852.63,1981,"Located in a quiet neighborhood, this property offers great potential.",2023-12-03,Off Market,townhouses
+38412846,Matador,Texas,79244,5262 Alyssa Via Suite 376,5,1,2150,1476794.91,1919,Close to schools and shopping centers.,2024-03-18,Pending,single houses
+64538742,East Prospect,Pennsylvania,17317,69028 Ballard Forks,1,1,707,805815.37,1908,"Located in a quiet neighborhood, this property offers great potential.",2023-09-19,Under Contract,condominiums
+94608059,Sacramento,California,95894,733 Roger Flat,5,2,4893,1591281.91,1975,A beautiful home with stunning views.,2024-02-13,Pending,townhouses
+40753443,Miller City,Illinois,62962,192 Ball Village Apt. 278,3,2,4676,3009178.66,1999,Spacious property with a large backyard.,2024-07-09,Off Market,single houses
+18079094,Heber City,Utah,84032,06038 David Forge Apt. 138,1,3,4816,3575107.51,1924,Recently renovated with modern finishes.,2023-08-08,Under Contract,apartments
+41689985,Arbovale,West Virginia,24915,409 Barnett Burgs Suite 522,1,3,902,4977596.91,1915,Perfect for first-time buyers or investors.,2023-10-16,Off Market,apartments
+49469073,Huntington,West Virginia,25774,73251 Steve Estates Suite 131,1,1,1065,1977356.5,1918,Spacious property with a large backyard.,2024-05-27,Off Market,single houses
+85466555,Rochester,New York,14611,159 Thornton Mountains,5,3,2796,3944917.86,1943,"Located in a quiet neighborhood, this property offers great potential.",2023-10-01,Under Contract,apartments
+55343180,Argyle,Minnesota,56713,142 John Drive Apt. 699,3,1,2639,2072420.01,1955,Close to schools and shopping centers.,2023-12-13,For Sale,condominiums
+24294267,Rochester,New York,14643,0616 Larry Street Apt. 776,2,2,3920,1535674.4,1973,A beautiful home with stunning views.,2024-05-01,Under Contract,apartments
+87646916,Raphine,Virginia,24472,387 Dustin Gardens Apt. 294,5,2,4123,4160656.83,2006,Close to schools and shopping centers.,2023-11-06,Under Contract,apartments
+95680230,Slate Hill,New York,10973,6686 Brown Road,2,3,1773,2124535.37,1958,A beautiful home with stunning views.,2024-01-24,Sold,villas
+66884430,Murray,Kentucky,42071,3647 Olson Dam Apt. 432,3,1,879,4980192.72,1948,"Located in a quiet neighborhood, this property offers great potential.",2023-08-05,Pending,single houses
+23748361,Ann Arbor,Michigan,48103,88734 Robinson Crossing Suite 250,5,3,3913,4951734.31,2020,Recently renovated with modern finishes.,2024-05-04,Pending,single houses
+55529190,Sarasota,Florida,34243,872 Samuel Villages,5,3,2308,2496570.33,1970,Close to schools and shopping centers.,2024-07-26,For Sale,townhouses
+13509677,Montgomery,Alabama,36141,452 Kenneth Shoals Suite 441,4,3,3576,3390655.27,1910,Recently renovated with modern finishes.,2024-07-24,Off Market,single houses
+85222129,Capac,Michigan,48014,68156 York Crossing,3,2,4363,1754675.59,1913,Close to schools and shopping centers.,2023-08-24,Off Market,townhouses
+42619624,Claridge,Pennsylvania,15623,16298 Michael Squares,3,1,4258,699051.15,2023,Close to schools and shopping centers.,2023-11-27,Sold,apartments
+80606948,Drewsville,New Hampshire,3604,56242 Johnson Trail Apt. 786,4,3,3663,3511507.25,2008,Perfect for first-time buyers or investors.,2023-11-22,For Sale,townhouses
+32559968,Morgantown,West Virginia,26501,6783 Maria Shores,5,2,3572,4225922.81,1971,Close to schools and shopping centers.,2024-03-25,Sold,single houses
+48654753,Tampa,Florida,33685,0882 Richmond Turnpike Suite 601,1,1,4000,4039817.31,1991,Perfect for first-time buyers or investors.,2024-02-14,Off Market,condominiums
+52418293,Conehatta,Mississippi,39057,56487 Sarah Shore,5,1,4784,1359682.34,1918,Close to schools and shopping centers.,2024-01-19,For Sale,villas
+13761737,Gardena,California,90247,47539 Sean Prairie,3,1,3552,427206.73,1989,"Located in a quiet neighborhood, this property offers great potential.",2024-06-04,Pending,condominiums
+10589656,Somerset,Texas,78069,439 Yu Light,1,1,4738,1558663.12,1923,Close to schools and shopping centers.,2024-07-23,Pending,apartments
+88127536,APO AE,,9047,3418 Cox Gateway,5,2,3947,2568351.98,1905,"Located in a quiet neighborhood, this property offers great potential.",2024-03-29,Sold,single houses
+93763527,Walnut Cove,North Carolina,27052,233 Eduardo Oval,5,3,1071,2058851.02,1939,Recently renovated with modern finishes.,2023-08-20,Pending,condominiums
+77616809,Mount Vernon,Virginia,22121,052 Oliver Place,4,2,3643,4096358.74,1935,Spacious property with a large backyard.,2023-08-13,Off Market,apartments
+23463917,Sterling Heights,Michigan,48312,43305 Ricky Squares,2,2,2327,4753192.23,1983,"Located in a quiet neighborhood, this property offers great potential.",2023-09-11,Under Contract,single houses
+46950776,Potomac,Maryland,20859,042 Sullivan View,4,2,1084,2004140.95,1930,Spacious property with a large backyard.,2024-07-22,Sold,villas
+84434885,Meadow Grove,Nebraska,68752,23235 Travis Points,1,3,3347,2908719.43,2018,A beautiful home with stunning views.,2024-01-09,Under Contract,single houses
+27045585,Dorchester Center,Massachusetts,2124,160 Kenneth Row Suite 825,2,1,2420,1851933.51,1996,Recently renovated with modern finishes.,2023-12-19,Pending,townhouses
+15491512,Little Chute,Wisconsin,54140,795 Lisa Parkway,3,2,868,3645309.37,2021,Perfect for first-time buyers or investors.,2024-01-01,Pending,single houses
+99012419,Jesup,Georgia,31545,981 Garcia Walk Suite 609,5,3,3730,668178.1,1968,Close to schools and shopping centers.,2023-09-25,For Sale,condominiums
+84357555,Arlington,Virginia,22210,6101 Ronald Ports Suite 416,4,2,1603,2357669.47,1919,Close to schools and shopping centers.,2023-11-16,For Sale,condominiums
+68484004,Paradise Valley,Nevada,89426,72454 Davis Springs,3,2,4915,1863802.87,1934,"Located in a quiet neighborhood, this property offers great potential.",2024-02-28,Pending,townhouses
+56156651,Madison,Mississippi,39130,469 David Street,4,2,2162,128442.71,1927,A beautiful home with stunning views.,2024-05-25,Sold,townhouses
+16192397,Boise,Idaho,83756,5202 Jessica Spur,4,2,2562,4257536.78,1941,Spacious property with a large backyard.,2024-04-25,Pending,condominiums
+41084835,Otho,Iowa,50569,115 Austin Lakes Apt. 283,2,1,4075,2080278.18,1981,Recently renovated with modern finishes.,2023-09-30,Pending,apartments
+73134874,Mars Hill,North Carolina,28754,605 Gutierrez Stravenue,4,3,2393,4893294.13,1934,Spacious property with a large backyard.,2023-10-11,Under Contract,apartments
+71460749,Cheneyville,Louisiana,71325,4499 Jones Bypass,3,3,4287,596961.51,1908,A beautiful home with stunning views.,2023-09-01,Under Contract,villas
+87959690,Sumner,Washington,98390,18932 Fitzgerald Shores Apt. 734,4,2,4563,3240644.07,2011,A beautiful home with stunning views.,2023-10-15,Pending,townhouses
+56220409,Washington,District of Columbia,20074,270 David Course,1,2,1355,4618080.39,1998,"Located in a quiet neighborhood, this property offers great potential.",2024-03-05,Sold,apartments
+87448730,Harrisonburg,Louisiana,71340,35250 Tamara Branch Suite 356,4,2,2846,4712113.65,1941,Spacious property with a large backyard.,2023-11-23,Sold,condominiums
+63779262,Ojo Feliz,New Mexico,87735,37953 Bailey Flat,2,1,731,1146670.45,1927,"Located in a quiet neighborhood, this property offers great potential.",2023-11-24,Under Contract,apartments
+54224445,Wilsons Mills,North Carolina,27593,40418 John Mountain Suite 476,5,3,891,2934508.58,2006,A beautiful home with stunning views.,2024-05-17,For Sale,apartments
+46710661,Perry,Michigan,48872,33657 Hughes Lodge,1,1,4467,554446.92,2001,Recently renovated with modern finishes.,2023-10-24,Under Contract,single houses
+26617071,Bartlesville,Oklahoma,74003,5399 Thomas Course,1,2,3724,165543.95,1996,"Located in a quiet neighborhood, this property offers great potential.",2024-03-20,Sold,condominiums
+42696145,Dolomite,Alabama,35061,318 Combs Glens,5,3,2516,1508755.26,2016,Perfect for first-time buyers or investors.,2024-07-05,For Sale,single houses
+51084406,Robbins,California,95676,9260 Garrett Parks,1,3,4482,3760141.04,1957,Spacious property with a large backyard.,2023-08-15,For Sale,condominiums
+88706926,Carolina,West Virginia,26563,83085 Jennifer Keys Suite 765,4,2,1547,3608757.41,1963,Perfect for first-time buyers or investors.,2024-05-20,Pending,townhouses
+18181493,River Forest,Illinois,60305,797 Patricia Cove,1,2,1347,2743116.25,1924,Perfect for first-time buyers or investors.,2024-06-28,Under Contract,apartments
+32128502,Sherrills Ford,North Carolina,28673,503 Davis Expressway Apt. 638,5,2,3230,3827601.54,1955,"Located in a quiet neighborhood, this property offers great potential.",2023-12-25,Under Contract,villas
+18409078,Harrisburg,Oregon,97446,5271 Reed Stream,1,3,620,1113395.51,1925,Recently renovated with modern finishes.,2024-02-19,Pending,apartments
+43786445,Tallulah,Louisiana,71284,8714 Jessica Pine Suite 485,2,3,2864,4472229.08,1937,"Located in a quiet neighborhood, this property offers great potential.",2024-07-01,For Sale,single houses
+34904099,Myrtle Creek,Oregon,97457,07327 Rowe Glens Suite 921,1,1,4926,452168.79,1920,A beautiful home with stunning views.,2024-01-20,For Sale,apartments
+92936270,Winthrop,New York,13697,57015 Martin Route,5,1,4522,3828316.5,1993,Spacious property with a large backyard.,2024-05-11,Pending,townhouses
+48289094,Stone Park,Illinois,60165,52546 Leach Mountains Suite 373,4,3,3945,1826839.76,1973,Recently renovated with modern finishes.,2023-10-12,Sold,single houses
+46218624,Scranton,Pennsylvania,18508,094 Galloway Parkways Apt. 524,1,3,1295,2585907.98,2001,"Located in a quiet neighborhood, this property offers great potential.",2024-07-03,Off Market,townhouses
+47041021,Beach City,Ohio,44608,894 Hanson Circles,1,3,1529,617456.43,1968,"Located in a quiet neighborhood, this property offers great potential.",2023-12-24,Pending,single houses
+59004945,Stamford,Connecticut,6911,764 Lauren Pike,1,1,901,139216.41,1960,Perfect for first-time buyers or investors.,2024-04-18,For Sale,apartments
+69330854,Waltham,Massachusetts,2451,9467 Hamilton Overpass Apt. 429,4,1,1223,2062776.45,1921,Close to schools and shopping centers.,2024-07-01,Pending,apartments
+59386938,Duluth,Minnesota,55802,29858 Jennifer Bypass,3,3,1616,1129523.6,1952,Spacious property with a large backyard.,2023-12-16,For Sale,townhouses
+22260670,Salyer,California,95563,0574 Elizabeth Plains,1,3,3818,3070104.42,1951,Recently renovated with modern finishes.,2024-07-31,Off Market,condominiums
+43056737,Fairbanks,Alaska,99707,79628 Ricardo Glens Suite 604,2,1,939,3516003.17,1924,A beautiful home with stunning views.,2024-04-13,Sold,apartments
+47596322,Ewing,Illinois,62836,3382 Robertson Union,1,3,1581,3907886.99,2010,Spacious property with a large backyard.,2024-02-18,Pending,condominiums
+77766122,Seattle,Washington,98166,8101 Jamie Prairie Suite 681,1,2,1255,2702559.92,1940,Spacious property with a large backyard.,2024-02-22,Under Contract,condominiums
+65518525,Elizabeth,Minnesota,56533,5985 Erica Summit Suite 226,3,3,1480,304181.3,1970,Recently renovated with modern finishes.,2024-07-11,Sold,single houses
+66482797,Oshkosh,Wisconsin,54902,247 Freeman Ranch Apt. 488,1,3,2074,645636.42,1997,A beautiful home with stunning views.,2023-08-22,Off Market,apartments
+55937104,Willard,Missouri,65781,25131 Mark Throughway Apt. 787,3,3,2114,4705261.44,1941,A beautiful home with stunning views.,2024-01-12,Off Market,condominiums
+10575640,Mount Solon,Virginia,22843,3939 Ibarra Cliffs Suite 123,1,1,950,3875384.03,1919,"Located in a quiet neighborhood, this property offers great potential.",2023-09-07,Sold,villas
+90124815,Ferndale,New York,12734,0714 Francis Hollow Apt. 311,3,2,2022,3940004.55,1970,Close to schools and shopping centers.,2024-03-11,Pending,townhouses
+28468261,Mount Gilead,Ohio,43338,7015 Shepherd Stravenue,2,1,1661,1178877.11,1980,"Located in a quiet neighborhood, this property offers great potential.",2024-01-13,For Sale,townhouses
+35217863,Haydenville,Massachusetts,1039,90189 Marcia Squares,4,1,4112,4061264.14,1992,Recently renovated with modern finishes.,2024-07-29,Sold,single houses
+42857238,Huntington,West Virginia,25713,844 Gonzalez Ridges Suite 270,4,2,4526,2541195.18,1938,Spacious property with a large backyard.,2023-09-06,Pending,townhouses
+43381386,Napa,California,94558,4203 Duran Union,3,2,2961,1852560.68,1910,Recently renovated with modern finishes.,2024-05-12,Sold,apartments
+25467752,Johnson,Vermont,5656,543 Joseph Pines Suite 192,1,3,4925,2125887.21,1940,Close to schools and shopping centers.,2024-03-17,Off Market,townhouses
+36532113,Elderton,Pennsylvania,15736,409 Chavez Gateway,4,1,3782,2703386.68,1991,Close to schools and shopping centers.,2024-05-18,Off Market,townhouses
+17857263,Rio Medina,Texas,78066,14789 Christine Neck,3,3,1651,177181.06,2012,"Located in a quiet neighborhood, this property offers great potential.",2023-11-30,For Sale,condominiums
+88938119,Bridgeport,Illinois,62417,501 Obrien Passage Suite 689,2,1,3689,773333.34,1999,"Located in a quiet neighborhood, this property offers great potential.",2023-12-13,Pending,apartments
+11738957,Andale,Kansas,67001,39782 Abigail Courts,3,3,3908,1342816.53,1919,A beautiful home with stunning views.,2023-08-10,For Sale,townhouses
+18891810,Marlin,Washington,98832,83966 John Mount,4,2,1582,4961899.23,1983,"Located in a quiet neighborhood, this property offers great potential.",2023-10-30,Off Market,condominiums
+13238112,Beecher Falls,Vermont,5902,14212 Bruce Turnpike,4,3,1419,3326065.27,1936,Spacious property with a large backyard.,2023-11-24,Off Market,condominiums
+58710724,Waterloo,Wisconsin,53594,261 White Vista,3,3,3189,2561488.15,2006,Recently renovated with modern finishes.,2024-01-21,Under Contract,villas
+55029358,Merrifield,Virginia,22116,8406 Mccoy Spurs,3,2,3673,4480625.3,2011,Recently renovated with modern finishes.,2024-02-13,For Sale,villas
+21226303,Butler,Indiana,46721,2369 Paul Highway,3,3,4350,4006374.9,1976,Close to schools and shopping centers.,2023-08-19,Sold,apartments
+82825010,Gainesville,Florida,32602,6794 Brandon Points Suite 487,4,1,991,4674497.91,2016,Recently renovated with modern finishes.,2023-10-02,Pending,villas
+48670598,Shreveport,Louisiana,71152,546 Brown Inlet Suite 931,3,1,1253,2354677.98,1961,Recently renovated with modern finishes.,2024-04-11,Under Contract,townhouses
+21017959,Houston,Texas,77041,872 Carson Divide Apt. 812,1,1,3390,2675748.37,2004,Spacious property with a large backyard.,2023-09-10,Sold,single houses
+19399079,Garland,Texas,75041,9453 Crane Forges Suite 671,1,1,3632,3704744.4,1975,Spacious property with a large backyard.,2024-01-14,Sold,townhouses
+71371393,Canterbury,New Hampshire,3224,540 Daniels Way Apt. 864,3,3,4614,3270667.37,1916,Close to schools and shopping centers.,2024-04-01,For Sale,single houses
+56345911,Snow Hill,Maryland,21863,473 Emily Extensions Suite 030,3,1,3868,2404408.19,2013,Close to schools and shopping centers.,2024-07-19,Sold,single houses
+17408432,Staten Island,New York,10311,5460 Eric Ways,2,2,3330,2208285.55,2007,Close to schools and shopping centers.,2024-04-22,Under Contract,single houses
+69766952,North Carrollton,Mississippi,38947,70700 Sean Shore Apt. 643,5,3,3589,581479.33,1943,Perfect for first-time buyers or investors.,2024-05-11,Under Contract,townhouses
+94509743,Dallas,Georgia,30157,90768 Neal Greens Apt. 674,4,2,4378,3252152.19,2001,Close to schools and shopping centers.,2024-03-30,Under Contract,condominiums
+33351038,Smithville,Indiana,47458,70238 Hayden Camp Suite 421,4,2,3687,866258.61,2009,Recently renovated with modern finishes.,2023-11-28,Sold,single houses
+38367249,Aurora,Colorado,80044,1118 Denise Well,3,1,1253,2893751.99,1977,Recently renovated with modern finishes.,2023-09-21,Sold,apartments
+65585853,APO AE,,9447,915 Tony Ports,5,1,613,1749053.96,1911,Spacious property with a large backyard.,2023-12-12,For Sale,single houses
+57502988,Norris,Illinois,61553,347 Donaldson Creek Suite 957,4,2,1903,3106001.35,2019,A beautiful home with stunning views.,2024-03-19,Under Contract,single houses
+92152444,Washington,District of Columbia,20429,3905 Gordon Ports Suite 805,5,3,1376,4743291.15,1928,"Located in a quiet neighborhood, this property offers great potential.",2023-08-25,Pending,villas
+65167348,Stamford,Connecticut,6912,3348 Mercado Knolls,1,3,2255,571011.29,1952,Recently renovated with modern finishes.,2024-02-29,For Sale,villas
+14016695,Wilsonville,Illinois,62093,444 Joseph Fall Suite 461,2,1,4306,750806.13,1940,Recently renovated with modern finishes.,2024-06-07,For Sale,single houses
+92876545,Switchback,West Virginia,24887,88570 Alexa Course Apt. 627,1,3,4508,1469001.08,2003,A beautiful home with stunning views.,2024-07-16,For Sale,villas
+56925252,Catlett,Virginia,20119,10086 Judith Throughway Suite 982,3,2,4289,2984385.93,2012,"Located in a quiet neighborhood, this property offers great potential.",2024-03-18,Sold,villas
+90484769,Mc Lean,Virginia,22109,84076 Lopez Manor,1,3,1123,2528884.29,2002,Perfect for first-time buyers or investors.,2024-04-29,For Sale,villas
+47799095,Hawk Springs,Wyoming,82217,587 Jill Vista,1,1,1305,989114.15,2007,A beautiful home with stunning views.,2024-05-07,Sold,townhouses
+74772582,Friendly,West Virginia,26146,50976 Long Extensions,3,3,3622,2789964.98,1951,A beautiful home with stunning views.,2024-02-01,Pending,townhouses
+33541408,Santa Maria,California,93454,14379 Gould Terrace,2,3,2016,808920.81,1916,Perfect for first-time buyers or investors.,2023-10-18,Pending,apartments
+28823352,Annville,Pennsylvania,17003,3603 Duncan Plains Suite 839,3,3,1500,3710746.7,1967,Perfect for first-time buyers or investors.,2023-10-05,Off Market,condominiums
+81915561,Lincoln,Nebraska,68517,255 Bennett Tunnel,3,3,4807,80104.93,1918,Spacious property with a large backyard.,2024-06-19,Off Market,apartments
+66387269,Frankewing,Tennessee,38459,2074 Knapp Mill,2,2,1857,890170.17,1932,Perfect for first-time buyers or investors.,2024-02-16,Pending,townhouses
+29000589,Winchester Center,Connecticut,6094,934 Taylor Mission Suite 284,4,2,1003,1477340.52,1910,Perfect for first-time buyers or investors.,2024-02-04,Off Market,single houses
+81113140,Los Angeles,California,90004,27432 Edwin River Apt. 049,4,2,966,2100376.35,2013,Recently renovated with modern finishes.,2024-05-19,Sold,single houses
+47062856,East Pittsburgh,Pennsylvania,15112,70082 Ryan Club Apt. 954,5,2,3904,1350196.16,1998,Recently renovated with modern finishes.,2023-10-01,Off Market,apartments
+56765490,Everett,Washington,98206,028 Gregory Square Apt. 330,1,1,4605,3819143.83,1991,"Located in a quiet neighborhood, this property offers great potential.",2023-10-21,Sold,villas
+33533414,Falcon,Mississippi,38628,96694 Dorothy Station,5,1,2407,305433.17,1902,Perfect for first-time buyers or investors.,2023-12-08,Off Market,condominiums
+56142189,Denver,Colorado,80227,477 Mario Forges Apt. 155,4,2,1768,4623307.31,1920,Recently renovated with modern finishes.,2024-05-18,Pending,townhouses
+35662846,Boston,Massachusetts,2222,726 Sean Ridges,2,3,4101,340649.11,1913,Perfect for first-time buyers or investors.,2024-02-11,For Sale,villas
+69982450,Thompsons,Texas,77481,8001 Leslie Ports,3,1,2446,4373317.84,2011,A beautiful home with stunning views.,2024-06-02,Pending,condominiums
+17095147,South Dennis,New Jersey,8245,548 Bailey Groves,2,3,1536,4180248.94,1960,Recently renovated with modern finishes.,2023-12-11,Off Market,villas
+56386821,Saint Paul,Minnesota,55116,695 Bruce Street Apt. 042,4,1,3673,1712485.31,2014,Spacious property with a large backyard.,2023-08-21,For Sale,single houses
+13934402,Village,Virginia,22570,04223 Bryan Brook,4,3,3950,4058597.46,1968,Spacious property with a large backyard.,2024-05-14,Off Market,condominiums
+79626359,Tuscarora,Maryland,21790,642 Michelle Cliff Apt. 452,3,1,2521,4194941.08,1974,Close to schools and shopping centers.,2024-06-06,Sold,apartments
+82322026,San Miguel,New Mexico,88058,27490 Ryan Cove,5,2,4710,4968249.32,1909,"Located in a quiet neighborhood, this property offers great potential.",2024-05-18,Under Contract,condominiums
+36385225,East Chicago,Indiana,46312,842 Anderson Stream,2,3,3335,3788208.6,1936,Recently renovated with modern finishes.,2024-04-07,Off Market,villas
+37643862,Casar,North Carolina,28020,5630 Kathryn Harbor Apt. 124,2,2,4918,793360.61,1918,Spacious property with a large backyard.,2024-04-11,Off Market,single houses
+58576193,Lexington,North Carolina,27292,6433 Thomas Park,1,2,4920,406159.28,1918,Close to schools and shopping centers.,2024-01-18,For Sale,condominiums
+14077144,Alva,Wyoming,82711,36692 Lam Points Suite 692,1,2,3642,4822011.4,1985,Spacious property with a large backyard.,2024-06-04,Pending,apartments
+71501607,Lynch,Nebraska,68746,0728 Pierce Grove,2,3,2942,4733354.5,2020,"Located in a quiet neighborhood, this property offers great potential.",2023-09-24,Pending,condominiums
+68787541,Brandon,Texas,76628,827 Adam Squares,1,2,2975,1824799.59,2022,Spacious property with a large backyard.,2023-09-22,Pending,condominiums
+92433496,Pipestem,West Virginia,25979,326 White Inlet Suite 260,3,1,2181,356950.32,1940,Perfect for first-time buyers or investors.,2024-01-14,For Sale,villas
+76206662,Badger,California,93603,944 Simpson Mount,1,2,786,3218640.67,1931,Recently renovated with modern finishes.,2023-08-18,Off Market,villas
+30400764,Kansas City,Missouri,64117,9148 Joseph Parkway Suite 636,4,2,4639,3841679.8,1966,Perfect for first-time buyers or investors.,2024-05-22,For Sale,apartments
+34461041,Mccomb,Mississippi,39649,95557 Albert Pike Suite 246,4,2,536,3701235.29,1953,Recently renovated with modern finishes.,2023-08-05,For Sale,condominiums
+30963541,Albion,Idaho,83311,07909 Adam Flats,1,3,2309,573007.76,1955,A beautiful home with stunning views.,2024-02-15,Sold,condominiums
+92500455,Epping,New Hampshire,3042,64215 White Streets,4,3,3892,87992.19,1985,Close to schools and shopping centers.,2023-09-20,Sold,villas
+21434964,Hustisford,Wisconsin,53034,0713 English Drive,3,2,1364,1996219.87,1978,Close to schools and shopping centers.,2024-05-06,Pending,townhouses
+35083334,Wurtsboro,New York,12790,516 Seth Manors,2,1,2561,3390891.16,1961,A beautiful home with stunning views.,2023-10-05,Under Contract,townhouses
+49578078,Des Moines,Iowa,50308,76757 Meyers Trail,2,1,1488,3069613.93,2016,Perfect for first-time buyers or investors.,2023-09-20,Pending,single houses
+97208204,Houston,Texas,77003,848 Thompson Land Apt. 638,2,3,1149,2195253.06,2005,Spacious property with a large backyard.,2023-09-28,Under Contract,townhouses
+60311184,Osakis,Minnesota,56360,653 Sims Crossroad,4,1,4318,1728613.11,1931,Spacious property with a large backyard.,2023-12-12,Sold,townhouses
+35839595,Totowa,New Jersey,7511,4870 Williams Knoll,4,1,616,1239674.63,1909,"Located in a quiet neighborhood, this property offers great potential.",2024-06-17,For Sale,single houses
+70048568,Afton,Virginia,22920,2553 Sharon Drives Apt. 559,4,2,4897,3108385.01,1964,Close to schools and shopping centers.,2023-08-27,Off Market,villas
+12112572,Billings,Montana,59111,67106 Kelli Squares,2,2,3877,1696391.9,1919,Spacious property with a large backyard.,2024-02-24,Sold,villas
+12592713,Egeland,North Dakota,58331,51970 Anderson Shoal Suite 955,5,3,2544,1339615.01,1926,Spacious property with a large backyard.,2024-07-11,Off Market,single houses
+28397994,Perry,Kansas,66073,7573 Oliver Greens Suite 789,4,1,3310,3150323.4,1979,Spacious property with a large backyard.,2023-09-27,For Sale,single houses
+52770423,Anniston,Alabama,36204,53576 Linda Summit Apt. 475,3,2,2180,872014.53,1965,Perfect for first-time buyers or investors.,2024-02-08,Under Contract,condominiums
+64063879,Morris,Illinois,60450,806 Keith Loaf,4,2,2095,2794244.32,1930,Close to schools and shopping centers.,2023-12-26,Under Contract,townhouses
+29704802,Poynette,Wisconsin,53955,244 Brandon Harbor Suite 641,2,3,2215,4601908.68,1942,Perfect for first-time buyers or investors.,2024-02-01,Under Contract,townhouses
+73331015,Carlos,Minnesota,56319,2328 Stacey Highway Apt. 277,5,3,2930,2556590.88,1996,Recently renovated with modern finishes.,2024-03-07,Under Contract,villas
+83762487,River Rouge,Michigan,48218,078 Martinez Glens,5,1,1958,4252432.67,1945,A beautiful home with stunning views.,2024-01-07,For Sale,townhouses
+88670253,Santa Clarita,California,91390,8536 Graham Bridge Apt. 332,5,2,862,2544778.72,1988,A beautiful home with stunning views.,2023-09-12,Off Market,villas
+26313322,Cumberland Gap,Tennessee,37724,75720 Johnson Ridges Apt. 948,2,1,2837,3684016.88,1994,Close to schools and shopping centers.,2024-05-02,Sold,single houses
+48907445,Washington Mills,New York,13479,8387 Kyle Knolls Apt. 026,1,2,3202,2405720.65,1941,Recently renovated with modern finishes.,2023-09-21,For Sale,single houses
+17492466,Central City,Colorado,80427,94818 Haley Shore Apt. 723,5,1,1659,1981911.04,2020,Recently renovated with modern finishes.,2024-01-25,Sold,condominiums
+88124757,Kennebunkport,Maine,4046,868 Wiley Village Suite 088,5,3,2995,2606722.42,1919,Spacious property with a large backyard.,2023-08-06,Pending,townhouses
+40429456,Vanlue,Ohio,45890,730 Jenny Flats Suite 769,3,3,1765,119126.01,1993,"Located in a quiet neighborhood, this property offers great potential.",2023-12-09,Sold,townhouses
+23809556,Buckman,Minnesota,56317,700 Jones Ranch Apt. 462,2,3,1801,2808056.94,1949,"Located in a quiet neighborhood, this property offers great potential.",2024-03-24,Pending,condominiums
+44906035,Mission,Kansas,66222,612 Lopez Wells Suite 986,1,2,2804,477748.59,1927,Perfect for first-time buyers or investors.,2024-07-10,Under Contract,single houses
+61683458,Holly Hill,South Carolina,29059,685 Johnson Via,3,3,1953,2184142.98,2017,Close to schools and shopping centers.,2024-04-18,For Sale,townhouses
+69479322,Kailua Kona,Hawaii,96745,032 Daniel Islands Apt. 445,1,3,4679,1220688.2,1917,Recently renovated with modern finishes.,2023-12-27,For Sale,single houses
+39005490,Clendenin,West Virginia,25045,3470 Lee Brook,5,1,3868,4281363.95,1912,Recently renovated with modern finishes.,2024-07-06,Under Contract,townhouses
+95932369,Arcadia,Oklahoma,73007,926 Murphy Knoll Suite 329,4,1,1690,2108662.0,1953,Recently renovated with modern finishes.,2024-04-24,Under Contract,condominiums
+73128783,Sebec,Maine,4481,89793 Stacy Forge Suite 953,3,3,1275,1722737.34,1942,Perfect for first-time buyers or investors.,2024-03-03,Off Market,villas
+53444766,San Diego,California,92193,395 Ronald Mill Apt. 205,2,2,1186,1671699.65,1995,Recently renovated with modern finishes.,2023-11-10,Under Contract,villas
+14720258,Wilcoe,West Virginia,24895,07506 Gloria Shore Apt. 917,5,1,2134,4010807.72,1902,Perfect for first-time buyers or investors.,2024-06-13,Off Market,single houses
+26038639,Las Vegas,Nevada,89139,59309 Timothy Island Apt. 707,2,1,4713,2558983.47,1997,Spacious property with a large backyard.,2023-08-18,For Sale,apartments
+40144702,Perkins,Georgia,30822,09988 Allison Oval,4,3,3820,1560404.52,1995,Recently renovated with modern finishes.,2023-10-01,Off Market,single houses
+85641083,Walterville,Oregon,97489,065 Christina Shore Apt. 324,2,3,4969,1528208.83,2011,Spacious property with a large backyard.,2024-07-03,For Sale,single houses
+61395056,Redway,California,95560,3214 Sandra Corners,1,1,3793,3890886.54,2021,A beautiful home with stunning views.,2024-05-30,Pending,villas
+45488672,Sylvania,Alabama,35988,1638 Ruiz Prairie,4,2,3528,3547872.31,2017,Close to schools and shopping centers.,2023-09-07,For Sale,apartments
+67827681,Pickens,Oklahoma,74752,2255 Small Street Apt. 238,1,2,2258,4784354.43,1922,Spacious property with a large backyard.,2024-07-03,For Sale,apartments
+73168787,Oklahoma City,Oklahoma,73157,141 Megan Harbors,2,1,4466,2685453.25,1926,"Located in a quiet neighborhood, this property offers great potential.",2024-02-26,Sold,townhouses
+56885443,Knoxville,Alabama,35469,22834 Oneal Wall Apt. 651,5,1,4914,3072024.89,1934,"Located in a quiet neighborhood, this property offers great potential.",2024-05-02,Under Contract,townhouses
+88626799,Deer Isle,Maine,4627,37284 Melanie Forge Apt. 758,4,2,4033,3076314.16,2007,Recently renovated with modern finishes.,2024-06-07,Off Market,apartments
+37377261,Morton,Illinois,61550,6680 Walker Ferry,3,3,1087,4058965.21,1929,"Located in a quiet neighborhood, this property offers great potential.",2023-12-11,For Sale,townhouses
+62341149,Good Hart,Michigan,49737,5727 Boone Trace Suite 278,1,2,1567,3103724.4,1900,"Located in a quiet neighborhood, this property offers great potential.",2023-11-27,For Sale,condominiums
+37725537,Newark,New Jersey,7108,35042 Morgan Fort Apt. 410,2,1,1047,1914046.93,1948,A beautiful home with stunning views.,2024-07-02,Pending,apartments
+26791835,La Moille,Illinois,61330,9126 Lane Place,2,2,2847,3868930.49,1914,A beautiful home with stunning views.,2024-03-22,Sold,single houses
+79455991,Omega,Oklahoma,73764,6583 Donna Lake,1,3,618,825613.82,1979,Recently renovated with modern finishes.,2024-04-22,Sold,villas
+65422177,Mirror Lake,New Hampshire,3853,3581 Anderson Court Apt. 792,3,1,3422,3542042.42,1994,"Located in a quiet neighborhood, this property offers great potential.",2023-12-02,Sold,single houses
+27228785,Farmington,Connecticut,6034,40611 Quinn Crescent Apt. 345,5,2,3812,1505656.35,1940,Close to schools and shopping centers.,2023-08-21,Off Market,villas
+40461828,Vernon,Texas,76384,047 Li Ville,3,1,1951,3375748.28,2000,Close to schools and shopping centers.,2024-06-12,For Sale,single houses
+42327658,Belleville,Illinois,62222,97956 Scott Spur Suite 771,1,2,4205,3346643.63,1931,Perfect for first-time buyers or investors.,2024-06-15,Pending,apartments
+35909037,Mapleton,Maine,4757,40303 Sims Lake Suite 718,3,2,4550,2586631.62,1925,Perfect for first-time buyers or investors.,2023-11-27,Off Market,townhouses
+82723904,Bridgeport,New York,13030,8569 Huber Village,1,2,3450,3787178.67,1921,Recently renovated with modern finishes.,2024-06-24,For Sale,townhouses
+49257421,Fort Belvoir,Virginia,22060,58835 Holmes Brook Suite 502,4,2,4775,3227267.84,2018,Close to schools and shopping centers.,2023-11-21,Under Contract,single houses
+67452551,Washington,District of Columbia,20527,628 Crystal Valleys,2,3,4872,3550201.57,1976,Recently renovated with modern finishes.,2024-02-15,For Sale,townhouses
+57779727,Pahrump,Nevada,89061,1187 Saunders Tunnel,2,1,3308,2603986.28,1917,Recently renovated with modern finishes.,2024-01-31,Sold,townhouses
+98487841,Charlotte,North Carolina,28255,218 Melissa Dale,3,2,4033,682470.16,1995,A beautiful home with stunning views.,2024-01-23,For Sale,townhouses
+38259732,Franktown,Virginia,23354,1849 Derek Fork Apt. 034,1,2,1324,3774588.6,2013,A beautiful home with stunning views.,2023-08-25,Sold,condominiums
+28422636,Mayslick,Kentucky,41055,481 Porter Wells,5,3,830,2633464.6,1900,Perfect for first-time buyers or investors.,2024-04-30,Under Contract,single houses
+51579669,Billings,Missouri,65610,1304 Barry Highway,1,1,4755,1686395.8,2020,Spacious property with a large backyard.,2023-08-26,Sold,single houses
+71106350,Oneill,Nebraska,68763,951 Blackwell Forge Suite 723,1,2,1698,896761.5,1910,Spacious property with a large backyard.,2023-11-30,Pending,apartments
+91500479,Berea,West Virginia,26327,6102 Garcia Isle,5,1,4894,3944975.59,1918,Recently renovated with modern finishes.,2023-08-08,Off Market,townhouses
+16568563,Lobeco,South Carolina,29931,40780 Mills Estate Suite 384,3,2,1872,2540570.57,1965,A beautiful home with stunning views.,2023-11-09,Off Market,apartments
+14827181,Rochester,New York,14608,405 Todd Creek Suite 245,1,2,3730,2192450.63,1934,A beautiful home with stunning views.,2023-09-09,Under Contract,villas
+24739702,Las Vegas,Nevada,89161,853 Benjamin Crest Suite 058,5,2,2232,1525708.51,1966,"Located in a quiet neighborhood, this property offers great potential.",2023-09-03,Off Market,villas
+94280218,Springfield,Maine,4487,529 Gibbs Plains Apt. 469,1,2,3756,3657045.81,1995,Spacious property with a large backyard.,2024-03-20,For Sale,apartments
+44939707,Bishop Hill,Illinois,61419,98343 York Falls Suite 897,2,2,3523,1415842.31,1910,Close to schools and shopping centers.,2023-10-08,Sold,condominiums
+27565867,Eccles,West Virginia,25836,14775 Michael Stravenue Apt. 092,1,3,4297,3044979.86,1929,"Located in a quiet neighborhood, this property offers great potential.",2024-04-21,Sold,villas
+96200030,Wales,Utah,84667,30664 Joseph Walks Apt. 801,2,1,2206,4044982.57,1904,A beautiful home with stunning views.,2023-12-08,Off Market,single houses
+97035296,Warner Robins,Georgia,31088,9068 Humphrey Circles,1,3,4167,1387767.0,1959,Spacious property with a large backyard.,2023-12-07,Under Contract,townhouses
+18107938,Dundalk,Maryland,21222,16000 Christine Way Apt. 303,4,3,720,3655967.67,1973,A beautiful home with stunning views.,2023-11-30,Under Contract,single houses
+82216418,South Beach,Oregon,97366,37929 Mary Lane,4,3,4109,2565102.33,1942,Spacious property with a large backyard.,2023-09-20,Pending,apartments
+89957369,Wren,Ohio,45899,0241 Jesse Grove,2,1,3372,2605450.68,1930,Perfect for first-time buyers or investors.,2024-03-01,Sold,condominiums
+86411968,Ellisburg,New York,13636,4227 Kevin Loop,1,3,4270,2681794.33,1986,Perfect for first-time buyers or investors.,2024-02-06,For Sale,apartments
+13244747,Detroit,Michigan,48201,222 Barrett Road,3,3,1433,126031.49,1910,Spacious property with a large backyard.,2024-04-27,Sold,apartments
+18313538,Phoenix,Arizona,85063,206 James Mountain Suite 245,1,3,2904,2508721.74,1936,Close to schools and shopping centers.,2023-08-05,Off Market,condominiums
+35432194,Manito,Illinois,61546,730 Andrew Wells Apt. 965,1,3,2725,4189210.3,1943,Perfect for first-time buyers or investors.,2024-02-28,Under Contract,condominiums
+47870582,White River Junction,Vermont,5001,82925 Moore Squares,5,3,4378,4145068.93,1996,Close to schools and shopping centers.,2023-11-26,Pending,apartments
+79692083,Boothbay Harbor,Maine,4538,6029 Ricardo Mountain Suite 136,5,2,4046,857757.02,1967,Recently renovated with modern finishes.,2023-09-08,Under Contract,villas
+57440613,Royal Oak,Michigan,48068,3562 David Cove,3,3,3076,733214.56,1923,Close to schools and shopping centers.,2023-12-11,Pending,apartments
+35589653,Vicksburg,Mississippi,39183,309 Amy Plain,1,3,3307,3559226.47,1994,Spacious property with a large backyard.,2024-01-22,Pending,townhouses
+95207712,Lebeau,Louisiana,71345,73427 Phillips Prairie,1,1,1467,993835.01,1940,Spacious property with a large backyard.,2023-10-02,For Sale,villas
+26280745,Black,Missouri,63625,99165 Brittany Lakes Suite 622,5,2,2171,488471.95,1978,"Located in a quiet neighborhood, this property offers great potential.",2023-11-25,Under Contract,condominiums
+61129793,Rome,Pennsylvania,18837,32036 Tara Center,5,3,844,2232789.81,1981,A beautiful home with stunning views.,2024-05-10,For Sale,condominiums
+52199973,Levittown,Pennsylvania,19057,96386 Steven Viaduct,5,3,4183,1943358.74,1973,Close to schools and shopping centers.,2024-01-09,Pending,villas
+79672501,Santa Maria,California,93457,7377 Hopkins Junctions,3,2,3689,3165091.29,1969,Close to schools and shopping centers.,2024-01-01,Pending,apartments
+97158175,Seattle,Washington,98199,3290 Martin Curve,4,1,2889,1251305.39,1969,Spacious property with a large backyard.,2024-02-10,Under Contract,villas
+65197796,Uriah,Alabama,36480,054 Lane Lane,5,2,4977,3188936.31,1906,A beautiful home with stunning views.,2023-11-25,Pending,villas
+20081780,Arnold Afb,Tennessee,37389,75460 Murphy Square Apt. 201,1,2,2774,3842629.42,1951,Close to schools and shopping centers.,2024-03-16,For Sale,townhouses
+61454277,Washington,Missouri,63090,1604 Vazquez Ville Apt. 444,2,1,3438,4113247.68,1908,Spacious property with a large backyard.,2024-04-04,Pending,condominiums
+22514199,Dobbins,California,95935,27248 Lewis Path,2,2,1020,2010911.09,1944,Close to schools and shopping centers.,2023-12-22,Under Contract,townhouses
+70550428,Carthage,Tennessee,37030,6747 Susan Square,3,1,3883,2676636.93,1920,Close to schools and shopping centers.,2024-05-14,Sold,townhouses
+23243432,Somers Point,New Jersey,8244,9371 Rodriguez Common,2,2,3779,610014.0,2010,Recently renovated with modern finishes.,2023-08-24,Off Market,villas
+70753470,Riverside,California,92513,6457 Bonilla Ramp,4,3,2986,4885080.74,1991,"Located in a quiet neighborhood, this property offers great potential.",2023-11-03,Sold,apartments
+21019190,Pine Ridge,South Dakota,57770,850 Morse Orchard,3,2,3289,2188282.45,1962,Recently renovated with modern finishes.,2023-11-02,Off Market,condominiums
+58289939,Kansas City,Missouri,64155,67185 Ball Course Apt. 385,5,3,3836,2182789.68,1969,Spacious property with a large backyard.,2024-06-29,Under Contract,townhouses
+67563895,Machiasport,Maine,4655,3064 Shannon Junction Apt. 810,5,3,2058,2312787.98,1926,Recently renovated with modern finishes.,2023-10-13,Under Contract,condominiums
+94545077,Cincinnati,Ohio,45209,94062 Collier Drives Apt. 468,4,1,2253,1088853.69,1967,Recently renovated with modern finishes.,2023-11-08,For Sale,villas
+50429883,Halifax,Virginia,24558,734 Rich Street,4,2,4856,3510211.36,1925,Perfect for first-time buyers or investors.,2023-11-17,Pending,apartments
+36912520,Bloomville,Ohio,44818,0874 Mitchell Mills Apt. 846,5,3,3520,1007819.87,1916,Perfect for first-time buyers or investors.,2024-07-21,Off Market,single houses
+60550369,Port Deposit,Maryland,21904,802 Allen Tunnel,2,1,4552,3156126.27,2019,Recently renovated with modern finishes.,2023-08-06,Pending,townhouses
+57156996,La Crosse,Florida,32658,200 Reyes Trace,1,1,4217,880624.28,1973,Spacious property with a large backyard.,2024-01-09,For Sale,single houses
+32461058,Chillicothe,Missouri,64601,12504 Rosario Wells Apt. 145,5,2,1731,3749285.59,1940,Close to schools and shopping centers.,2024-07-09,Off Market,apartments
+31490448,Tekamah,Nebraska,68061,787 Lopez Ramp Apt. 406,5,2,1972,4576266.76,1902,Close to schools and shopping centers.,2024-04-09,Off Market,single houses
+42848263,Daytona Beach,Florida,32125,871 Martinez Extension Apt. 730,3,3,4698,296579.8,1930,"Located in a quiet neighborhood, this property offers great potential.",2024-05-07,Pending,villas
+61226293,Muskegon,Michigan,49444,776 Nathan Hills,4,2,1685,2432457.44,1943,"Located in a quiet neighborhood, this property offers great potential.",2024-01-06,Sold,apartments
+93853173,Dinero,Texas,78350,7585 Emily Overpass Suite 369,5,3,3891,935272.6,2001,Perfect for first-time buyers or investors.,2023-11-27,Pending,villas
+57645376,Fort Lauderdale,Florida,33314,334 Mikayla Shoals,3,2,2240,93728.49,1974,Spacious property with a large backyard.,2024-04-29,Under Contract,townhouses
+60463916,APO AE,,9250,96693 Cross Prairie,5,1,4982,315814.06,1935,Recently renovated with modern finishes.,2023-11-01,Pending,single houses
+88143483,Hugheston,West Virginia,25110,7563 Cruz Locks Apt. 480,4,1,4958,2324016.5,1979,Close to schools and shopping centers.,2024-06-07,Sold,single houses
+70512831,Madison,Wisconsin,53704,0148 Thomas Drive Apt. 947,4,1,1648,2551855.56,1946,"Located in a quiet neighborhood, this property offers great potential.",2023-10-03,Sold,villas
+29503195,Seneca,Illinois,61360,099 Mark Islands,2,1,4371,901751.75,1956,Spacious property with a large backyard.,2024-04-19,For Sale,villas
+49212637,Osage City,Kansas,66523,6923 Jessica Street,5,3,3691,3236193.69,1950,Perfect for first-time buyers or investors.,2024-03-27,For Sale,apartments
+58093695,Davis Wharf,Virginia,23345,3100 Brandon Plaza Apt. 447,3,3,1709,1339402.9,1912,"Located in a quiet neighborhood, this property offers great potential.",2024-01-10,For Sale,apartments
+54472324,Ridgeview,South Dakota,57652,080 Paul Circles Apt. 874,4,2,3113,2527237.76,1923,Close to schools and shopping centers.,2023-11-03,For Sale,condominiums
+41092907,Titusville,Florida,32781,632 Joseph Drives,4,2,1555,530574.55,1921,Close to schools and shopping centers.,2024-03-23,Sold,condominiums
+64704727,Quincy,Illinois,62306,524 Rasmussen Roads,4,2,1041,2805859.52,1976,Perfect for first-time buyers or investors.,2024-02-17,For Sale,condominiums
+74007095,Raleigh,North Carolina,27640,96669 Martin Corners,5,1,3209,570468.35,1976,Recently renovated with modern finishes.,2024-03-06,Pending,single houses
+37195308,APO AE,,9821,3502 Mejia Street,1,2,1632,3727120.42,1993,Perfect for first-time buyers or investors.,2023-10-20,For Sale,condominiums
+12893454,Whigham,Georgia,39897,59190 Mora Squares,4,2,3480,669505.56,2006,Spacious property with a large backyard.,2023-12-26,Under Contract,apartments
+80096366,Richardson,Texas,75082,262 Johnson Fork,4,1,3742,1009520.19,1941,Spacious property with a large backyard.,2024-04-22,Off Market,condominiums
+46878721,Levan,Utah,84639,372 Montoya Trafficway Suite 838,4,1,2140,2690748.94,2009,A beautiful home with stunning views.,2024-04-02,Sold,single houses
+55120820,Eskridge,Kansas,66423,1142 Robert Parks,3,2,986,4045465.86,1971,Spacious property with a large backyard.,2023-11-10,For Sale,single houses
+59997943,Hartford,Connecticut,6134,820 Andrew River,1,3,2167,2418657.59,1946,Spacious property with a large backyard.,2024-02-08,Under Contract,villas
+86623534,Grafton,Nebraska,68365,0748 Davis Turnpike Suite 952,5,1,2516,378553.49,1989,Recently renovated with modern finishes.,2024-02-22,Under Contract,townhouses
+12515208,Colfax,Iowa,50054,9760 Betty River,2,3,2885,2354941.49,1994,Close to schools and shopping centers.,2023-10-21,Pending,single houses
+17416339,Newberry,Florida,32669,930 Aaron Stream,2,3,2644,1494151.39,1934,Perfect for first-time buyers or investors.,2024-04-09,Under Contract,condominiums
+36505120,Latham,Kansas,67072,9035 Willie Wall Suite 741,4,2,4091,2879618.03,1979,Close to schools and shopping centers.,2024-05-01,Pending,single houses
+22188457,Hoyt,Kansas,66440,4568 Debbie Trail,3,2,1026,4628508.09,1954,"Located in a quiet neighborhood, this property offers great potential.",2023-12-04,Off Market,villas
+65124518,Center,Texas,75935,761 Mcdonald Camp,3,3,1370,4897733.92,2002,"Located in a quiet neighborhood, this property offers great potential.",2024-01-10,Off Market,condominiums
+25233555,Stockholm,Maine,4783,716 Miller Stravenue Suite 070,4,3,4792,1682184.92,2012,Close to schools and shopping centers.,2024-03-14,Off Market,townhouses
+31545459,Youngstown,Ohio,44511,07786 Stacie Square Suite 974,4,1,4996,3584252.88,1979,Perfect for first-time buyers or investors.,2024-03-22,Sold,single houses
+86948717,Spokane,Washington,99215,65122 Stevenson Heights,4,2,4432,193059.8,1932,"Located in a quiet neighborhood, this property offers great potential.",2024-06-13,Sold,townhouses
+55612864,Chester,South Dakota,57016,1228 Edwards Ramp,2,3,2005,654359.85,1947,Recently renovated with modern finishes.,2024-07-30,Sold,single houses
+23078656,Navarre,Minnesota,55392,265 Irwin Lock Apt. 807,1,2,4799,3216081.25,1954,Spacious property with a large backyard.,2024-07-22,Sold,villas
+22464351,Tulsa,Oklahoma,74186,464 Davis Corners Apt. 277,3,1,4905,4586437.76,1965,"Located in a quiet neighborhood, this property offers great potential.",2023-11-16,Pending,apartments
+90427057,Cortland,New York,13045,2391 Rodney Course Apt. 946,3,1,2039,2476801.05,1981,Close to schools and shopping centers.,2023-09-10,Pending,townhouses
+49963547,Spout Spring,Virginia,24593,612 Ayala Village Suite 120,3,2,708,307222.83,2015,Perfect for first-time buyers or investors.,2024-05-12,Sold,apartments
+30308006,Cason,Texas,75636,88519 Charles Vista,4,2,3544,576140.54,2010,Recently renovated with modern finishes.,2024-05-16,Pending,townhouses
+67799377,Centerville,Massachusetts,2632,819 Joseph Plaza Suite 123,4,1,739,1398026.93,1959,A beautiful home with stunning views.,2023-12-11,For Sale,townhouses
+61421275,Woodlake,Texas,75865,988 David Passage Suite 377,2,3,1988,3955704.33,2010,Perfect for first-time buyers or investors.,2024-05-07,Sold,townhouses
+18237535,Key West,Florida,33041,44664 Palmer Mission Apt. 672,3,2,4569,2012503.94,1924,Close to schools and shopping centers.,2024-04-22,Sold,single houses
+90659220,Steamboat Rock,Iowa,50672,8696 Clark Circles,4,2,556,4983213.43,1914,A beautiful home with stunning views.,2024-06-12,Under Contract,apartments
+20058124,Marianna,Arkansas,72360,4719 Berry Villages Suite 376,2,3,4989,1897702.85,1979,Close to schools and shopping centers.,2023-08-06,Under Contract,single houses
+98666918,Glenallen,Missouri,63751,6087 Todd Expressway,4,2,1293,3219882.45,1972,Close to schools and shopping centers.,2024-07-18,Off Market,condominiums
+53665784,Port Washington,New York,11053,137 Terrell Brook Suite 032,5,3,2738,401160.31,1963,A beautiful home with stunning views.,2023-08-27,Sold,condominiums
+69144139,New York,New York,10155,9640 Simpson Forest,5,2,1732,1890891.49,1946,"Located in a quiet neighborhood, this property offers great potential.",2023-10-29,For Sale,townhouses
+70782643,Six Mile Run,Pennsylvania,16679,60923 Robert Viaduct Apt. 141,1,1,1910,4453596.5,1960,Recently renovated with modern finishes.,2023-12-09,Pending,condominiums
+57579877,Java,South Dakota,57452,1415 Brown Cliffs,1,3,1724,4394966.64,2017,"Located in a quiet neighborhood, this property offers great potential.",2024-05-16,Under Contract,condominiums
+84257193,Crawfordsville,Arkansas,72327,5381 Terry Lights Apt. 079,4,2,4993,4520989.86,2014,A beautiful home with stunning views.,2023-10-18,Sold,townhouses
+12641290,Pocasset,Oklahoma,73079,846 Dylan Trail,2,2,1264,1392661.12,1958,Recently renovated with modern finishes.,2023-08-06,Pending,single houses
+84108679,Blanding,Utah,84511,32095 Cooper Cliff,1,2,4560,3647172.89,1963,Recently renovated with modern finishes.,2024-06-13,Off Market,townhouses
+58705601,Whatley,Alabama,36482,71469 Jeremy Village,4,1,2290,2790214.29,2016,Perfect for first-time buyers or investors.,2024-03-11,Pending,condominiums
+29002755,Afton,Michigan,49705,221 Bruce Camp Apt. 718,4,1,4659,3422371.74,1971,Recently renovated with modern finishes.,2024-03-23,Pending,apartments
+37767795,Witter,Arkansas,72776,4087 Margaret Lake,2,3,4585,3167854.44,1999,Perfect for first-time buyers or investors.,2023-11-22,Under Contract,single houses
+83423043,Windsor,Connecticut,6006,2484 Christine Mills,5,2,2840,1563256.15,1958,A beautiful home with stunning views.,2023-11-14,For Sale,single houses
+19728436,Bolivar,Ohio,44612,6685 Connie Plaza,2,1,870,1656108.42,1938,"Located in a quiet neighborhood, this property offers great potential.",2024-02-06,For Sale,single houses
+21008482,Walker,South Dakota,57659,4507 Elizabeth Station Apt. 156,4,1,4797,3420126.08,1985,Recently renovated with modern finishes.,2024-06-14,Sold,villas
+20718916,Arispe,Iowa,50831,7597 Combs Route,3,2,2713,640148.49,1904,Spacious property with a large backyard.,2023-11-29,Sold,single houses
+24162208,Houston,Texas,77072,798 Sarah Points Apt. 022,4,1,4465,1002583.86,1948,Spacious property with a large backyard.,2023-12-03,For Sale,condominiums
+51332690,Kapolei,Hawaii,96707,2476 Scott Walks,1,1,1090,3459308.35,2004,A beautiful home with stunning views.,2023-11-04,Off Market,townhouses
+92662083,Osage,West Virginia,26543,79536 Erin Cove Apt. 023,3,1,4878,3845388.0,1982,Spacious property with a large backyard.,2023-09-08,Under Contract,condominiums
+44872879,Calhoun,Georgia,30703,809 Carlos Village Suite 473,3,1,1429,1753938.48,1985,A beautiful home with stunning views.,2024-04-20,Sold,apartments
+36772611,Greensboro,Georgia,30642,7934 Hughes Vista,4,1,1328,507186.49,1958,A beautiful home with stunning views.,2024-04-22,Under Contract,single houses
+22028935,Hazel Hurst,Pennsylvania,16733,533 Wilkerson Stravenue Apt. 482,5,3,2216,4708208.81,2002,Perfect for first-time buyers or investors.,2024-03-07,Off Market,condominiums
+54058910,Burbank,South Dakota,57010,30420 Hale Ranch,3,1,829,2210999.53,1972,A beautiful home with stunning views.,2024-07-08,Under Contract,single houses
+37395934,Dingle,Idaho,83233,5501 Timothy Greens,4,1,2373,2841232.09,2017,Spacious property with a large backyard.,2024-07-09,Under Contract,single houses
+62776629,Hiram,Maine,4041,3468 Daniels Inlet,2,2,1261,839105.23,1997,A beautiful home with stunning views.,2024-02-10,Off Market,condominiums
+85801507,Tupelo,Mississippi,38801,7665 Amanda Terrace,1,3,1314,1861600.35,1907,"Located in a quiet neighborhood, this property offers great potential.",2024-03-18,Off Market,condominiums
+18277456,Aleppo,Pennsylvania,15310,36421 Gonzalez Ranch,3,2,2420,4643277.19,1929,Spacious property with a large backyard.,2023-09-23,Sold,apartments
+26611813,Montcalm,West Virginia,24737,2212 Watson Extension,1,2,525,4979420.83,2004,"Located in a quiet neighborhood, this property offers great potential.",2024-07-20,Off Market,condominiums
+40256743,Pine Mountain Valley,Georgia,31823,670 Rivera Spurs Suite 430,4,3,4445,4027892.57,1921,"Located in a quiet neighborhood, this property offers great potential.",2024-08-02,Off Market,single houses
+22639903,Omaha,Nebraska,68111,1191 Mary Ports Apt. 677,5,2,3601,3669158.18,1923,Spacious property with a large backyard.,2023-08-14,Sold,villas
+36332503,Glen Aubrey,New York,13777,830 Hodges Pike,3,2,2799,162427.92,2002,Perfect for first-time buyers or investors.,2023-12-13,Under Contract,villas
+64551203,Lawndale,North Carolina,28090,7924 Smith Lights Apt. 272,2,1,1197,4993551.49,1968,Recently renovated with modern finishes.,2024-06-27,Off Market,villas
+54275323,Kensington,Kansas,66951,453 Bennett Freeway,2,1,2418,3063738.35,1977,Recently renovated with modern finishes.,2023-11-14,Pending,condominiums
+22563041,New London,Connecticut,6320,252 Cameron Rapid Apt. 665,1,3,4509,3251588.86,1931,"Located in a quiet neighborhood, this property offers great potential.",2024-05-13,For Sale,townhouses
+44154998,Clarksburg,California,95612,1373 Judith Stravenue,3,1,2279,2285643.7,1977,"Located in a quiet neighborhood, this property offers great potential.",2023-08-07,Off Market,villas
+67832538,Union Point,Georgia,30669,221 Shelia Junction Apt. 882,2,2,2852,4825242.92,2011,Close to schools and shopping centers.,2023-11-07,Under Contract,condominiums
+34915808,Chowchilla,California,93610,4055 Robert Dale Suite 526,3,1,3000,2448647.98,1970,"Located in a quiet neighborhood, this property offers great potential.",2024-02-17,Sold,townhouses
+75975691,Honolulu,Hawaii,96849,1889 Gutierrez Run Apt. 682,1,2,2243,4613376.05,1925,Spacious property with a large backyard.,2023-11-11,Pending,townhouses
+51841148,Colden,New York,14033,16307 Vanessa Bridge Apt. 679,1,1,952,1058861.11,1966,Perfect for first-time buyers or investors.,2023-12-13,For Sale,single houses
+14731931,Rock Valley,Iowa,51247,649 Amanda Inlet Apt. 560,4,2,3683,2680002.96,1936,"Located in a quiet neighborhood, this property offers great potential.",2024-07-25,Sold,townhouses
+17658069,Vida,Oregon,97488,4737 Clark Well Suite 541,2,1,3778,637452.12,1984,A beautiful home with stunning views.,2024-01-22,Pending,townhouses
+12631466,Avondale,Colorado,81022,9226 Brown Gardens,5,2,1338,2597616.49,1945,Spacious property with a large backyard.,2024-03-11,Under Contract,apartments
+64044506,Williamson,West Virginia,25661,61578 Sawyer Stream Apt. 381,1,2,915,2584511.03,1909,"Located in a quiet neighborhood, this property offers great potential.",2024-08-01,Under Contract,townhouses
+86932261,Evansville,Indiana,47750,795 Jonathan Crest,2,2,1331,2431155.93,1922,Close to schools and shopping centers.,2024-05-18,Pending,apartments
+27313894,Tiona,Pennsylvania,16352,13280 Jackson Extensions Suite 945,3,2,658,1734732.44,1902,Recently renovated with modern finishes.,2023-08-24,Under Contract,villas
+19237575,Genoa,Nebraska,68640,2787 Bradley Mission Suite 193,4,3,3961,2089105.47,1907,"Located in a quiet neighborhood, this property offers great potential.",2024-04-16,For Sale,condominiums
+87643548,Los Angeles,California,90050,48623 Benjamin Spring,1,2,2028,3429200.79,1925,Perfect for first-time buyers or investors.,2023-08-14,For Sale,apartments
+76982487,Glidden,Wisconsin,54527,65825 Peter Summit Suite 300,5,2,1210,2776684.59,1931,Perfect for first-time buyers or investors.,2023-10-22,Sold,apartments
+31021170,Toledo,Ohio,43666,158 Benitez Creek,4,3,894,2949580.68,1990,A beautiful home with stunning views.,2023-12-01,Sold,condominiums
+34123933,Mesa,Arizona,85212,789 Martinez Mount,5,3,3759,92685.72,1952,Recently renovated with modern finishes.,2024-03-27,Off Market,villas
+98685575,Port Gibson,New York,14537,0360 Cory Drive Apt. 126,2,3,4677,311973.08,2003,Perfect for first-time buyers or investors.,2024-03-15,Sold,villas
+80641548,Pittsburgh,Pennsylvania,15207,55433 Toni Centers Suite 978,3,2,4384,1850329.47,1926,Spacious property with a large backyard.,2024-02-25,Sold,condominiums
+20279919,North Las Vegas,Nevada,89032,9238 Carson Prairie Suite 868,3,2,2308,2309246.4,1982,Perfect for first-time buyers or investors.,2024-01-24,Sold,single houses
+47985486,Orlando,Florida,32877,41695 Cannon Summit Suite 215,5,1,4513,2892653.79,1986,Spacious property with a large backyard.,2023-11-14,Off Market,townhouses
+51435389,Albany,New York,12246,01579 Debra Parkway Suite 550,1,2,4201,1582560.76,1936,Spacious property with a large backyard.,2023-08-22,Pending,apartments
+94097523,Pembroke,Virginia,24136,3936 Wallace Cove,3,2,4872,2144644.92,1956,Spacious property with a large backyard.,2024-06-18,For Sale,apartments
+91415600,Linwood,North Carolina,27299,4418 Jackson Park,3,2,1780,2083460.66,1904,Spacious property with a large backyard.,2024-05-07,Sold,townhouses
+31598447,Bolton,Massachusetts,1740,03443 Jefferson Roads Suite 365,1,1,2723,4700063.41,2014,A beautiful home with stunning views.,2023-09-04,Off Market,villas
+75048542,Mc Rae,Arkansas,72102,55910 Miller Street,5,2,1572,911134.65,1978,Close to schools and shopping centers.,2024-04-21,Pending,condominiums
+40063946,Oxnard,California,93036,89925 Flores Forest,5,2,3376,3415393.83,2018,Close to schools and shopping centers.,2024-05-31,Pending,apartments
+75511198,Waterloo,Iowa,50704,523 Tyrone Ports,2,1,1350,2979744.07,2019,Perfect for first-time buyers or investors.,2024-06-09,Off Market,apartments
+58305226,Westfield,Iowa,51062,77558 Karina Gateway Apt. 502,3,1,4545,2048716.08,2018,Spacious property with a large backyard.,2024-05-03,For Sale,apartments
+39179753,Dallas,Texas,75275,151 Michelle Mall,5,3,756,885335.85,2002,Recently renovated with modern finishes.,2023-10-13,Off Market,townhouses
+83382272,Delta,Louisiana,71233,443 Peter Cape Apt. 042,3,3,4187,2912318.16,1913,Spacious property with a large backyard.,2024-01-15,For Sale,condominiums
+83553906,Goodspring,Tennessee,38460,165 Williams Crossroad,4,1,4109,4683915.89,1928,Perfect for first-time buyers or investors.,2024-05-16,Under Contract,condominiums
+67498897,Washington,District of Columbia,20022,2611 Mario Gateway Suite 610,2,2,3027,1226994.62,1978,"Located in a quiet neighborhood, this property offers great potential.",2023-11-21,Sold,apartments
+62129642,Rapid River,Michigan,49878,3914 David Fort,3,1,1901,263460.04,1968,Recently renovated with modern finishes.,2024-06-25,Off Market,villas
+95582801,Blue Earth,Minnesota,56013,305 Brian Course Apt. 455,2,2,943,85277.1,1973,Perfect for first-time buyers or investors.,2023-09-13,Sold,single houses
+48210344,Canton,Ohio,44799,0473 Patton Manor Apt. 311,3,2,1896,4303219.56,1946,"Located in a quiet neighborhood, this property offers great potential.",2023-08-26,Off Market,villas
+19487824,Cornwall Bridge,Connecticut,6754,588 Wright Ferry Suite 847,4,3,2211,2817534.44,1904,"Located in a quiet neighborhood, this property offers great potential.",2023-10-20,Sold,single houses
+32469315,New Albany,Indiana,47150,6775 Sean Pine,5,1,1175,3037420.18,1977,"Located in a quiet neighborhood, this property offers great potential.",2024-06-07,For Sale,villas
+26978973,Sinclair,Wyoming,82334,198 Patrick Hills,1,3,889,232850.57,2006,A beautiful home with stunning views.,2024-04-13,Sold,villas
+18992693,Scotia,California,95565,8118 Nixon Mission,5,3,1629,1126415.97,1952,Recently renovated with modern finishes.,2024-05-23,For Sale,villas
+58250520,Bear Lake,Michigan,49614,9109 Barry Canyon,3,3,972,3676155.38,2018,Spacious property with a large backyard.,2024-01-16,For Sale,single houses
+78374672,Edelstein,Illinois,61526,12346 Brown Mills,4,2,2064,2973093.15,2022,A beautiful home with stunning views.,2024-01-07,For Sale,single houses
+92111398,Omer,Michigan,48749,503 Shaw Tunnel Suite 577,3,1,3788,2777576.0,2018,Recently renovated with modern finishes.,2024-07-05,Pending,townhouses
+37841836,Sandyville,West Virginia,25275,3080 Clark Fields,3,3,2045,4337933.48,1971,Spacious property with a large backyard.,2024-05-21,Pending,single houses
+64783969,Topeka,Kansas,66603,14923 Hess Mall Suite 088,1,2,3132,2252259.47,2007,Recently renovated with modern finishes.,2024-03-03,For Sale,villas
+50262070,Shiloh,Georgia,31826,2124 Gonzalez Curve,2,1,808,2305184.47,2007,A beautiful home with stunning views.,2024-07-24,Sold,villas
+84763192,Evansville,Indiana,47701,16111 Melissa Fort Apt. 448,3,1,4924,4847211.38,1972,Close to schools and shopping centers.,2023-09-29,Pending,villas
+25524576,Mc Williams,Alabama,36753,7878 Mary Lock,1,1,3317,1534645.91,1927,Close to schools and shopping centers.,2024-02-06,Under Contract,townhouses
+25418016,Pittston,Pennsylvania,18640,12189 Christian Circles,3,3,1585,4372515.42,1911,Close to schools and shopping centers.,2023-08-25,Pending,townhouses
+89585417,Red Level,Alabama,36474,82264 Lawrence Common Apt. 522,3,1,2346,450548.36,1956,Recently renovated with modern finishes.,2024-06-04,Under Contract,single houses
+44778863,Saginaw,Michigan,48603,41677 Smith Green,3,1,2068,152449.19,1995,Perfect for first-time buyers or investors.,2023-10-19,Under Contract,villas
+12866594,Thompsonville,Illinois,62890,556 Hall Forge,2,3,3250,4905596.1,1976,A beautiful home with stunning views.,2024-01-26,Sold,condominiums
+61046637,Farnhamville,Iowa,50538,0906 Brett Cove,5,1,2821,1031506.33,1915,"Located in a quiet neighborhood, this property offers great potential.",2024-06-01,For Sale,townhouses
+37928453,Youngstown,New York,14174,871 Clinton Rapid,5,2,2406,542157.77,2007,Recently renovated with modern finishes.,2024-07-02,Off Market,condominiums
+13170259,Saint Joseph,Illinois,61873,8921 James Shores Apt. 091,1,1,3191,954942.98,1926,Spacious property with a large backyard.,2024-04-05,For Sale,villas
+80807018,Loris,South Carolina,29569,0777 Paula Corner Apt. 816,5,1,2891,2617638.6,1959,A beautiful home with stunning views.,2024-02-04,Sold,apartments
+43752518,Village Mills,Texas,77663,1312 Holland Spring Apt. 367,3,3,1273,1958863.01,1960,"Located in a quiet neighborhood, this property offers great potential.",2024-02-15,Sold,villas
+85132081,Raleigh,North Carolina,27668,98200 Mark Ferry,5,2,2531,4305170.52,1906,Close to schools and shopping centers.,2023-08-17,Pending,single houses
+26556964,Oceanside,California,92049,5535 Mercado Valley Suite 945,3,1,4093,3805919.63,1968,A beautiful home with stunning views.,2023-11-18,Off Market,apartments
+58028973,Hooker,Oklahoma,73945,96972 Emily Vista,5,3,1735,2553078.79,1953,Perfect for first-time buyers or investors.,2023-10-25,Under Contract,condominiums
+54745713,Irma,Wisconsin,54442,0601 Norman Manors,3,1,1747,3328280.98,1977,"Located in a quiet neighborhood, this property offers great potential.",2023-10-05,Off Market,apartments
+62371143,Latham,Illinois,62543,3178 Michelle Motorway,1,2,4813,4956357.08,2013,Perfect for first-time buyers or investors.,2023-10-17,Under Contract,apartments
+36907644,Rockford,Minnesota,55572,267 Gerald Station Suite 825,5,2,3535,1678531.5,2004,A beautiful home with stunning views.,2024-02-04,For Sale,condominiums
+55300751,Morrow,Louisiana,71356,88139 Turner Flats Suite 945,5,1,2132,265509.8,1992,Close to schools and shopping centers.,2023-10-07,Off Market,single houses
+18281837,Baltimore,Maryland,21202,0147 Robert Crest Apt. 902,4,1,1252,2230506.43,1918,Perfect for first-time buyers or investors.,2024-03-21,Sold,villas
+25087076,Mc Daniels,Kentucky,40152,9219 Smith Locks Suite 799,3,2,1353,3578721.49,1901,"Located in a quiet neighborhood, this property offers great potential.",2023-11-03,Pending,villas
+17358624,La Plata,New Mexico,87418,17239 Paul Courts Suite 171,2,1,3721,501762.49,2011,A beautiful home with stunning views.,2023-08-05,For Sale,single houses
+19115189,Sussex,Wisconsin,53089,65821 Davis Streets,1,3,4006,1140438.11,1959,A beautiful home with stunning views.,2023-12-24,Under Contract,villas
+53636600,Wolfcreek,West Virginia,24993,38037 Allison Extensions Suite 436,1,2,4875,2140515.23,1928,"Located in a quiet neighborhood, this property offers great potential.",2024-02-07,Pending,apartments
+48358126,San Antonio,Texas,78285,04328 Kennedy Grove,3,3,1637,2370863.0,1901,A beautiful home with stunning views.,2024-03-01,Under Contract,townhouses
+93473372,Chicago,Illinois,60653,40713 Baker Walks,5,2,3669,851374.07,1903,Perfect for first-time buyers or investors.,2023-10-24,Sold,townhouses
+59358883,Mound City,South Dakota,57646,6859 Louis Pike Suite 213,5,3,2324,819942.85,1912,Spacious property with a large backyard.,2024-06-24,Pending,single houses
+68694906,Oxnard,California,93030,3416 Robert Port,5,1,854,3108691.96,1981,Spacious property with a large backyard.,2023-09-25,Sold,villas
+39039478,Chacon,New Mexico,87713,359 Mackenzie Extensions Suite 207,2,1,4474,2383045.64,2017,Perfect for first-time buyers or investors.,2024-06-13,For Sale,single houses
+35429704,Medford,Massachusetts,2155,37397 Richardson Land,2,2,4628,4542786.66,1909,"Located in a quiet neighborhood, this property offers great potential.",2024-04-15,Off Market,villas
+61822492,Duncanville,Texas,75138,743 Bryant Pass,2,1,3553,3311541.18,1945,Perfect for first-time buyers or investors.,2024-04-30,Pending,townhouses
+28953353,North Hartland,Vermont,5052,2142 Stephen Circle Apt. 293,4,1,701,1424867.27,1995,Perfect for first-time buyers or investors.,2023-11-08,Off Market,villas
+32179323,New Carlisle,Indiana,46552,41477 Heather Plaza Suite 870,2,2,2739,1210323.41,1983,Spacious property with a large backyard.,2024-07-08,Pending,single houses
+93363938,Whiteclay,Nebraska,69365,2464 Robbins Corner,3,2,2257,1141064.5,1900,Perfect for first-time buyers or investors.,2024-08-02,Under Contract,single houses
+37410482,Mont Belvieu,Texas,77580,60901 Carolyn Fall Apt. 177,3,1,4038,1722051.62,1942,Perfect for first-time buyers or investors.,2023-10-28,Off Market,single houses
+75583620,Pahrump,Nevada,89060,37393 Jennifer Squares Suite 322,2,1,611,3830931.77,1973,Close to schools and shopping centers.,2023-12-10,Sold,condominiums
+84336974,Brushton,New York,12916,485 Wang Glen,3,2,2132,445954.89,1976,A beautiful home with stunning views.,2024-07-04,Pending,villas
+53796788,Albuquerque,New Mexico,87101,578 Wilson Creek,1,2,1097,1799086.39,1973,A beautiful home with stunning views.,2024-04-11,Off Market,single houses
+85387836,Starford,Pennsylvania,15777,1182 Laura Plains,2,1,4098,208916.65,1933,A beautiful home with stunning views.,2024-07-28,Pending,single houses
+48313685,Perkinston,Mississippi,39573,7595 Alvarado Burg,5,1,2396,1880079.59,1967,Close to schools and shopping centers.,2023-08-10,Under Contract,condominiums
+28783279,Houston,Texas,77292,55168 Wheeler Shoal,2,1,4744,1385127.43,1960,Perfect for first-time buyers or investors.,2023-11-01,Pending,single houses
+74091373,La Pryor,Texas,78872,2083 Jane Courts Suite 274,3,1,2636,2021397.92,1949,"Located in a quiet neighborhood, this property offers great potential.",2024-02-05,Pending,single houses
+95772548,Lorane,Oregon,97451,7503 Cory Points Suite 342,2,2,4635,3080435.88,1919,A beautiful home with stunning views.,2023-09-03,Sold,condominiums
+65316443,Pateros,Washington,98846,40380 Barnett Valleys Apt. 330,1,3,2107,4777086.82,1928,Spacious property with a large backyard.,2023-11-07,Pending,single houses
+73832115,Amawalk,New York,10501,40598 Joseph Spur,5,3,3851,440015.15,1931,Perfect for first-time buyers or investors.,2023-10-05,Under Contract,villas
+97782937,Peru,Illinois,61354,78926 Arnold Light Suite 725,3,3,3111,294759.44,1920,A beautiful home with stunning views.,2024-02-20,Off Market,condominiums
+13665650,Middlesex,New Jersey,8846,138 Norman Oval Suite 662,2,3,4948,4203257.97,1928,Perfect for first-time buyers or investors.,2023-08-19,Sold,villas
+45104326,Falling Waters,West Virginia,25419,58621 Sawyer Mall Apt. 013,3,2,1207,2134015.55,2010,Close to schools and shopping centers.,2024-02-23,Sold,condominiums
+92266429,East Berkshire,Vermont,5447,592 Aguilar Landing,4,3,2934,1216416.85,2004,A beautiful home with stunning views.,2023-08-17,Under Contract,condominiums
+12816950,Island,Kentucky,42350,803 Gilmore Manor Suite 777,2,2,2418,4300878.54,1947,Perfect for first-time buyers or investors.,2024-05-01,Sold,townhouses
+96263122,Walnutport,Pennsylvania,18088,0819 Daniel Loaf Apt. 716,2,2,3353,2127702.81,1924,Spacious property with a large backyard.,2024-04-21,Pending,condominiums
+57178937,Harvel,Illinois,62538,6043 Bradley Orchard,2,1,904,4144676.24,1984,A beautiful home with stunning views.,2024-01-29,Under Contract,single houses
+43575911,Keedysville,Maryland,21756,528 Guzman Island,1,1,1911,4780941.49,1942,Close to schools and shopping centers.,2024-01-07,Off Market,single houses
+29264290,Reno,Nevada,89503,4663 Brenda Springs,1,2,932,763021.2,1988,Perfect for first-time buyers or investors.,2024-06-30,For Sale,townhouses
+87070098,Saint Paul,Minnesota,55110,1562 Richard Land Suite 886,3,3,3764,4140619.79,1950,Spacious property with a large backyard.,2023-11-01,Off Market,townhouses
+57254581,Paint Lick,Kentucky,40461,188 John View Apt. 011,2,3,1172,1446754.76,2018,Perfect for first-time buyers or investors.,2023-09-20,Pending,condominiums
+70492790,Fort Worth,Texas,76181,5480 Williams Points Suite 265,3,2,4907,1977333.36,1902,Spacious property with a large backyard.,2024-05-05,Pending,single houses
+33182826,Olivia,Minnesota,56277,7274 Farmer Union Apt. 861,2,1,3622,2800223.87,1926,"Located in a quiet neighborhood, this property offers great potential.",2024-03-23,Off Market,townhouses
+55049036,Glenwood,Missouri,63541,92113 Gibson Ville Apt. 033,3,3,2960,1491669.88,1936,A beautiful home with stunning views.,2023-09-25,Sold,single houses
+73402319,Phoenix,Arizona,85064,978 Tiffany Locks Suite 010,3,1,2329,3995059.41,1980,Spacious property with a large backyard.,2023-09-19,Pending,townhouses
+42901153,Saint Louis,Missouri,63143,14904 Owens Highway,4,1,2158,3948085.63,1924,A beautiful home with stunning views.,2024-07-21,Pending,villas
+31224691,San Jose,California,95121,98814 Reilly Mill,3,1,3396,1098822.2,2009,A beautiful home with stunning views.,2024-02-29,Under Contract,single houses
+24383944,Shepherd,Montana,59079,635 White Mountains Suite 177,1,1,700,2448258.79,1958,A beautiful home with stunning views.,2024-01-27,Sold,villas
+74775124,Fresno,California,93771,953 Lisa Forest Suite 123,4,3,4083,4031359.03,1934,Perfect for first-time buyers or investors.,2023-12-11,Sold,single houses
+84764711,Townsend,Georgia,31331,29415 Jimenez Estates,3,1,1709,4629993.27,2012,"Located in a quiet neighborhood, this property offers great potential.",2023-12-13,Under Contract,apartments
+54935330,Pedricktown,New Jersey,8067,48016 Elizabeth Squares,5,1,3403,4539217.93,2003,A beautiful home with stunning views.,2023-11-13,Sold,condominiums
+97155568,North Walpole,New Hampshire,3609,68785 Davis Motorway,4,1,4421,3902771.17,1947,A beautiful home with stunning views.,2024-05-09,Under Contract,apartments
+71044502,Rock Hill,South Carolina,29730,65200 Valdez Hill,3,3,614,2242938.07,1960,Recently renovated with modern finishes.,2024-04-16,Sold,single houses
+63825361,Goodells,Michigan,48027,047 Mathew Forges,1,3,2489,2320969.74,1900,Close to schools and shopping centers.,2023-09-16,Under Contract,villas
+35646892,Cornell,Illinois,61319,19946 Kyle Villages,3,2,2382,2396349.29,2009,Close to schools and shopping centers.,2023-08-09,Off Market,apartments
+56062628,Winnebago,Nebraska,68071,07978 Timothy Expressway Apt. 085,2,2,4399,2647873.01,1984,Close to schools and shopping centers.,2023-10-20,Sold,townhouses
+34626209,Manhasset,New York,11030,31729 Hampton Creek Apt. 684,4,2,964,3263321.25,2004,Perfect for first-time buyers or investors.,2023-10-13,Under Contract,villas
+70830520,Pierce City,Missouri,65723,5968 Kristin Neck,2,3,4101,898056.29,1922,Spacious property with a large backyard.,2024-05-18,Pending,single houses
+51919766,Centreville,Alabama,35042,5204 Ramos Center Suite 116,4,1,1002,3172275.32,1935,"Located in a quiet neighborhood, this property offers great potential.",2024-06-19,Off Market,townhouses
+84381362,Girard,Ohio,44420,145 Tanner Fall,1,1,4933,4034743.27,1970,Recently renovated with modern finishes.,2024-05-23,Under Contract,villas
+59496097,Philadelphia,Pennsylvania,19151,628 Turner Courts,5,1,4746,123396.12,1968,A beautiful home with stunning views.,2024-04-10,Off Market,condominiums
+74731749,Lynchburg,Virginia,24513,9825 Bonilla Union,3,2,4432,3014558.77,1919,Spacious property with a large backyard.,2023-08-17,For Sale,townhouses
+55605133,Meeker,Colorado,81641,463 James Parks Suite 806,4,2,1367,4371340.19,1983,"Located in a quiet neighborhood, this property offers great potential.",2024-05-11,Pending,townhouses
+15384371,Saint Louis,Missouri,63141,69140 Lance Inlet,4,2,2431,1178327.34,1967,Spacious property with a large backyard.,2023-11-28,Sold,single houses
+79000462,Effie,Minnesota,56639,5728 Smith Plaza Suite 891,2,1,2632,4544011.9,1919,"Located in a quiet neighborhood, this property offers great potential.",2023-10-18,Off Market,single houses
+57009893,Leland,Illinois,60531,38441 Laura Stream,1,3,4228,827510.18,1955,Close to schools and shopping centers.,2023-12-06,Under Contract,villas
+19910101,Portage,Ohio,43451,20516 Bauer Courts,1,1,841,2825164.74,1909,"Located in a quiet neighborhood, this property offers great potential.",2024-06-11,For Sale,apartments
+27527385,Advent,West Virginia,25231,521 Pittman Valleys Suite 285,5,1,4762,507123.25,1917,Spacious property with a large backyard.,2023-08-30,Sold,condominiums
+91234027,Port Orange,Florida,32127,862 Nicholas Vista Suite 538,1,1,2266,2364152.38,2009,Perfect for first-time buyers or investors.,2023-10-06,Under Contract,townhouses
+10654118,Dillon,Colorado,80435,5957 Susan Roads,4,3,2688,832309.54,1959,"Located in a quiet neighborhood, this property offers great potential.",2024-03-14,Pending,condominiums
+72413921,Oswego,Kansas,67356,589 Ibarra Trail,3,2,2321,2493406.89,1968,A beautiful home with stunning views.,2024-07-24,Under Contract,villas
+27229215,Knox,Indiana,46534,189 Brewer Path Suite 112,4,1,2343,228087.75,2017,Perfect for first-time buyers or investors.,2024-08-04,For Sale,townhouses
+30157175,Alexandria,Pennsylvania,16611,510 Johnson Shores Apt. 983,3,2,4352,4759718.16,1997,Spacious property with a large backyard.,2024-01-09,Under Contract,townhouses
+80888299,Woodlake,California,93286,577 Nicole Plaza Suite 942,4,2,2864,3710960.91,1972,Spacious property with a large backyard.,2023-11-30,For Sale,townhouses
+66852054,Baltimore,Maryland,21218,218 Shannon Terrace Suite 446,3,1,1851,4116314.9,2012,Spacious property with a large backyard.,2024-06-28,For Sale,condominiums
+72403543,San Dimas,California,91773,88346 Jerome Bridge,4,1,4667,1061094.65,1979,A beautiful home with stunning views.,2024-01-26,Under Contract,single houses
+11209375,Okahumpka,Florida,34762,877 Bailey Pike Suite 877,1,2,3029,856189.07,1999,A beautiful home with stunning views.,2024-02-18,For Sale,condominiums
+83709168,Dayton,Ohio,45434,620 Alyssa Light,3,1,1016,2886310.47,1978,A beautiful home with stunning views.,2023-12-29,Sold,townhouses
+51349465,Sammamish,Washington,98075,42317 Mcdaniel Freeway,1,1,3108,1547973.81,1955,Spacious property with a large backyard.,2024-06-06,Pending,single houses
+37861583,Amherst Junction,Wisconsin,54407,83610 Rodriguez Brook Apt. 287,5,2,4322,1152546.84,2000,Spacious property with a large backyard.,2023-12-15,Under Contract,townhouses
+95133063,Charlotteville,New York,12036,986 Young Well Suite 188,5,3,1031,1605720.38,2006,Recently renovated with modern finishes.,2024-02-07,Off Market,villas
+80991748,Spokane,Washington,99205,37518 Robert Row,5,3,1576,1716728.57,1953,Recently renovated with modern finishes.,2024-03-27,For Sale,single houses
+86534791,Verner,West Virginia,25650,13492 Robinson Points,4,1,3707,1921075.46,1995,Spacious property with a large backyard.,2024-01-29,Pending,apartments
+51018369,Long Beach,California,90802,442 Michelle Common,4,2,4266,1865659.46,1937,Spacious property with a large backyard.,2023-08-10,Sold,apartments
+89498940,Delta,Missouri,63744,30395 Diana Mount Suite 741,3,2,4353,798176.94,1980,A beautiful home with stunning views.,2024-04-20,Pending,villas
+34729778,Barneveld,New York,13304,2548 William Plain Apt. 591,5,1,4102,2639218.46,1951,Close to schools and shopping centers.,2024-04-06,Off Market,villas
+89550585,Altoona,Alabama,35952,8463 David Club Suite 605,1,3,1996,1415805.34,1982,A beautiful home with stunning views.,2023-10-26,Pending,townhouses
+24170616,Prospect,Tennessee,38477,2312 Holly Road,5,2,2235,2801997.95,2022,Close to schools and shopping centers.,2024-07-12,Off Market,single houses
+73226521,Freedom,Pennsylvania,15042,330 Justin Circle Suite 039,4,3,841,1746714.27,1990,A beautiful home with stunning views.,2023-12-15,Sold,townhouses
+66782298,San Diego,California,92199,477 Mitchell Locks Apt. 437,1,2,4233,4074641.87,1962,Recently renovated with modern finishes.,2024-01-07,Under Contract,villas
+13755727,Durham,Connecticut,6422,936 Wayne Camp,4,2,2948,663322.34,1958,Recently renovated with modern finishes.,2023-10-01,Off Market,villas
+15185437,Netcong,New Jersey,7857,741 Lang Point Apt. 164,2,3,2454,4201229.64,1997,"Located in a quiet neighborhood, this property offers great potential.",2024-02-18,Pending,single houses
+41219867,Mohawk,West Virginia,24862,6063 Gary Coves Suite 516,4,1,3151,305708.1,1971,Spacious property with a large backyard.,2024-03-21,Under Contract,townhouses
+52125183,Villa Ridge,Illinois,62996,91890 Jones Island Apt. 299,5,3,2320,857461.8,1919,Recently renovated with modern finishes.,2024-06-15,For Sale,townhouses
+49202372,Painter,Virginia,23420,1026 Leah Falls,5,3,4992,1360753.32,1928,Recently renovated with modern finishes.,2024-03-13,For Sale,townhouses
+50745748,Eden Prairie,Minnesota,55346,1697 Pennington Forest Apt. 469,2,3,2340,4982934.58,2003,Close to schools and shopping centers.,2024-02-09,Off Market,townhouses
+56623377,Pittsburgh,Pennsylvania,15235,502 Heath Mills Apt. 487,2,3,1214,3045064.96,1953,A beautiful home with stunning views.,2024-02-25,Under Contract,condominiums
+46349434,Dewitt,Illinois,61735,68014 Bender Passage,2,3,2786,4731103.16,1990,Recently renovated with modern finishes.,2024-04-07,Under Contract,villas
+41530451,West Point,Arkansas,72178,6412 Steven Square,5,1,802,3753226.48,1969,Spacious property with a large backyard.,2024-06-29,Off Market,villas
+78193284,Montverde,Florida,34756,98358 Blair Ramp,1,2,4934,2728828.08,1963,Spacious property with a large backyard.,2023-11-13,Pending,townhouses
+66928956,Bloomington,Indiana,47402,585 Carpenter Plains,4,1,2595,3590200.46,1987,A beautiful home with stunning views.,2024-04-03,For Sale,villas
+25822861,Harpswell,Maine,4079,6149 Robinson Plains Suite 277,5,1,4216,3776020.18,1920,Recently renovated with modern finishes.,2024-01-27,Under Contract,townhouses
+83234850,Flora Vista,New Mexico,87415,6582 Barbara Ferry Apt. 235,1,2,1418,529819.52,1937,Close to schools and shopping centers.,2024-04-04,Pending,apartments
+91696558,Groton,Vermont,5046,70989 Grace Parkway Apt. 551,4,1,3725,246994.38,1925,Spacious property with a large backyard.,2023-09-23,For Sale,apartments
+38803869,Atlanta,Georgia,30306,922 Ponce Junctions Suite 529,2,2,2537,3146602.12,1994,Spacious property with a large backyard.,2023-10-05,Sold,townhouses
+82764027,Stem,North Carolina,27581,55113 Joshua Ramp,1,1,4155,1605315.92,1906,Recently renovated with modern finishes.,2024-05-26,Off Market,condominiums
+88675685,Newington,Georgia,30446,9500 Mario Mission Apt. 530,5,1,4614,2353148.71,1919,A beautiful home with stunning views.,2024-02-14,Pending,condominiums
+51389206,Plumville,Pennsylvania,16246,176 Callahan Burgs Suite 460,3,2,4080,938935.85,1902,"Located in a quiet neighborhood, this property offers great potential.",2024-01-03,Pending,townhouses
+59480559,Knoxville,Tennessee,37938,83603 Heather Ville,4,1,2872,196730.39,2004,Close to schools and shopping centers.,2023-11-14,Off Market,villas
+70906129,Reedsburg,Wisconsin,53958,666 Jennifer Mall,5,2,4343,4907368.75,1988,Close to schools and shopping centers.,2024-04-08,For Sale,townhouses
+95338110,Oatman,Arizona,86433,6894 Kathleen Centers,2,1,3292,195845.07,1970,Spacious property with a large backyard.,2023-12-10,Pending,single houses
+76602773,Eolia,Kentucky,40826,0502 Gregory Islands,5,3,4559,2431641.09,1909,Spacious property with a large backyard.,2023-10-02,Off Market,condominiums
+37887573,Holtsville,New York,11742,49919 April Union,3,1,2059,4466363.37,1977,Perfect for first-time buyers or investors.,2023-10-23,Off Market,apartments
+74756821,Clermont,Iowa,52135,41978 Rios Orchard,2,1,2414,4470666.84,1982,"Located in a quiet neighborhood, this property offers great potential.",2023-11-02,Sold,villas
+51803497,Gary,Minnesota,56545,754 Merritt Isle Suite 124,4,3,1737,1821505.86,1988,Close to schools and shopping centers.,2023-11-10,Under Contract,condominiums
+12806780,Saint Joe,Arkansas,72675,05953 Richard Dale,3,1,4506,841536.89,1981,A beautiful home with stunning views.,2024-04-12,Sold,villas
+29775527,Laings,Ohio,43752,392 Melissa Bridge Apt. 146,5,1,2738,2050767.46,1903,Close to schools and shopping centers.,2024-01-08,Sold,townhouses
+99599323,Adena,Ohio,43901,15046 John Canyon,2,1,2371,1219956.01,1904,Perfect for first-time buyers or investors.,2024-01-16,Sold,townhouses
+87185304,Des Moines,Iowa,50947,9397 Kathryn Freeway Apt. 646,5,3,561,2487698.63,1907,Perfect for first-time buyers or investors.,2024-01-25,Off Market,single houses
+82223462,Riverview,Florida,33578,47292 Bryant Terrace Suite 414,3,1,4122,2495169.66,1904,Perfect for first-time buyers or investors.,2024-05-01,Under Contract,villas
+23938561,Flagstaff,Arizona,86001,477 David Flat,4,1,1120,3729416.5,2015,Recently renovated with modern finishes.,2023-11-20,For Sale,apartments
+90691129,Cunningham,Texas,75434,863 Lopez Ramp Apt. 279,2,3,565,431636.32,1933,Spacious property with a large backyard.,2024-07-09,For Sale,townhouses
+25801425,Philadelphia,Pennsylvania,19255,86532 Sean Isle,1,3,4925,4104773.61,2015,Perfect for first-time buyers or investors.,2023-08-28,Under Contract,apartments
+99469312,Sabattus,Maine,4280,960 Hawkins Curve,5,2,3480,3158206.2,2023,Close to schools and shopping centers.,2023-09-17,For Sale,villas
+46028505,Mount Pleasant,Utah,84647,6845 Clark Mall,4,2,4895,643461.09,1931,Close to schools and shopping centers.,2024-03-14,Pending,apartments
+45142253,Austwell,Texas,77950,2351 Fisher Mills Apt. 476,1,3,690,4790820.38,1912,Recently renovated with modern finishes.,2023-09-11,Sold,villas
+27635807,Lincoln,Iowa,50652,55513 Miller Branch,1,1,1124,1841792.08,1983,Spacious property with a large backyard.,2024-04-04,Under Contract,villas
+42217486,Boston,Massachusetts,2215,189 Mary Manors Suite 364,3,2,3733,1679624.72,1942,Recently renovated with modern finishes.,2023-12-26,Pending,townhouses
+30344283,Saint Bonaventure,New York,14778,282 Peterson Hollow Suite 706,4,1,2454,4016113.31,2008,A beautiful home with stunning views.,2023-12-10,Off Market,single houses
+15254672,Yuma,Arizona,85369,053 Tracie Ramp Apt. 750,5,3,3886,586033.92,1944,Spacious property with a large backyard.,2024-04-08,Off Market,single houses
+72249954,Plains,Texas,79355,7395 Theresa Lights,3,1,2086,4914674.4,1968,Recently renovated with modern finishes.,2023-10-26,Sold,apartments
+88987689,Rowan,Iowa,50470,305 Justin Track,2,3,1969,4085144.65,2003,Perfect for first-time buyers or investors.,2024-05-08,For Sale,condominiums
+41639651,El Paso,Texas,88541,01113 Charles Lakes,4,1,4732,1576643.15,1974,Spacious property with a large backyard.,2023-10-26,For Sale,condominiums
+34647319,Gorman,Texas,76454,332 Smith Parkway,5,3,3801,4528200.27,1928,Close to schools and shopping centers.,2023-12-27,For Sale,condominiums
+75877968,Sacramento,California,94254,13644 Kelly Ford Suite 578,4,3,1551,346742.71,1931,Perfect for first-time buyers or investors.,2024-03-18,For Sale,villas
+46021550,Noxen,Pennsylvania,18636,636 Brittany Gardens,1,2,2146,3853288.7,1902,Recently renovated with modern finishes.,2024-03-27,Off Market,single houses
+88881040,Cross River,New York,10518,861 Adkins Brook Suite 719,4,3,2258,1909091.4,2023,Spacious property with a large backyard.,2024-03-19,For Sale,condominiums
+20857263,Palmyra,Wisconsin,53156,727 Chelsea Roads,1,1,3871,1375094.56,1961,A beautiful home with stunning views.,2024-01-08,Sold,condominiums
+91532537,Cheyenne,Wyoming,82003,37305 Carol Shores Suite 530,3,3,2153,2263423.88,1942,Recently renovated with modern finishes.,2024-02-19,For Sale,condominiums
+51260235,Pfafftown,North Carolina,27040,6463 Hodges Mill,5,1,3628,1457442.28,2022,Close to schools and shopping centers.,2024-05-20,Under Contract,villas
+75381148,Austin,Texas,78710,7323 Benjamin Trail Apt. 659,2,2,3751,1568606.85,1964,Close to schools and shopping centers.,2024-05-06,Sold,apartments
+51649070,Esbon,Kansas,66941,6938 Taylor Tunnel,4,2,4010,3808313.36,1976,"Located in a quiet neighborhood, this property offers great potential.",2024-02-12,Under Contract,condominiums
+99156800,Sacramento,New Mexico,88347,447 Caldwell Ports,1,2,893,4320926.2,1923,"Located in a quiet neighborhood, this property offers great potential.",2024-02-29,Off Market,condominiums
+42918151,Manchester,Vermont,5254,6950 Martin Drive,2,1,4213,2291917.42,1901,Spacious property with a large backyard.,2024-01-11,Under Contract,apartments
+11759930,Uniontown,Kentucky,42461,377 Julia Mills Suite 595,4,1,3258,3518300.36,1931,Recently renovated with modern finishes.,2023-09-06,For Sale,condominiums
+42987562,Saratoga,Indiana,47382,2319 Morales Crescent,3,2,2534,2350078.75,2020,Perfect for first-time buyers or investors.,2024-08-04,Under Contract,condominiums
+59864325,Karbers Ridge,Illinois,62955,892 Thomas Avenue,4,3,1313,158533.63,1994,"Located in a quiet neighborhood, this property offers great potential.",2024-03-19,Off Market,single houses
+87571950,Florham Park,New Jersey,7932,360 Mclaughlin Falls Apt. 511,3,1,1933,1653561.63,2011,Spacious property with a large backyard.,2024-02-21,Off Market,townhouses
+86423501,Four States,West Virginia,26572,49222 Smith Cove Suite 762,2,2,2928,2240275.92,2015,Spacious property with a large backyard.,2024-07-16,Under Contract,condominiums
+76670481,Chicago,Illinois,60668,9455 Terri Key Apt. 093,3,2,2687,4551234.46,1919,Spacious property with a large backyard.,2024-03-29,Sold,townhouses
+55394818,Queen City,Texas,75572,7142 Valerie Crossing Apt. 409,2,2,3764,3700732.13,1949,Perfect for first-time buyers or investors.,2024-07-27,Pending,single houses
+51955736,Burlington Flats,New York,13315,571 Lauren Run Apt. 570,1,1,1017,2594446.8,1920,Recently renovated with modern finishes.,2024-05-28,Pending,villas
+33254088,Sierra Vista,Arizona,85671,16376 Matthew Street,1,3,3470,1000185.04,2020,Spacious property with a large backyard.,2024-01-06,Sold,single houses
+48449227,Sandy Lake,Pennsylvania,16145,0843 Watson Avenue,4,3,2659,4399663.79,1974,Recently renovated with modern finishes.,2023-10-17,For Sale,apartments
+43290662,El Mirage,Arizona,85335,85344 Charles Way,2,2,3725,3708873.4,1935,Perfect for first-time buyers or investors.,2024-05-18,For Sale,villas
+20086060,Lyndhurst,Virginia,22952,11259 Hunter Shores Apt. 323,3,1,1373,2437385.34,2023,Recently renovated with modern finishes.,2024-02-14,Pending,townhouses
+71353765,Arcadia,South Carolina,29320,4709 Raymond Squares Apt. 054,1,1,3769,805977.56,1993,"Located in a quiet neighborhood, this property offers great potential.",2023-10-29,Off Market,apartments
+29482709,Buskirk,New York,12028,5761 Tina Circles,5,1,2627,2743256.98,1906,Spacious property with a large backyard.,2023-10-05,Under Contract,villas
+99528443,Lodi,Missouri,63950,4796 Mark Pass Suite 774,1,1,4915,4854926.32,1975,"Located in a quiet neighborhood, this property offers great potential.",2024-02-15,Sold,condominiums
+63254264,Buffalo,New York,14215,7607 Edward Springs Suite 096,5,3,2215,1804743.84,2003,A beautiful home with stunning views.,2024-02-13,Sold,apartments
+83920336,Comstock,Minnesota,56525,39231 Jennings Stream Suite 041,2,2,3920,115960.9,1928,Recently renovated with modern finishes.,2023-11-22,Sold,single houses
+28681628,Auburn,New York,13022,994 Leslie Mountain Suite 765,3,2,953,1593745.65,1962,Perfect for first-time buyers or investors.,2024-03-23,Pending,condominiums
+16487333,Oak Hall,Virginia,23416,1746 William Plain,2,3,628,1456105.79,1997,A beautiful home with stunning views.,2024-01-28,Off Market,single houses
+95356583,Mc Neill,Mississippi,39457,1338 Yesenia Ports Suite 472,5,3,4732,330407.94,1914,Recently renovated with modern finishes.,2023-08-19,Pending,single houses
+84656280,Westtown,New York,10998,424 Jon Shoals,5,3,1749,3521373.2,1973,"Located in a quiet neighborhood, this property offers great potential.",2023-08-09,Under Contract,villas
+79301180,Harlem,Georgia,30814,96535 Peterson Harbors Apt. 159,5,3,3809,3929303.07,2005,"Located in a quiet neighborhood, this property offers great potential.",2024-07-26,Pending,villas
+25907903,Joseph City,Arizona,86032,03497 Shannon Garden,1,1,3011,3759610.15,1914,Spacious property with a large backyard.,2023-10-16,Under Contract,condominiums
+31281160,Atlanta,Georgia,30363,89957 Anna Crossing,2,1,4306,1673233.75,2019,A beautiful home with stunning views.,2023-10-02,Sold,townhouses
+40492984,San Diego,California,92134,405 Caleb Cove,2,2,2380,4390952.26,1958,Spacious property with a large backyard.,2024-02-21,Sold,single houses
+84726232,Gallup,New Mexico,87305,54097 Perry Place,2,3,1821,2394145.21,2019,Close to schools and shopping centers.,2024-02-08,For Sale,single houses
+19211745,Fairview,Michigan,48621,2393 Karen Passage,4,3,4595,3116491.21,2007,"Located in a quiet neighborhood, this property offers great potential.",2024-04-03,Under Contract,condominiums
+74309773,Soap Lake,Washington,98851,0447 Randy Flat,2,3,2348,2647838.39,1947,Perfect for first-time buyers or investors.,2024-07-01,Under Contract,villas
+28779121,Tacoma,Washington,98417,415 Gomez Estate,5,3,4549,2389613.66,2005,Recently renovated with modern finishes.,2023-12-01,For Sale,townhouses
+53363923,Fort Lauderdale,Florida,33314,494 Danny Extension Suite 592,3,1,4348,2340692.95,1909,Spacious property with a large backyard.,2023-11-21,Off Market,single houses
+30439656,Centreville,Alabama,35042,901 Tina Crossing,3,2,4532,2663570.34,1965,Perfect for first-time buyers or investors.,2024-02-06,Pending,villas
+38246347,Villas,New Jersey,8251,87067 Karen Mission Apt. 274,4,3,4682,4033025.95,1912,Recently renovated with modern finishes.,2023-10-16,Pending,villas
+75355178,Kansas City,Missouri,64132,87486 Garcia Wall Suite 395,5,1,2232,2526908.97,1905,Close to schools and shopping centers.,2023-11-26,Pending,villas
+96270750,Long Lake,Minnesota,55356,99996 Kevin Gateway,3,3,3776,3437495.17,1900,Spacious property with a large backyard.,2024-01-19,For Sale,condominiums
+42018337,Collinsville,Mississippi,39325,2225 Sanchez Station,4,3,4150,3073454.75,1980,A beautiful home with stunning views.,2024-01-12,Sold,townhouses
+80911361,Washington,District of Columbia,20543,48672 Mitchell Mills,4,1,3121,2678430.54,1928,Perfect for first-time buyers or investors.,2023-09-29,Pending,villas
+48350294,Eagleville,California,96110,8544 Heather Inlet,4,3,4269,4305182.67,1910,A beautiful home with stunning views.,2024-05-22,Sold,townhouses
+20304836,Hancock,Maine,4640,300 Shirley Green Apt. 625,4,1,4763,4476048.31,1979,Close to schools and shopping centers.,2023-12-23,Pending,villas
+46777029,Bosler,Wyoming,82051,10012 Dana Crescent Apt. 306,3,1,1448,3526458.81,2010,Recently renovated with modern finishes.,2024-07-06,Off Market,condominiums
+26332285,Aiken,Texas,79221,38378 Joseph Inlet Apt. 321,2,3,4504,1699868.45,1960,"Located in a quiet neighborhood, this property offers great potential.",2023-09-27,Pending,villas
+20202023,Lyndon,Vermont,5849,110 Bentley Brooks,1,1,4046,3737865.72,1973,Perfect for first-time buyers or investors.,2024-07-26,For Sale,single houses
+94405836,Odd,West Virginia,25902,377 Stokes Road,1,2,4827,1980019.8,1986,Close to schools and shopping centers.,2024-05-17,Under Contract,villas
+21355784,Layton,Utah,84040,6047 Alexander Courts,1,1,2669,3162666.05,1990,"Located in a quiet neighborhood, this property offers great potential.",2024-02-20,Off Market,townhouses
+19208858,Scottsburg,Indiana,47170,9537 Timothy Fort Apt. 726,1,3,632,206401.5,1951,Close to schools and shopping centers.,2023-08-06,Under Contract,single houses
+48302119,Union Springs,New York,13160,195 Robertson Garden,2,3,2252,1690059.59,1944,Close to schools and shopping centers.,2024-02-02,Sold,villas
+77023566,Las Vegas,Nevada,89108,10186 Jonathan Rest Suite 035,1,3,2709,495409.62,1911,A beautiful home with stunning views.,2024-04-16,Pending,single houses
+46863489,Oswego,Illinois,60543,6688 Barnes Trace,2,1,3525,3510989.93,1923,Perfect for first-time buyers or investors.,2024-03-26,Off Market,townhouses
+21015550,Ola,Idaho,83657,08889 Beltran Locks,1,1,4153,533431.29,1935,Close to schools and shopping centers.,2023-08-05,For Sale,condominiums
+36988705,Mimbres,New Mexico,88049,371 Johnson Valleys,3,1,2277,3522422.66,1992,"Located in a quiet neighborhood, this property offers great potential.",2023-12-16,Pending,townhouses
+46364803,Albuquerque,New Mexico,87193,218 Phillips Spur Suite 567,5,2,2562,4152629.68,1925,Perfect for first-time buyers or investors.,2023-12-30,Pending,single houses
+26968201,Goshen,New Hampshire,3752,7630 Morales Corner,5,2,2479,767977.37,1901,Recently renovated with modern finishes.,2024-03-02,Sold,villas
+58701870,Darlington,Wisconsin,53530,29858 Dixon Stream Apt. 166,3,1,4080,4109168.43,1985,Close to schools and shopping centers.,2024-06-29,Sold,condominiums
+62920430,Chatsworth,Georgia,30705,81689 Darryl Pine Suite 405,3,2,3868,3593505.35,1950,Recently renovated with modern finishes.,2023-11-29,Sold,apartments
+86224584,Odessa,Texas,79764,302 Cassie Prairie Apt. 386,3,3,972,3974094.51,1908,Close to schools and shopping centers.,2023-10-24,Under Contract,condominiums
+10483476,Ringwood,Oklahoma,73768,2465 Bradley Canyon Apt. 626,5,3,769,1976760.37,1934,Spacious property with a large backyard.,2024-07-29,Off Market,villas
+25412362,Inez,Texas,77968,5848 Sara Light,1,3,1676,2358469.15,1959,Recently renovated with modern finishes.,2023-10-27,For Sale,single houses
+63201404,Chittenden,Vermont,5737,0455 Logan View,2,2,2140,3901716.7,1997,A beautiful home with stunning views.,2024-06-06,Off Market,single houses
+64680001,Alberton,Montana,59820,3420 Kristin Dam Apt. 237,4,1,2019,4842466.91,1985,Close to schools and shopping centers.,2023-11-12,Under Contract,villas
+25116736,Cee Vee,Texas,79223,3737 Harrington Lock Suite 203,5,1,2128,2269043.46,1920,Recently renovated with modern finishes.,2024-04-15,Sold,condominiums
+13630632,Sand Lake,New York,12153,6921 Eric Light Suite 864,5,1,4717,2555865.56,2015,Close to schools and shopping centers.,2023-10-13,For Sale,condominiums
+24065297,Sebastopol,Mississippi,39359,53891 Andrew Corners,4,3,648,1308037.28,1940,Close to schools and shopping centers.,2023-12-30,For Sale,townhouses
+46869513,Florence,Texas,76527,342 Ryan Circle Suite 650,1,3,2769,1693063.51,1948,A beautiful home with stunning views.,2023-09-16,For Sale,villas
+32319946,Kingsville,Ohio,44048,97680 Mills Point Suite 610,2,3,1985,3282197.66,1932,Recently renovated with modern finishes.,2023-12-29,Sold,townhouses
+33623256,Sidney,Texas,76474,54073 Duran Summit Suite 773,2,3,509,3955531.06,1978,Recently renovated with modern finishes.,2024-06-16,For Sale,single houses
+70796931,Carthage,Tennessee,37030,541 Wendy Camp,4,1,1236,3409883.47,1911,Recently renovated with modern finishes.,2024-06-19,Pending,townhouses
+58658335,Toledo,Oregon,97391,51415 Baker Park,1,3,2490,1878944.48,1994,Close to schools and shopping centers.,2024-01-07,Under Contract,villas
+79624053,Holly Pond,Alabama,35083,521 Middleton Brook Suite 443,3,1,4251,1818724.96,1933,Close to schools and shopping centers.,2023-10-25,Off Market,condominiums
+95719043,Hanover,Maryland,21076,5319 Holt Mall,1,1,1318,2820670.81,1982,Perfect for first-time buyers or investors.,2023-10-17,Sold,apartments
+28166623,Lebo,Kansas,66856,4837 Lynn Trail Suite 008,2,1,4748,3882935.64,2015,A beautiful home with stunning views.,2024-06-01,Pending,apartments
+55281072,Chireno,Texas,75937,96134 Yoder Mall Apt. 089,2,2,2237,1061360.93,1988,"Located in a quiet neighborhood, this property offers great potential.",2024-02-16,Pending,single houses
+53739876,New Haven,Connecticut,6509,075 Stephanie Creek,3,2,2835,1422540.88,1987,Close to schools and shopping centers.,2024-05-08,Off Market,single houses
+56965197,Lutsen,Minnesota,55612,4352 Christina Parkway Suite 008,4,3,4503,1287741.31,2021,Spacious property with a large backyard.,2024-06-03,Sold,villas
+85896491,Paynesville,Minnesota,56362,39821 Katelyn Valleys Suite 254,4,2,4768,3921400.5,1967,"Located in a quiet neighborhood, this property offers great potential.",2023-12-29,Pending,condominiums
+91005984,Pfafftown,North Carolina,27040,5033 John Mountains,3,3,4392,1934352.53,1969,Spacious property with a large backyard.,2024-06-01,Pending,townhouses
+79202474,Woodhull,New York,14898,108 Matthew Underpass Suite 283,2,3,4363,1992499.49,1986,Close to schools and shopping centers.,2024-03-02,Under Contract,apartments
+21540399,Kalamazoo,Michigan,49005,376 Novak Island,3,2,4785,4437501.99,1929,Recently renovated with modern finishes.,2024-06-30,Under Contract,villas
+81321716,Jarreau,Louisiana,70749,0899 Brianna Springs,1,2,4513,1455542.42,1971,A beautiful home with stunning views.,2024-03-29,Sold,villas
+86985031,Newport,Tennessee,37821,9168 Marvin Dale Suite 301,3,2,3338,1835712.45,2022,A beautiful home with stunning views.,2024-05-09,Pending,condominiums
+16650028,Natchez,Mississippi,39121,687 Teresa Route,1,3,3683,4541800.5,1938,"Located in a quiet neighborhood, this property offers great potential.",2023-12-16,Pending,apartments
+37335045,Cascade,Colorado,80809,3256 Murray Land,1,3,3415,3425662.76,1948,A beautiful home with stunning views.,2023-09-18,For Sale,apartments
+16987118,Columbus,Ohio,43218,487 Tara Crossing Suite 180,4,3,1449,677525.94,1975,"Located in a quiet neighborhood, this property offers great potential.",2024-03-23,Under Contract,condominiums
+82214841,Lincoln Park,Michigan,48146,01775 Johnson Parks,5,1,606,1501526.15,2016,A beautiful home with stunning views.,2023-08-16,Sold,villas
+84423011,Clarksville,Tennessee,37041,9560 Smith Alley,4,3,1283,2238686.01,2013,Spacious property with a large backyard.,2023-11-02,For Sale,townhouses
+65546398,Spruce Pine,Alabama,35585,5157 Scott Vista,2,2,2248,2569054.14,1947,A beautiful home with stunning views.,2023-10-26,Pending,villas
+98223998,Center,Texas,75935,303 Valentine Walks Suite 779,2,1,3228,1999787.6,1941,A beautiful home with stunning views.,2023-12-28,Sold,villas
+10408180,Annandale,New Jersey,8801,76125 Richard Fords Suite 702,5,3,1462,1336316.46,2017,"Located in a quiet neighborhood, this property offers great potential.",2024-02-09,Off Market,single houses
+34944006,Appleton,Wisconsin,54911,074 Freeman Skyway,4,3,2925,2150746.32,1935,Perfect for first-time buyers or investors.,2023-10-23,For Sale,townhouses
+55363342,Grosse Tete,Louisiana,70740,5795 Wilson Flats,3,2,3572,262509.06,1983,Close to schools and shopping centers.,2024-05-17,Under Contract,townhouses
+84545917,West Hartford,Vermont,5084,8483 Serrano Ranch Suite 974,5,2,1620,1548886.23,1936,A beautiful home with stunning views.,2024-01-20,For Sale,townhouses
+60838068,Fort Branch,Indiana,47648,25453 Rebekah Pike Suite 493,1,2,3925,3649069.03,1921,Perfect for first-time buyers or investors.,2024-03-23,Sold,condominiums
+96590737,Saint Paul,Minnesota,55111,412 Michelle Ramp,5,1,3857,4916091.99,2011,"Located in a quiet neighborhood, this property offers great potential.",2024-03-09,Off Market,villas
+34386646,Honolulu,Hawaii,96813,405 Jodi Estates Suite 010,1,2,4484,285816.34,1911,"Located in a quiet neighborhood, this property offers great potential.",2024-05-18,Pending,single houses
+11286935,Albany,New York,12207,64640 Steven Fords,3,2,1686,933590.34,1963,Spacious property with a large backyard.,2024-01-28,Pending,apartments
+69322418,Prewitt,New Mexico,87045,826 Pena Mews,4,2,3546,1861329.29,1995,Close to schools and shopping centers.,2023-08-09,Under Contract,townhouses
+83541502,Rochester,New York,14694,1572 Micheal Rest Suite 476,3,1,2904,1599543.74,2015,Perfect for first-time buyers or investors.,2023-11-28,Off Market,apartments
+56328107,Grand Canyon,Arizona,86023,767 Jerry Mills Apt. 279,3,1,742,3748335.17,1956,Spacious property with a large backyard.,2024-02-07,For Sale,apartments
+88330280,Yakima,Washington,98903,2240 Johnson Common Suite 890,1,2,1862,1993517.67,1936,Recently renovated with modern finishes.,2023-10-02,Off Market,villas
+67357817,Hialeah,Florida,33016,659 Brewer Drives,1,2,4639,1599472.39,1934,Perfect for first-time buyers or investors.,2023-11-29,Off Market,villas
+50561912,Houston,Texas,77241,1769 Sara Ridges,4,2,4714,3399031.18,2005,A beautiful home with stunning views.,2024-06-11,Sold,apartments
+49397800,Carlisle,Iowa,50047,17646 Smith Trail Apt. 416,5,1,582,4827207.24,2007,Close to schools and shopping centers.,2024-07-07,Off Market,single houses
+50862516,Calpella,California,95418,949 Jennifer Drive Suite 541,3,1,4342,2662762.35,1977,"Located in a quiet neighborhood, this property offers great potential.",2024-05-05,Off Market,single houses
+77021707,San Francisco,California,94109,163 Blackburn Tunnel Suite 091,5,3,2662,4545789.55,1919,A beautiful home with stunning views.,2024-07-11,Off Market,single houses
+26178436,White Hall,Arkansas,71612,13171 Allison Prairie Suite 002,2,2,1138,4505975.03,1957,A beautiful home with stunning views.,2024-01-11,For Sale,villas
+82570298,Elmo,Montana,59915,54112 Barnes Rapids Suite 962,1,2,4566,4352838.58,1960,Close to schools and shopping centers.,2023-10-30,Pending,single houses
+26141224,Gurnee,Illinois,60031,20238 Henson Drives,4,2,1483,3302711.06,1918,A beautiful home with stunning views.,2024-07-01,Pending,condominiums
+27151684,Sunderland,Maryland,20689,24152 Tammy Common Apt. 449,1,1,1219,4167928.04,2019,Perfect for first-time buyers or investors.,2024-05-02,For Sale,apartments
+14222750,Stanfield,Oregon,97875,0255 Martha Manors Apt. 760,4,1,2102,2614287.09,1922,Spacious property with a large backyard.,2024-07-22,Off Market,apartments
+66138678,Mercer,North Dakota,58559,57480 Johnson Hills Apt. 975,3,2,2324,3163308.92,1905,Spacious property with a large backyard.,2023-12-18,Pending,villas
+88032717,Blair,Nebraska,68008,690 Garcia Glen Apt. 189,5,2,983,4813898.74,2008,"Located in a quiet neighborhood, this property offers great potential.",2023-12-18,Pending,villas
+87699403,Cameron,Wisconsin,54822,086 Michael Road,4,3,4807,2569366.31,1968,Perfect for first-time buyers or investors.,2024-08-04,Pending,condominiums
+41363377,Port Jervis,New York,12771,5833 Lynn Passage Apt. 141,3,2,2900,3414726.35,1922,Spacious property with a large backyard.,2024-01-01,Sold,townhouses
+93916257,Damascus,Pennsylvania,18415,2595 Darren Roads,2,1,897,614669.8,1965,Spacious property with a large backyard.,2023-12-31,Sold,villas
+43606666,Sacramento,California,95818,724 Friedman Walk,5,1,1476,2232965.85,1941,Close to schools and shopping centers.,2024-04-14,Off Market,single houses
+55066757,Lansing,Minnesota,55950,013 Hoffman Terrace,1,3,3334,1788186.83,1974,Recently renovated with modern finishes.,2024-06-03,For Sale,apartments
+40290852,Edgewater,New Jersey,7020,2925 Frank Ramp Apt. 042,2,1,1147,2451805.71,1991,Recently renovated with modern finishes.,2024-07-14,Under Contract,villas
+15723496,Tatum,South Carolina,29594,8519 Ochoa Port,4,2,1041,591390.93,1961,Spacious property with a large backyard.,2024-04-25,Off Market,apartments
+82402034,Elkton,Maryland,21921,4319 Hodges Expressway,1,2,959,4399478.28,1908,Recently renovated with modern finishes.,2024-02-18,Off Market,apartments
+91249975,Perley,Minnesota,56574,824 Brown Crossroad,3,3,4949,3462680.09,1950,Spacious property with a large backyard.,2024-06-09,Sold,townhouses
+53953519,Charleston,West Virginia,25364,1585 Susan Cape,4,2,2048,4022562.74,1970,Close to schools and shopping centers.,2024-07-03,For Sale,townhouses
+52892366,Magalia,California,95954,79954 Flores Flat Suite 745,5,1,1387,2610723.81,1960,Close to schools and shopping centers.,2024-06-14,Off Market,apartments
+31342510,Dushore,Pennsylvania,18614,39705 Jessica Village Suite 050,5,2,2078,1583853.88,1909,Spacious property with a large backyard.,2024-05-19,Pending,townhouses
+47424689,Anaheim,California,92816,1864 Danielle Shoal Apt. 684,1,3,2318,4186752.74,2008,Spacious property with a large backyard.,2024-02-29,For Sale,single houses
+62935752,Linville,North Carolina,28646,3661 David Viaduct Suite 128,4,2,3174,2220613.67,2018,Perfect for first-time buyers or investors.,2023-08-28,Sold,condominiums
+67332796,Kissimmee,Florida,34744,19897 Griffin Mountain,2,3,1529,2287829.19,1995,Spacious property with a large backyard.,2023-10-06,Off Market,condominiums
+78817046,Meriden,Connecticut,6451,657 Howell Mission,2,2,1024,4740774.24,1947,Spacious property with a large backyard.,2023-10-26,Sold,single houses
+30132483,Thetford,Vermont,5074,84204 Jeff Ridge Apt. 946,5,1,3537,1041907.14,1921,A beautiful home with stunning views.,2024-02-01,For Sale,apartments
+50223635,Toyah,Texas,79785,78784 Jeffrey Ford Suite 131,2,2,1756,2204602.18,1949,Spacious property with a large backyard.,2024-05-12,Pending,villas
+12982147,Hyde Park,Utah,84318,088 Galloway Shore Suite 268,4,3,2264,4752352.13,1934,A beautiful home with stunning views.,2024-06-06,Sold,condominiums
+88761914,Hackensack,Minnesota,56452,0731 Briana Springs Apt. 398,1,1,2577,3314599.05,1907,Perfect for first-time buyers or investors.,2024-03-12,Under Contract,single houses
+70343713,Lake Geneva,Wisconsin,53147,6531 Collins Motorway Apt. 430,5,2,669,4831311.93,2021,Close to schools and shopping centers.,2024-07-17,Pending,villas
+37104480,Evening Shade,Arkansas,72532,804 Greg Valley Apt. 888,1,2,743,2201727.57,2021,Perfect for first-time buyers or investors.,2024-07-01,Pending,apartments
+58329582,Lebam,Washington,98554,0741 Castro River Apt. 541,2,2,2636,1854549.87,1947,Spacious property with a large backyard.,2024-03-17,Pending,single houses
+47577171,Miami,Florida,33191,051 Zachary Lakes Suite 836,5,3,1963,2447072.19,1936,Perfect for first-time buyers or investors.,2024-03-31,Under Contract,villas
+97731448,Greenville,South Carolina,29607,5519 Susan Forges Suite 183,5,2,1589,3708513.78,1934,Perfect for first-time buyers or investors.,2023-10-20,For Sale,apartments
+83075423,Chantilly,Virginia,20152,5116 Reginald Mews,4,2,2179,1826755.24,1989,A beautiful home with stunning views.,2024-05-08,Sold,single houses
+63115305,South New Berlin,New York,13843,342 Nicholas Ranch,5,2,1560,279094.52,1945,Recently renovated with modern finishes.,2024-04-07,Pending,villas
+87798830,Pricedale,Pennsylvania,15072,22022 Powell Squares Suite 273,3,3,4188,3682320.37,1934,"Located in a quiet neighborhood, this property offers great potential.",2024-03-30,Pending,condominiums
+10060566,Bullhead City,Arizona,86439,77120 Fisher Path,2,3,4715,4963140.21,1943,Recently renovated with modern finishes.,2024-07-27,Off Market,villas
+51585350,Grand Rapids,Michigan,49588,1562 Amy Crest Suite 937,5,1,1259,2060432.69,2017,"Located in a quiet neighborhood, this property offers great potential.",2024-07-17,Sold,apartments
+34003691,Maquoketa,Iowa,52060,335 Duncan Island,5,2,2636,3144778.73,2017,A beautiful home with stunning views.,2023-08-19,Under Contract,apartments
+57314609,APO AA,,96337,7783 Deborah Way Apt. 954,5,2,1775,4681439.44,1990,"Located in a quiet neighborhood, this property offers great potential.",2023-08-28,Off Market,single houses
+73678570,Ivy,Virginia,22945,031 Barnes Crossroad,3,2,3257,2690905.33,1973,"Located in a quiet neighborhood, this property offers great potential.",2024-01-19,Sold,single houses
+15910487,Pinehill,New Mexico,87357,45354 Moore Place,4,2,1207,3569899.81,2003,"Located in a quiet neighborhood, this property offers great potential.",2023-09-17,For Sale,single houses
+57225650,New York,New York,10010,21023 Jones Trail Apt. 408,2,1,1982,4915047.52,1929,Close to schools and shopping centers.,2024-06-24,Sold,apartments
+43373655,San Bernardino,California,92413,7436 Montgomery Springs,4,1,3490,2194126.0,1938,Perfect for first-time buyers or investors.,2023-10-03,Under Contract,condominiums
+92106034,Atlanta,Georgia,30370,00335 Tanya Keys Apt. 996,5,3,3862,2426399.09,1951,A beautiful home with stunning views.,2024-05-24,Sold,apartments
+10255471,Honesdale,Pennsylvania,18431,6993 Jeffrey Spring Apt. 773,2,3,3222,2963737.53,1957,Close to schools and shopping centers.,2023-09-04,Pending,townhouses
+77562971,Bonita Springs,Florida,34136,504 Farrell Inlet,4,1,2887,1233535.21,1912,Recently renovated with modern finishes.,2023-10-22,Pending,condominiums
+55072548,Richmond,Illinois,60071,71154 Nicholas Burg Apt. 917,4,1,2832,3539851.42,2011,Spacious property with a large backyard.,2023-08-09,Off Market,villas
+52190666,Wareham,Massachusetts,2571,66412 April Path Apt. 839,4,3,3803,402708.12,1904,Spacious property with a large backyard.,2024-02-23,Pending,villas
+62093790,Santa Monica,California,90408,7144 Vincent Via,1,3,1859,1034404.11,1982,Spacious property with a large backyard.,2023-08-26,Sold,single houses
+80699825,Greenville,South Carolina,29602,6161 Yoder Haven Suite 235,3,1,4129,3314191.27,1995,Close to schools and shopping centers.,2023-10-01,Sold,townhouses
+37548860,Plevna,Missouri,63464,2016 Chavez Glens Suite 613,5,2,1327,2349293.24,1945,"Located in a quiet neighborhood, this property offers great potential.",2023-09-21,Pending,apartments
+96911980,Guilford,Connecticut,6437,86821 Torres Way,4,2,1490,4965758.84,1908,Close to schools and shopping centers.,2023-10-19,Under Contract,apartments
+74230274,Browning,Missouri,64630,872 Austin Shoal,1,3,801,4157904.88,2011,A beautiful home with stunning views.,2023-12-06,Pending,single houses
+85485961,Drasco,Arkansas,72530,75072 Martin Trafficway Apt. 326,4,2,4518,2113403.86,1974,"Located in a quiet neighborhood, this property offers great potential.",2024-04-12,Under Contract,condominiums
+82479925,Millville,West Virginia,25432,154 Ramirez Estate,3,3,4961,1122487.7,1912,Close to schools and shopping centers.,2024-01-10,Sold,villas
+33314895,Sahuarita,Arizona,85629,99718 Robin Rest Suite 550,5,1,4789,4818560.2,1958,Close to schools and shopping centers.,2024-05-24,Under Contract,condominiums
+94274349,Bradford,New York,14815,6915 Mary Squares Suite 361,4,1,1529,4434055.61,1980,A beautiful home with stunning views.,2023-10-13,Under Contract,condominiums
+68083612,Greenville,South Carolina,29609,614 Angelica Freeway,1,3,750,2940492.61,1925,A beautiful home with stunning views.,2024-02-28,For Sale,single houses
+93865316,Savannah,New York,13146,626 Kelly Viaduct Suite 127,5,3,3134,3015828.77,1943,"Located in a quiet neighborhood, this property offers great potential.",2023-10-10,Off Market,single houses
+12917340,Temple City,California,91780,20334 Allen Square Suite 910,1,1,1096,1194215.82,1966,Close to schools and shopping centers.,2024-06-03,Sold,condominiums
+43973841,Fraser,Colorado,80442,60798 Tiffany Unions,1,3,1893,1668052.27,1911,Close to schools and shopping centers.,2024-02-13,Sold,townhouses
+55364418,FPO AE,,9508,0111 Joel Walks Suite 190,1,3,2226,3932487.36,1940,"Located in a quiet neighborhood, this property offers great potential.",2024-05-08,Off Market,townhouses
+94953332,Birchdale,Minnesota,56629,8610 Steven Ports,3,2,3526,1307907.32,1982,A beautiful home with stunning views.,2024-04-20,Off Market,single houses
+15536244,Gresham,Oregon,97080,76079 Wanda Parkways Suite 154,1,3,2800,1751613.29,1969,Perfect for first-time buyers or investors.,2023-11-05,Pending,apartments
+15674986,Moorhead,Mississippi,38761,98193 Elizabeth Forest Suite 340,1,3,3750,4151252.51,1913,A beautiful home with stunning views.,2024-04-29,Under Contract,villas
+62046278,Yuba City,California,95992,53234 Wise Court Apt. 218,5,1,2490,1723026.23,1942,Recently renovated with modern finishes.,2024-03-19,Pending,villas
+47885061,Nixon,Nevada,89424,429 Gardner Ferry Apt. 176,5,1,3734,4767236.35,1936,"Located in a quiet neighborhood, this property offers great potential.",2023-09-29,For Sale,single houses
+22231215,Henderson,Kentucky,42419,4032 Lance Plaza Apt. 474,2,3,550,2666551.3,1947,Perfect for first-time buyers or investors.,2023-10-11,Sold,single houses
+51071866,Summit,Arkansas,72677,7676 Shea Extensions Apt. 135,3,1,4931,826130.58,2004,Recently renovated with modern finishes.,2024-03-24,For Sale,single houses
+80069302,Colorado Springs,Colorado,80995,839 Durham Orchard,3,1,1983,1259433.85,1979,Spacious property with a large backyard.,2024-03-21,Under Contract,townhouses
+16511743,San Antonio,Texas,78226,952 West Canyon,2,2,2208,3062020.36,2002,Close to schools and shopping centers.,2024-05-01,For Sale,single houses
+25698732,Oil City,Louisiana,71061,814 Sawyer Manors,1,2,551,223710.43,1985,A beautiful home with stunning views.,2024-07-22,Off Market,apartments
+63404218,Quakertown,Pennsylvania,18951,7878 Brian Land Apt. 726,4,3,4420,54471.91,2017,"Located in a quiet neighborhood, this property offers great potential.",2024-03-27,Pending,condominiums
+42660877,Dayton,Ohio,45469,5595 Lynn Springs,1,2,634,3114495.91,1974,A beautiful home with stunning views.,2023-09-20,Under Contract,townhouses
+68291222,Pilot Mountain,North Carolina,27041,31267 Thomas Cliffs Suite 941,5,2,3626,4914124.3,1993,Perfect for first-time buyers or investors.,2024-04-10,Pending,townhouses
+24829200,Milwaukee,Wisconsin,53209,82542 Russo Drives,4,3,839,4727543.29,2014,Perfect for first-time buyers or investors.,2023-12-25,For Sale,condominiums
+55733776,Stitzer,Wisconsin,53825,049 Contreras Extension,3,2,605,2942789.04,1988,"Located in a quiet neighborhood, this property offers great potential.",2024-08-01,Off Market,apartments
+58036315,Keysville,Virginia,23947,8990 Beard Villages,4,1,4456,4892619.56,1903,A beautiful home with stunning views.,2024-05-14,For Sale,single houses
+66624288,Corona,California,92877,390 Kellie Mountain Apt. 763,1,3,4211,2699107.4,2016,A beautiful home with stunning views.,2023-12-23,Under Contract,condominiums
+83605875,Ann Arbor,Michigan,48109,042 Soto Cliff,4,1,4137,850468.81,2003,"Located in a quiet neighborhood, this property offers great potential.",2024-02-04,For Sale,villas
+10978885,Jacksonboro,South Carolina,29452,8008 Ray Pines,4,1,3997,1842872.8,1993,Close to schools and shopping centers.,2024-06-08,For Sale,apartments
+98906524,Glover,Vermont,5839,12046 Flowers Brooks,1,1,4100,1719226.61,1925,Recently renovated with modern finishes.,2023-08-17,For Sale,villas
+72018331,Charlotte,North Carolina,28297,11753 Mccarthy Motorway Apt. 083,3,2,4471,771961.29,1980,Perfect for first-time buyers or investors.,2023-11-17,Sold,condominiums
+54441456,Lafox,Illinois,60147,2321 Knight Parkway,1,3,2378,1480773.47,1914,Close to schools and shopping centers.,2024-04-16,Under Contract,townhouses
+85783734,Rudolph,Wisconsin,54475,22403 Amy Park Suite 327,2,1,4837,61684.87,2012,A beautiful home with stunning views.,2024-04-22,For Sale,villas
+53970377,Bell,California,90202,95055 Zimmerman Trace,1,2,792,3023844.33,1954,Recently renovated with modern finishes.,2024-06-14,Pending,condominiums
+47929859,Morgantown,West Virginia,26507,8407 Benson Spurs Suite 169,5,2,1753,4007179.27,1992,Close to schools and shopping centers.,2024-05-18,For Sale,single houses
+45889235,APO AE,,9722,9609 Christopher Inlet,1,2,4854,3110855.93,1988,A beautiful home with stunning views.,2024-02-09,For Sale,apartments
+62623087,West Portsmouth,Ohio,45663,8300 Margaret Extensions,1,3,4663,1477202.49,1902,Spacious property with a large backyard.,2024-02-13,Pending,condominiums
+62620809,Denver,Colorado,80220,9733 Williams Trace Apt. 860,2,2,4890,3247355.06,1919,A beautiful home with stunning views.,2024-03-05,Under Contract,villas
+79096179,Spokane,Washington,99201,6772 Crawford Prairie,1,1,3694,1255155.65,1952,Spacious property with a large backyard.,2023-09-14,Sold,single houses
+79112686,Tidioute,Pennsylvania,16351,295 Davis Parkways Apt. 645,2,3,626,2592978.11,1935,Perfect for first-time buyers or investors.,2024-04-29,Under Contract,condominiums
+25578325,Magalia,California,95954,02903 Leonard Mission,5,2,2578,361900.97,1909,Spacious property with a large backyard.,2023-08-15,Pending,single houses
+47604338,Winslow,Illinois,61089,547 Gregory Coves,4,1,3234,1503663.88,1968,Spacious property with a large backyard.,2023-11-22,Sold,villas
+46276121,Richardton,North Dakota,58652,1991 Craig Park,3,1,3417,2154321.87,1991,Recently renovated with modern finishes.,2023-12-19,Off Market,townhouses
+77038725,Spirit Lake,Iowa,51360,6085 Gardner Flats Apt. 680,4,1,1835,267571.98,1991,A beautiful home with stunning views.,2024-05-16,Sold,single houses
+77885094,Nelson,Wisconsin,54756,39088 Kari Streets Suite 462,5,1,3360,1946474.91,1909,Recently renovated with modern finishes.,2024-04-29,Under Contract,single houses
+74685793,Chilcoot,California,96105,97242 Alexander Lakes Suite 907,2,2,2887,2249931.62,1998,Spacious property with a large backyard.,2024-06-20,Pending,condominiums
+61620744,Strathmere,New Jersey,8248,1879 Pena Place Apt. 022,2,1,1831,869861.77,1993,Spacious property with a large backyard.,2024-06-24,Pending,apartments
+35662216,Remington,Virginia,22734,67933 Lori Shore,5,2,1781,3719506.32,1997,Close to schools and shopping centers.,2024-02-19,Off Market,villas
+58731361,Cottonwood,Arizona,86326,3897 Sanchez Light Suite 334,3,2,3304,1018962.61,1995,Close to schools and shopping centers.,2023-10-24,Under Contract,townhouses
+61354872,Oklahoma City,Oklahoma,73190,99646 Annette Row Suite 824,3,3,2424,3996442.8,1967,Recently renovated with modern finishes.,2023-10-14,For Sale,villas
+78390370,Verbank,New York,12585,4555 Jennifer Branch Apt. 982,4,2,2388,1725065.91,1993,"Located in a quiet neighborhood, this property offers great potential.",2024-02-06,For Sale,apartments
+21762678,Gerber,California,96035,854 Victoria Mountain,1,2,3748,1166251.54,1989,Recently renovated with modern finishes.,2023-12-08,For Sale,villas
+47309992,Lawton,Iowa,51030,02237 Kennedy Brook Apt. 620,3,1,3749,3810576.08,1962,Spacious property with a large backyard.,2024-01-13,For Sale,villas
+41713904,Basehor,Kansas,66007,488 Robinson Park,4,2,621,1379965.81,1919,Close to schools and shopping centers.,2024-02-12,Sold,villas
+90499907,Summer Lake,Oregon,97640,73527 Odom Dale,4,3,3467,3964521.27,1988,Recently renovated with modern finishes.,2023-08-31,Off Market,single houses
+58220599,Fort Atkinson,Iowa,52144,158 Stevens Road,4,1,2036,3660199.88,2015,Close to schools and shopping centers.,2023-09-19,For Sale,single houses
+91995864,Charlotte,North Carolina,28269,26824 Marissa Run,5,3,3679,4714402.29,1936,Recently renovated with modern finishes.,2024-04-16,Off Market,condominiums
+94028300,Harrisburg,Pennsylvania,17109,19267 Wilkinson Plaza Suite 920,5,1,3833,3980741.65,1950,"Located in a quiet neighborhood, this property offers great potential.",2023-11-01,Under Contract,townhouses
+85037780,Cazenovia,Wisconsin,53924,61552 Carla Union Apt. 205,5,1,2810,169795.27,1978,"Located in a quiet neighborhood, this property offers great potential.",2023-12-12,Sold,condominiums
+22757242,Theodore,Alabama,36590,67398 Phillips Tunnel Apt. 781,1,3,502,1975912.45,1934,"Located in a quiet neighborhood, this property offers great potential.",2024-01-01,Sold,single houses
+11722341,Houston,Texas,77027,726 George Turnpike Suite 844,5,3,2364,3414467.51,2012,"Located in a quiet neighborhood, this property offers great potential.",2023-11-05,For Sale,townhouses
+88597359,Maple City,Michigan,49664,30517 Johnson Mission Suite 590,1,2,1872,195059.63,1995,Recently renovated with modern finishes.,2023-08-29,Off Market,villas
+59838507,Auburn,Kentucky,42206,32904 Shannon Manor Suite 499,3,2,1173,1511764.41,1938,Spacious property with a large backyard.,2023-10-10,Sold,single houses
+58280905,Hurdland,Missouri,63547,169 Sarah Station Apt. 156,5,1,4281,4319672.96,1903,"Located in a quiet neighborhood, this property offers great potential.",2023-09-15,Under Contract,condominiums
+99535895,Storrie,California,95980,346 David Valleys Suite 408,3,3,1175,2231299.57,1995,Perfect for first-time buyers or investors.,2023-11-08,Pending,condominiums
+57344812,Hordville,Nebraska,68846,4809 Judith Field,3,1,2530,3758921.94,1925,Recently renovated with modern finishes.,2024-03-31,Sold,single houses
+86974405,Covina,California,91723,8412 Kelly Station Apt. 193,2,3,4960,4258716.16,1974,Spacious property with a large backyard.,2023-08-05,Off Market,condominiums
+88284707,Payson,Illinois,62360,715 Jeffery Brook,4,1,2060,1395424.45,1996,Recently renovated with modern finishes.,2024-08-04,Off Market,townhouses
+30061138,Evansville,Indiana,47719,495 Kari Hill,2,2,1970,3258195.92,1986,Close to schools and shopping centers.,2024-03-01,Sold,villas
+47288618,Ross,Ohio,45061,787 Bentley Underpass Apt. 978,3,1,1609,3429958.61,1989,"Located in a quiet neighborhood, this property offers great potential.",2023-08-23,Pending,condominiums
+87893383,Roanoke,Virginia,24009,4907 Bradley Junction,1,3,1435,771740.28,1980,A beautiful home with stunning views.,2023-08-07,Sold,condominiums
+18693146,Tallahassee,Florida,32301,1521 Kenneth Passage Apt. 202,5,2,2388,4468019.45,1957,Recently renovated with modern finishes.,2023-08-13,Under Contract,townhouses
+95195270,Clovis,California,93613,5867 Kevin Bridge,2,2,2420,4180882.23,1983,Recently renovated with modern finishes.,2023-12-23,Pending,single houses
+93603317,Fentress,Texas,78622,27544 Scott Mews Apt. 308,1,2,2242,3589129.26,1920,"Located in a quiet neighborhood, this property offers great potential.",2024-07-18,Off Market,apartments
+19963847,Bloomington,Idaho,83223,0256 Chavez Street,4,3,1450,2548881.27,1974,Perfect for first-time buyers or investors.,2024-07-03,Under Contract,single houses
+36041976,Los Angeles,California,90016,337 Mills Cape Suite 252,1,1,3482,1342930.86,2006,Spacious property with a large backyard.,2023-09-12,Off Market,single houses
+79550263,Whites Creek,Tennessee,37189,208 Schmidt Corners,1,2,4041,1951035.89,1956,Recently renovated with modern finishes.,2024-04-04,Pending,apartments
+95383503,Los Angeles,California,90088,92122 Karen Roads,3,3,4829,3628333.63,1914,A beautiful home with stunning views.,2024-03-17,For Sale,apartments
+40481092,Marina Del Rey,California,90292,5509 Robertson View Apt. 294,4,1,1824,1760900.71,1948,A beautiful home with stunning views.,2023-08-22,Off Market,apartments
+61383414,Wilmington,Delaware,19898,8406 Flores Harbor Suite 032,5,2,4634,4911538.37,1941,Spacious property with a large backyard.,2024-07-21,Pending,condominiums
+24725667,Mineral,Virginia,23117,738 Lori Shore,3,1,2284,893061.02,1938,Spacious property with a large backyard.,2023-12-05,Off Market,townhouses
+62082058,Hamlin,Texas,79520,67633 Smith Underpass,5,1,2773,1052432.73,1976,Close to schools and shopping centers.,2023-08-17,Pending,villas
+38996225,Eidson,Tennessee,37731,3414 Jackson Court Apt. 062,4,2,569,698072.9,2001,A beautiful home with stunning views.,2024-02-12,For Sale,apartments
+90572552,Speculator,New York,12164,243 Hawkins Rest,1,3,617,3549621.75,1907,A beautiful home with stunning views.,2023-10-23,Sold,condominiums
+19409452,Columbia,South Carolina,29207,8246 Angela Forge,5,1,2773,4900522.96,2009,Close to schools and shopping centers.,2024-02-16,Sold,condominiums
+66708293,Big Creek,California,93605,65146 Alyssa Forges Apt. 135,3,3,4329,3554930.07,1989,Close to schools and shopping centers.,2024-04-15,Sold,single houses
+81683251,New Bethlehem,Pennsylvania,16242,597 Elizabeth Burg,2,1,3258,3728413.23,1915,Close to schools and shopping centers.,2024-04-20,Off Market,apartments
+24806083,Chesterfield,New Hampshire,3443,6642 Alexis Mill,1,2,4859,1734669.67,1926,A beautiful home with stunning views.,2024-02-09,Under Contract,villas
+27779061,Petersburg,North Dakota,58272,2087 Mejia Pines,1,2,3492,3997417.44,1991,Close to schools and shopping centers.,2023-10-11,Off Market,villas
+57111371,Trafford,Alabama,35172,9258 Howell Burg Apt. 945,1,1,4501,873913.92,1954,Perfect for first-time buyers or investors.,2024-06-22,Pending,townhouses
+73459979,Masontown,West Virginia,26542,03090 Wood Gardens Apt. 319,3,3,1377,674936.66,1971,Recently renovated with modern finishes.,2023-10-21,Under Contract,condominiums
+16208872,Pipestem,West Virginia,25979,45582 Vega Drive,1,2,503,1050143.15,2020,Perfect for first-time buyers or investors.,2024-04-05,Pending,single houses
+10582297,New York,New York,10016,12791 Sarah Orchard Suite 318,1,2,2533,4072699.49,1918,A beautiful home with stunning views.,2024-02-12,Off Market,single houses
+59019105,Peoria,Illinois,61605,34925 Lewis Courts,4,2,1485,3401637.32,1969,Spacious property with a large backyard.,2023-09-23,For Sale,townhouses
+91631463,Lehighton,Pennsylvania,18235,23538 Hahn Bridge Apt. 226,3,1,1626,3789742.18,1967,Recently renovated with modern finishes.,2024-07-15,Under Contract,apartments
+46011677,Athol,Idaho,83801,403 Richard Meadow,1,1,1719,441787.27,1964,Recently renovated with modern finishes.,2024-04-04,Sold,apartments
+69633829,APO AE,,9820,79538 Stephanie Flat,5,1,2197,2616612.98,1946,Close to schools and shopping centers.,2024-06-25,Sold,townhouses
+83252122,Ranger,Texas,76470,33661 Christopher Stravenue Apt. 568,1,3,4050,2035801.25,1997,Close to schools and shopping centers.,2024-08-03,Off Market,villas
+86374179,Seffner,Florida,33583,3060 Matthew Road Suite 261,5,3,812,2291299.94,2017,Perfect for first-time buyers or investors.,2023-11-01,For Sale,villas
+29242261,El Paso,Texas,88543,3195 Emma Park Apt. 667,1,1,3472,2342113.31,1975,A beautiful home with stunning views.,2023-11-17,Under Contract,townhouses
+53916173,San Diego,California,92171,1073 Alexander Dale Suite 184,3,1,2486,2607966.64,2015,Perfect for first-time buyers or investors.,2024-07-24,Off Market,apartments
+76845946,Era,Texas,76238,1356 Elizabeth Rapids,1,1,4848,2912618.94,1904,A beautiful home with stunning views.,2023-11-13,Pending,townhouses
+27819422,Gillett,Wisconsin,54124,73658 Nicole Ways Apt. 220,1,1,2943,4027100.05,1939,"Located in a quiet neighborhood, this property offers great potential.",2023-08-19,Pending,condominiums
+27122446,Glasgow,Kentucky,42142,22775 Michael Crescent,2,1,2318,2907594.03,1911,Perfect for first-time buyers or investors.,2023-09-30,Pending,villas
+57796567,Barstow,Maryland,20610,5958 Mccormick Skyway,3,1,2591,865881.3,2009,Recently renovated with modern finishes.,2024-03-09,For Sale,single houses
+81849506,Rehoboth,Massachusetts,2769,764 Romero Pass Suite 664,5,2,2879,3697899.99,1938,A beautiful home with stunning views.,2024-04-18,Sold,single houses
+80112398,Lonepine,Montana,59848,8547 Keith Centers Apt. 003,2,2,879,436333.0,1992,Perfect for first-time buyers or investors.,2024-05-23,For Sale,single houses
+33729735,Grant,Nebraska,69140,4227 Jessica Street Apt. 256,3,1,3648,1909793.94,1982,Recently renovated with modern finishes.,2024-06-05,Sold,single houses
+71139982,Hawi,Hawaii,96719,4603 Rhonda Ramp Apt. 144,5,3,4060,2107216.04,1985,Perfect for first-time buyers or investors.,2024-02-15,Under Contract,villas
+59172789,Pomona,Missouri,65789,85612 Holmes Alley Apt. 273,5,3,3728,4966437.87,1957,A beautiful home with stunning views.,2023-12-09,Pending,single houses
+25965276,Tuscumbia,Missouri,65082,49905 Courtney Lodge,3,1,829,623226.59,1931,Perfect for first-time buyers or investors.,2024-01-29,For Sale,villas
+55343346,Melvin Village,New Hampshire,3850,71894 Barron Ridge,1,2,2878,1912358.61,1993,A beautiful home with stunning views.,2024-05-20,Pending,apartments
+52148479,Salem,New Jersey,8079,7036 Mcdonald Bridge Apt. 682,2,2,2178,1587487.94,1999,Recently renovated with modern finishes.,2023-09-01,Under Contract,condominiums
+89446212,Venus,Pennsylvania,16364,802 Crawford Trace,5,2,3682,339975.76,1950,Perfect for first-time buyers or investors.,2024-07-19,Off Market,townhouses
+76563609,Vidalia,Louisiana,71373,106 Simmons Wells,4,1,1382,2964742.6,1978,Perfect for first-time buyers or investors.,2024-03-17,Under Contract,single houses
+62140412,Ponce De Leon,Florida,32455,13691 Cynthia Flats,4,1,2579,97154.25,1984,Spacious property with a large backyard.,2023-12-12,Off Market,townhouses
+29977784,Trevor,Wisconsin,53179,90588 Logan Underpass Apt. 058,4,3,4785,4116869.75,2003,"Located in a quiet neighborhood, this property offers great potential.",2024-04-20,Sold,apartments
+67349818,Huntsville,Alabama,35810,34449 Ramirez Meadow,4,3,4720,4102223.35,2016,Perfect for first-time buyers or investors.,2024-02-10,Off Market,single houses
+38905045,Dyer,Arkansas,72935,193 Jeremy Stream,4,2,4133,1186998.75,1984,Close to schools and shopping centers.,2024-03-15,Sold,villas
+35923247,Dunn,Texas,79516,69949 Irwin Hills,4,3,562,4333553.25,2008,A beautiful home with stunning views.,2023-12-23,Sold,single houses
+51876596,Wadley,Alabama,36276,37971 Boyle Streets Suite 492,1,1,2166,2155868.22,2022,Perfect for first-time buyers or investors.,2023-10-19,For Sale,condominiums
+25513375,Green,Kansas,67447,9107 Michael Point,4,2,1819,3949624.03,1990,A beautiful home with stunning views.,2024-04-05,Under Contract,townhouses
+36555610,Empire,Louisiana,70050,53735 Soto Isle,1,2,2711,79541.46,1979,Recently renovated with modern finishes.,2024-02-06,Under Contract,villas
+29179051,Grand River,Ohio,44045,25313 Reed Streets,4,3,1400,3072346.59,2002,Close to schools and shopping centers.,2024-03-07,Under Contract,apartments
+34414595,La Moille,Illinois,61330,607 Joshua Groves Apt. 656,4,3,2988,296163.32,1949,Recently renovated with modern finishes.,2024-06-12,For Sale,single houses
+59203657,New Deal,Texas,79350,54395 Brian Burg,1,3,2696,3444780.66,1925,A beautiful home with stunning views.,2024-06-11,Pending,villas
+58946168,Sedalia,Colorado,80135,89008 Hoffman Circles,1,2,1787,4844655.02,1910,Spacious property with a large backyard.,2024-01-18,Under Contract,condominiums
+31726698,Corpus Christi,Texas,78460,2756 Garza Stravenue Apt. 886,4,2,1232,2531437.04,1939,Close to schools and shopping centers.,2024-01-16,Under Contract,condominiums
+89137526,New York,New York,10031,740 Nunez Forest Apt. 601,1,1,3011,3372238.79,2006,Close to schools and shopping centers.,2023-11-17,Sold,single houses
+41187815,Willseyville,New York,13864,098 Jonathan Trail,2,1,2464,4016384.84,1994,Perfect for first-time buyers or investors.,2023-09-28,Off Market,townhouses
+67381365,Little Birch,West Virginia,26629,700 May Branch Suite 484,2,1,2370,2135820.1,2023,Close to schools and shopping centers.,2023-09-16,Pending,townhouses
+33788893,Contoocook,New Hampshire,3229,73195 Donald Ferry Suite 376,3,3,2836,3695137.35,2015,"Located in a quiet neighborhood, this property offers great potential.",2023-10-18,Pending,single houses
+75245899,Jamestown,Pennsylvania,16134,1451 Foster Light,3,2,583,4561003.53,1964,Spacious property with a large backyard.,2024-02-29,Under Contract,single houses
+62888972,Des Moines,Iowa,50950,68779 Baker Valleys Suite 064,1,1,4036,2567562.61,1962,Perfect for first-time buyers or investors.,2024-05-31,Sold,apartments
+89563908,Tallahassee,Florida,32312,36707 Smith Road,1,2,4547,2329390.72,1935,Close to schools and shopping centers.,2024-06-30,Pending,villas
+51958272,Joffre,Pennsylvania,15053,56729 Vance Trail Apt. 306,4,3,2456,2624047.6,1907,Close to schools and shopping centers.,2023-12-20,Off Market,single houses
+26696335,Hatfield,Arkansas,71945,6443 Scott Common Apt. 491,2,3,4060,55542.07,1997,"Located in a quiet neighborhood, this property offers great potential.",2024-05-15,Off Market,apartments
+84704263,Elgin,Nebraska,68636,8552 Sean Squares,5,1,3960,2401607.53,2008,Recently renovated with modern finishes.,2024-06-24,Off Market,villas
+89786620,Rockwood,Texas,76873,384 Smith Cliffs Apt. 174,2,1,3996,4349611.13,1976,A beautiful home with stunning views.,2024-01-18,Off Market,condominiums
+72991042,Glendora,California,91740,063 Sanchez Avenue,4,1,4619,4233594.98,2007,Spacious property with a large backyard.,2023-10-18,Sold,condominiums
+88385753,Middleburg,Pennsylvania,17842,9018 Blanchard Junction,2,3,4703,4651828.11,1940,A beautiful home with stunning views.,2023-11-04,For Sale,apartments
+29725280,APO AE,,9182,23711 Jones Hollow,3,2,506,1606838.68,1928,Perfect for first-time buyers or investors.,2024-02-20,Sold,apartments
+46694031,Amber,Oklahoma,73004,74041 Margaret Shoals,4,3,2060,1800782.71,1914,Recently renovated with modern finishes.,2023-09-18,Off Market,single houses
+53323154,Pflugerville,Texas,78691,190 Graves Shores,2,1,3476,2045986.88,1915,Close to schools and shopping centers.,2023-08-22,Pending,townhouses
+93588209,Hackberry,Arizona,86411,36510 Sandra Roads Apt. 209,4,2,2577,4454169.49,1998,Spacious property with a large backyard.,2023-10-12,Under Contract,villas
+13038908,Knoxville,Tennessee,37927,5138 Stephen Fields Apt. 677,5,1,1263,802459.17,1968,Perfect for first-time buyers or investors.,2023-10-07,For Sale,condominiums
+40851246,Hartford,Illinois,62048,3680 Heath Villages,4,1,1858,3776493.55,1964,Spacious property with a large backyard.,2024-03-22,Pending,apartments
+74155424,Springfield,Virginia,22161,5975 Alexis Park Apt. 308,4,1,775,372109.79,1962,"Located in a quiet neighborhood, this property offers great potential.",2023-10-27,Sold,single houses
+51382982,Iberia,Ohio,43325,977 Kennedy Spurs,5,3,4850,1305067.85,1975,Spacious property with a large backyard.,2024-03-19,Pending,single houses
+17567796,Burlington,North Dakota,58722,2495 Luis Cape,4,3,1487,1787859.15,2018,Close to schools and shopping centers.,2024-03-03,Off Market,villas
+14378122,Mount Vernon,Iowa,52314,691 Lindsay Greens,3,3,2653,4469697.34,1993,Recently renovated with modern finishes.,2024-06-22,Sold,townhouses
+31253615,Brownsville,Indiana,47325,84962 Joseph Lakes,5,1,4558,3954170.53,1975,Recently renovated with modern finishes.,2023-09-16,Sold,single houses
+11068740,Mc Donald,Pennsylvania,15057,90435 Francisco Course Apt. 310,5,2,2823,2234068.18,1994,Recently renovated with modern finishes.,2024-03-11,Pending,single houses
+56933753,Marco Island,Florida,34145,682 Jeremiah Fork,5,1,4160,381300.97,1953,A beautiful home with stunning views.,2023-10-16,Pending,townhouses
+28547495,Montgomery,Alabama,36120,6045 April Branch,2,2,2484,4575963.49,1968,Close to schools and shopping centers.,2024-06-10,For Sale,single houses
+53771760,Moscow,Iowa,52760,88257 Newman Plaza,4,1,2949,4750581.31,1985,Spacious property with a large backyard.,2023-09-26,Under Contract,villas
+14472867,Ponca City,Oklahoma,74602,741 Terry Ramp Suite 769,5,1,4739,1397645.81,2005,Recently renovated with modern finishes.,2024-01-04,Sold,apartments
+68290484,Grand Portage,Minnesota,55605,40673 Morales Knolls Suite 407,5,1,4983,2455921.78,1955,Close to schools and shopping centers.,2023-10-29,Sold,villas
+84343221,Warren,Michigan,48090,37804 Jones Parkway,2,2,2758,516462.12,2012,Close to schools and shopping centers.,2024-02-19,Sold,townhouses
+65773508,Linwood,Nebraska,68036,0490 Harrison Valley Apt. 671,5,2,2881,4251896.32,1923,Perfect for first-time buyers or investors.,2024-02-21,For Sale,townhouses
+75640184,West Hartford,Connecticut,6107,29605 Stuart Causeway Suite 334,5,3,1165,911701.26,1934,Recently renovated with modern finishes.,2024-01-18,For Sale,condominiums
+95198218,Lena,Louisiana,71447,86015 Amy Plaza,2,1,560,3536085.57,1954,Close to schools and shopping centers.,2024-07-30,Sold,apartments
+31590387,Ottsville,Pennsylvania,18942,41352 Mitchell Underpass,1,1,4027,2053876.92,1991,Recently renovated with modern finishes.,2024-06-04,For Sale,apartments
+92730413,Etoile,Kentucky,42131,08650 Christine Manor Apt. 621,4,2,2569,2417444.42,2010,Close to schools and shopping centers.,2023-12-06,Sold,apartments
+58776369,Oregon House,California,95962,7767 Hensley Port,2,3,1875,2993806.08,1967,"Located in a quiet neighborhood, this property offers great potential.",2023-09-08,For Sale,condominiums
+46848168,Richmond,Virginia,23219,1945 Harrison Court,2,3,2888,3670392.81,1997,Perfect for first-time buyers or investors.,2024-03-03,For Sale,villas
+92773706,Auburn,Alabama,36830,44987 Gonzales Ranch,2,3,1471,3993665.95,2016,Recently renovated with modern finishes.,2023-08-11,Sold,villas
+78732971,Maurice,Louisiana,70555,473 Laura Creek Apt. 073,2,2,3074,4411347.72,1981,A beautiful home with stunning views.,2024-01-19,Pending,villas
+69099305,Stony Point,New York,10980,20653 Jenkins Valley,3,1,1079,589244.72,1974,Spacious property with a large backyard.,2023-12-26,For Sale,condominiums
+72878929,Milburn,Oklahoma,73450,709 Justin Motorway Apt. 952,4,3,3736,469366.18,1927,A beautiful home with stunning views.,2024-07-11,Off Market,townhouses
+33288972,Harrison,Ohio,45030,9434 Martinez Estate Suite 183,3,3,1447,4452175.77,1976,Perfect for first-time buyers or investors.,2023-10-26,For Sale,single houses
+77502330,Jewell,Ohio,43530,7611 Drew Meadows Apt. 580,5,3,4890,2466619.99,2010,Recently renovated with modern finishes.,2024-01-28,Pending,townhouses
+40252636,Madison,Florida,32341,3306 Jennifer Cliffs Suite 499,5,3,1872,4067408.68,1939,A beautiful home with stunning views.,2024-06-27,Under Contract,villas
+81606593,Detroit,Michigan,48288,128 Margaret Glen Suite 772,2,3,1781,768854.96,2010,Perfect for first-time buyers or investors.,2023-08-23,Pending,condominiums

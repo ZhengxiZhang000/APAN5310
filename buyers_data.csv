@@ -1,0 +1,801 @@
+buyerid,userid,preapprovalstatus,budget,preferredpropertytype,desiredlocation,moveindate,petstatus
+980993,55382,False,1326841.06,Multi-Family,Rural Area,2024-10-12,False
+176522,99397,False,216925.39,Townhouse,Suburbs,2025-07-20,False
+839516,11450,True,642726.21,Single Family,Suburbs,2025-06-04,True
+375479,99905,True,1335431.9,Condo,Downtown,2024-11-24,True
+576291,60405,False,1425426.72,Single Family,Downtown,2025-01-24,True
+804661,44070,True,1198565.47,Condo,Downtown,2025-04-29,True
+897599,32445,False,640865.72,Townhouse,Downtown,2025-01-30,True
+758913,87039,False,339455.55,Multi-Family,Downtown,2024-08-06,True
+856631,28720,True,1472339.62,Single Family,Suburbs,2025-03-09,True
+378032,77678,True,1313685.55,Single Family,Suburbs,2024-09-06,False
+567961,85045,False,619073.57,Condo,Downtown,2024-11-01,False
+949871,45182,True,272295.2,Condo,Rural Area,2025-06-23,False
+221589,56010,True,167236.08,Multi-Family,Rural Area,2025-02-01,True
+570272,48677,True,1551696.88,Multi-Family,Suburbs,2024-08-30,False
+515441,87214,False,448502.38,Condo,Downtown,2025-08-03,False
+165755,37019,True,291854.3,Multi-Family,Rural Area,2025-07-13,False
+696327,90244,False,1061913.98,Townhouse,Downtown,2024-10-04,False
+402228,57901,False,131561.58,Condo,Suburbs,2024-09-30,False
+211152,90281,False,1677730.98,Multi-Family,Suburbs,2024-09-30,True
+352814,53863,True,1030672.3,Multi-Family,Suburbs,2025-02-24,True
+488430,54257,True,1760286.56,Multi-Family,Rural Area,2024-08-09,False
+116446,43705,False,678315.26,Townhouse,Rural Area,2025-03-03,True
+279359,51076,False,1170986.68,Townhouse,Rural Area,2025-04-10,True
+505595,75855,False,1343231.4,Townhouse,Rural Area,2025-01-26,True
+822652,62319,True,1080526.32,Townhouse,Rural Area,2025-07-13,True
+235987,53579,False,1005620.94,Condo,Suburbs,2025-07-09,False
+994928,39361,False,1918955.94,Townhouse,Rural Area,2025-05-17,False
+438569,42688,True,1928653.85,Single Family,Rural Area,2024-11-14,True
+810456,50682,True,1263883.87,Single Family,Rural Area,2025-06-15,True
+751839,38076,True,783657.49,Townhouse,Downtown,2025-04-22,False
+307977,52860,True,202793.06,Single Family,Downtown,2025-05-06,True
+961774,61347,False,957710.53,Multi-Family,Downtown,2025-05-19,True
+836436,87345,True,1769155.75,Townhouse,Rural Area,2025-05-23,False
+674870,14672,True,1320921.5,Condo,Rural Area,2025-02-21,True
+115368,97038,False,453733.95,Townhouse,Suburbs,2024-08-21,True
+156182,44848,False,717065.57,Townhouse,Rural Area,2024-11-20,True
+332825,30681,True,261811.72,Townhouse,Downtown,2025-03-06,True
+530373,98044,False,1808817.26,Condo,Suburbs,2025-07-29,True
+860649,61594,True,883222.43,Townhouse,Suburbs,2024-08-14,True
+800313,44043,True,262278.89,Townhouse,Rural Area,2024-12-08,True
+204014,88275,True,150742.03,Single Family,Rural Area,2025-03-22,False
+279563,63219,False,146720.23,Condo,Downtown,2024-09-25,False
+237264,31505,False,1487499.12,Condo,Rural Area,2025-07-17,False
+860809,91962,True,328987.62,Townhouse,Rural Area,2025-03-15,True
+986820,15225,False,1378238.88,Single Family,Suburbs,2024-09-20,False
+329341,36447,True,378315.88,Condo,Downtown,2025-05-21,False
+982244,68729,True,1537887.41,Condo,Rural Area,2024-09-10,False
+676106,34519,True,1041287.79,Condo,Rural Area,2024-09-05,False
+194023,83201,True,1101485.91,Multi-Family,Downtown,2024-11-27,False
+475436,77684,False,1459480.66,Multi-Family,Suburbs,2024-11-24,True
+495347,45063,True,1939208.35,Townhouse,Downtown,2025-04-01,False
+474059,12079,False,203860.41,Condo,Downtown,2025-06-10,False
+973957,25999,True,1990810.98,Townhouse,Rural Area,2025-05-24,False
+160753,21063,True,625360.57,Multi-Family,Rural Area,2024-10-24,True
+538791,54719,False,224272.33,Single Family,Downtown,2025-02-24,False
+466585,28815,False,890184.61,Townhouse,Downtown,2025-05-05,True
+694953,34579,True,1424583.12,Single Family,Downtown,2025-03-25,True
+800061,94155,True,950247.62,Townhouse,Suburbs,2025-07-29,False
+743842,81327,True,877649.94,Condo,Rural Area,2025-03-05,True
+202223,87239,False,572347.4,Single Family,Rural Area,2025-02-15,True
+855862,17441,False,1660912.41,Condo,Rural Area,2025-05-23,True
+873437,64818,False,1001567.17,Condo,Rural Area,2024-09-17,False
+579224,92330,True,438795.07,Single Family,Suburbs,2024-08-29,True
+505841,70145,True,255170.07,Single Family,Rural Area,2025-03-09,False
+570422,51522,True,1746577.67,Townhouse,Rural Area,2024-10-15,False
+132334,57355,True,1607117.27,Townhouse,Downtown,2025-05-10,True
+967473,19452,True,522033.36,Townhouse,Rural Area,2025-03-31,True
+762294,92554,False,723468.33,Single Family,Rural Area,2025-03-31,False
+576009,23067,False,1463987.48,Multi-Family,Suburbs,2024-10-03,True
+644482,60256,True,673529.16,Single Family,Downtown,2024-11-15,True
+834236,14143,True,1077539.66,Townhouse,Downtown,2025-01-07,True
+581370,18055,False,1724114.03,Single Family,Downtown,2024-10-13,False
+584244,26238,True,1996198.88,Multi-Family,Suburbs,2025-06-17,True
+157613,41624,True,129506.4,Single Family,Downtown,2024-12-10,True
+792987,28404,True,1767110.21,Townhouse,Suburbs,2025-07-13,False
+577549,16231,True,1753764.43,Multi-Family,Rural Area,2025-02-21,False
+526665,71528,False,1915379.33,Condo,Suburbs,2024-09-28,False
+532257,63576,False,1570694.03,Multi-Family,Rural Area,2025-05-20,True
+451621,41624,True,123700.59,Condo,Suburbs,2025-04-14,False
+190127,98432,False,1856233.69,Single Family,Suburbs,2024-08-09,False
+209491,32000,True,1625635.29,Condo,Suburbs,2024-08-09,False
+976487,28063,True,1279559.57,Single Family,Suburbs,2025-03-06,True
+809113,94570,False,164408.54,Multi-Family,Rural Area,2025-03-31,True
+644858,23557,False,1173603.35,Townhouse,Rural Area,2024-12-15,True
+161999,35055,False,696517.52,Single Family,Suburbs,2025-05-26,True
+613598,89416,True,1420439.97,Single Family,Suburbs,2024-08-20,False
+556041,68729,True,1664414.86,Single Family,Downtown,2025-06-20,True
+416149,38947,False,1950110.33,Townhouse,Suburbs,2024-08-25,True
+794477,69778,False,414837.71,Townhouse,Downtown,2025-08-02,False
+285875,24752,False,353139.86,Condo,Downtown,2024-08-20,True
+217715,99086,False,511856.22,Townhouse,Downtown,2025-02-27,False
+833978,56168,True,1122564.84,Single Family,Suburbs,2024-08-09,True
+309912,83794,True,1781919.13,Condo,Rural Area,2025-06-16,True
+498469,69849,True,179934.7,Single Family,Suburbs,2024-09-25,False
+454383,98015,False,718593.89,Condo,Rural Area,2025-03-09,False
+963342,76752,True,1559740.14,Townhouse,Downtown,2024-12-19,True
+435825,12449,True,1587133.23,Townhouse,Rural Area,2025-05-22,False
+125246,67177,True,767888.11,Townhouse,Suburbs,2025-04-12,True
+759782,85207,False,403761.9,Townhouse,Downtown,2024-11-09,False
+881755,79522,False,1613639.04,Single Family,Suburbs,2024-12-28,False
+602440,20858,True,558803.69,Townhouse,Suburbs,2025-06-28,False
+579011,26621,True,901876.16,Townhouse,Rural Area,2025-04-29,False
+482101,16173,True,1215086.56,Single Family,Rural Area,2024-12-12,True
+471899,73742,False,52503.19,Townhouse,Rural Area,2024-08-15,True
+388722,20839,False,654624.76,Single Family,Rural Area,2024-12-09,False
+354522,69765,True,510550.5,Multi-Family,Rural Area,2024-11-22,True
+737714,67158,False,923874.12,Condo,Rural Area,2025-04-23,True
+724567,56262,False,684641.64,Condo,Rural Area,2025-04-18,False
+645397,64107,False,1574505.43,Townhouse,Downtown,2025-05-19,False
+349047,50360,True,1952940.94,Condo,Downtown,2025-05-26,False
+395508,62678,False,1550835.95,Condo,Downtown,2025-03-06,False
+303306,11432,False,1178109.22,Multi-Family,Downtown,2025-04-10,False
+529774,34824,False,821060.73,Multi-Family,Suburbs,2025-05-10,False
+884756,74230,True,1865633.2,Multi-Family,Downtown,2025-02-17,True
+361008,29439,False,1613422.03,Single Family,Rural Area,2024-10-04,True
+783060,46795,False,1644779.99,Single Family,Rural Area,2024-09-20,True
+476182,86806,False,880790.73,Single Family,Downtown,2024-09-22,False
+536881,58863,True,1673199.34,Single Family,Suburbs,2024-09-07,True
+602537,93428,False,1314376.85,Townhouse,Suburbs,2024-08-22,False
+433147,90926,False,1526867.88,Multi-Family,Rural Area,2024-12-16,False
+985314,50092,True,1559922.59,Townhouse,Rural Area,2024-12-04,False
+498667,44346,True,1455768.66,Condo,Rural Area,2025-02-01,True
+259459,42084,True,1505111.84,Townhouse,Downtown,2024-08-30,True
+610343,26733,False,1210672.84,Condo,Downtown,2025-07-03,False
+778508,15225,False,873098.26,Condo,Suburbs,2025-03-14,True
+589647,83467,False,798640.58,Townhouse,Downtown,2024-10-27,False
+919905,99397,True,422225.37,Condo,Downtown,2025-04-17,False
+586254,46725,True,708881.73,Single Family,Downtown,2024-10-28,False
+430355,89752,True,1969123.8,Condo,Suburbs,2025-07-02,True
+563224,90051,False,73767.54,Multi-Family,Rural Area,2025-02-10,True
+292381,34469,False,1923780.1,Townhouse,Suburbs,2024-10-02,False
+134526,32445,True,224464.8,Condo,Downtown,2025-06-10,False
+800071,22028,True,845036.09,Single Family,Suburbs,2024-10-01,True
+575535,34992,True,175846.87,Single Family,Suburbs,2025-08-02,False
+562726,60411,True,1390888.62,Multi-Family,Rural Area,2025-07-07,False
+381434,96914,True,1805063.56,Condo,Suburbs,2024-11-30,True
+310150,85470,False,1129732.81,Single Family,Rural Area,2024-10-07,True
+995245,88921,False,52155.26,Condo,Rural Area,2024-11-24,False
+609316,58758,False,509398.52,Townhouse,Suburbs,2025-07-08,False
+971859,39488,True,1374064.48,Single Family,Suburbs,2025-05-28,True
+339147,67649,False,513341.95,Townhouse,Rural Area,2025-06-22,False
+435632,47563,False,311690.51,Townhouse,Downtown,2024-12-29,False
+119144,14243,False,1535162.79,Single Family,Downtown,2025-08-01,False
+209118,70604,True,1173028.23,Multi-Family,Rural Area,2025-07-07,True
+887380,85470,False,740996.65,Single Family,Suburbs,2025-02-04,False
+661541,29134,True,823494.41,Townhouse,Downtown,2024-11-03,True
+321756,30795,False,1309431.77,Single Family,Downtown,2025-04-02,True
+923964,10708,False,546870.45,Single Family,Downtown,2024-09-03,False
+246221,79836,True,196237.66,Townhouse,Downtown,2025-07-16,False
+946704,31042,True,110773.28,Condo,Rural Area,2024-11-30,False
+210101,94687,True,1697430.58,Single Family,Rural Area,2025-06-21,False
+598365,73196,False,66924.15,Multi-Family,Rural Area,2024-12-25,True
+677009,83194,False,1719266.07,Single Family,Suburbs,2024-10-21,False
+997283,50760,True,1253498.22,Townhouse,Suburbs,2024-11-01,True
+799865,83143,True,1314745.15,Multi-Family,Rural Area,2025-03-18,True
+547610,29491,True,1448617.97,Multi-Family,Suburbs,2024-11-04,False
+411583,73944,False,1790918.41,Condo,Downtown,2025-03-06,False
+461671,15581,False,234469.2,Condo,Rural Area,2025-04-29,False
+137515,42797,False,947925.62,Multi-Family,Suburbs,2024-09-20,True
+712603,35990,False,838610.03,Single Family,Rural Area,2025-05-26,True
+990499,39369,False,526246.37,Townhouse,Rural Area,2025-06-27,True
+175236,15485,False,474419.46,Single Family,Downtown,2025-05-20,True
+295556,10164,False,323337.31,Condo,Downtown,2024-10-20,True
+883382,12141,True,1727587.29,Condo,Downtown,2024-12-31,False
+285939,73742,False,1325640.02,Townhouse,Suburbs,2025-06-19,True
+239276,40619,True,63945.18,Single Family,Downtown,2025-02-20,False
+222339,26844,True,1463644.22,Condo,Rural Area,2025-03-12,False
+680467,89051,False,114922.81,Townhouse,Rural Area,2025-05-15,True
+814335,56061,False,622460.31,Single Family,Rural Area,2025-04-06,True
+562035,52907,False,510948.49,Single Family,Rural Area,2025-03-08,True
+615357,39488,False,1118891.29,Multi-Family,Downtown,2025-05-03,False
+703067,93428,False,1386851.11,Townhouse,Suburbs,2024-12-30,True
+753331,25116,True,374840.1,Multi-Family,Suburbs,2025-05-18,False
+550153,85823,True,1812883.86,Single Family,Rural Area,2025-07-07,False
+963470,57501,False,81045.87,Single Family,Rural Area,2025-04-16,True
+613195,58246,True,1792938.97,Multi-Family,Suburbs,2025-03-14,False
+503826,80852,False,1329455.01,Townhouse,Downtown,2024-11-22,True
+596591,93765,False,973382.31,Condo,Suburbs,2025-02-02,True
+984047,99196,False,216795.4,Multi-Family,Downtown,2025-08-02,True
+370843,11451,False,836955.95,Multi-Family,Downtown,2025-05-26,True
+708457,56463,True,1152057.04,Condo,Downtown,2025-02-12,True
+956323,42977,False,1663589.31,Multi-Family,Rural Area,2025-04-01,True
+431278,77942,True,661024.83,Condo,Rural Area,2025-02-08,True
+510314,31042,False,1263818.62,Townhouse,Rural Area,2024-12-04,True
+552458,76821,False,1271259.01,Condo,Suburbs,2025-06-14,False
+300915,50816,True,927139.71,Townhouse,Downtown,2025-04-16,True
+261794,87214,True,1831454.92,Single Family,Suburbs,2024-09-30,True
+971402,25259,False,1990785.13,Multi-Family,Suburbs,2024-08-21,False
+626495,94155,False,1105558.66,Multi-Family,Suburbs,2024-08-22,False
+928893,14117,True,1192341.66,Condo,Rural Area,2025-03-29,False
+986811,29294,True,1650110.07,Multi-Family,Rural Area,2025-03-01,False
+901452,43861,False,1172370.22,Condo,Rural Area,2024-11-28,False
+503281,44510,False,688797.91,Multi-Family,Downtown,2025-02-03,True
+439309,48417,False,1255485.04,Condo,Rural Area,2025-06-02,True
+823990,96896,True,1396276.85,Townhouse,Suburbs,2025-05-28,True
+613865,30681,False,234065.61,Multi-Family,Suburbs,2025-03-22,True
+353575,68006,False,1176494.13,Condo,Rural Area,2024-10-19,False
+368212,48416,True,1424520.74,Multi-Family,Downtown,2025-04-04,False
+981571,29998,False,283707.73,Townhouse,Suburbs,2025-01-12,True
+588532,84671,True,556606.72,Multi-Family,Rural Area,2024-08-28,False
+414952,54326,False,1335637.27,Condo,Suburbs,2025-03-04,True
+864379,34902,False,139322.72,Single Family,Rural Area,2024-11-19,False
+740672,25022,False,1535695.17,Single Family,Suburbs,2024-10-10,True
+141262,13577,True,1204885.3,Townhouse,Downtown,2025-06-13,True
+778615,65049,False,1074174.53,Condo,Downtown,2024-12-01,True
+899922,66681,False,870745.93,Multi-Family,Suburbs,2024-09-28,False
+457452,31732,True,1692966.89,Multi-Family,Downtown,2024-09-30,False
+796947,80780,True,183752.19,Multi-Family,Rural Area,2024-09-23,False
+411413,58566,False,615453.26,Single Family,Suburbs,2025-01-09,True
+518497,42264,False,1309622.45,Single Family,Downtown,2025-03-27,True
+290357,10164,True,128245.56,Townhouse,Suburbs,2024-11-10,True
+297235,22428,True,563401.91,Multi-Family,Rural Area,2024-09-18,True
+753243,64182,False,388571.08,Condo,Suburbs,2024-11-03,False
+739380,20038,False,151046.13,Condo,Rural Area,2024-12-02,False
+991636,75973,True,1844250.54,Condo,Downtown,2024-09-27,False
+264470,74657,True,1484375.91,Condo,Suburbs,2024-11-14,True
+754278,14195,False,1398827.33,Townhouse,Suburbs,2024-09-29,True
+744483,93727,False,1935389.25,Condo,Downtown,2025-03-10,False
+103229,21671,False,120281.54,Multi-Family,Downtown,2025-06-05,True
+699365,84526,False,1715347.2,Multi-Family,Downtown,2025-02-12,True
+746058,17441,False,1707651.15,Multi-Family,Rural Area,2024-08-17,False
+508318,42204,False,213793.7,Condo,Downtown,2024-11-08,False
+958896,76543,True,1245107.65,Single Family,Downtown,2024-11-23,True
+240586,15742,True,1407668.15,Condo,Rural Area,2025-07-03,False
+884527,41758,False,1259806.57,Single Family,Rural Area,2025-03-14,True
+665006,51854,True,829878.7,Multi-Family,Downtown,2025-04-26,True
+588536,24752,True,1288258.84,Condo,Rural Area,2025-01-29,False
+801898,83852,False,1630140.42,Townhouse,Suburbs,2024-08-29,False
+606127,91693,False,928205.34,Multi-Family,Rural Area,2025-05-02,False
+888291,25786,True,1999825.33,Multi-Family,Rural Area,2024-08-17,False
+208222,61046,True,1409224.74,Multi-Family,Rural Area,2024-12-18,True
+731421,18383,False,748567.96,Condo,Suburbs,2024-09-03,False
+808824,67925,True,596365.33,Condo,Downtown,2024-11-09,True
+117594,11451,False,1722952.97,Condo,Suburbs,2024-09-22,False
+264005,48577,True,1765793.32,Townhouse,Downtown,2025-07-07,True
+219184,60661,True,1452533.57,Townhouse,Downtown,2024-10-22,True
+593568,79849,False,908069.24,Multi-Family,Downtown,2024-09-07,False
+967949,35216,False,419734.55,Townhouse,Rural Area,2024-10-04,False
+798158,87936,True,1020312.34,Single Family,Rural Area,2025-07-25,True
+150589,38856,False,1099475.03,Condo,Rural Area,2024-11-30,False
+422942,14672,True,1875381.3,Condo,Rural Area,2025-07-19,True
+695725,22515,True,1495465.6,Single Family,Rural Area,2025-04-28,True
+373449,20038,True,1393934.03,Townhouse,Rural Area,2024-11-13,False
+968264,12079,False,778242.99,Townhouse,Suburbs,2025-02-17,False
+426266,75282,True,1468044.93,Single Family,Rural Area,2024-09-03,False
+861271,40797,True,296268.03,Single Family,Rural Area,2024-10-25,True
+254183,46512,True,524484.15,Multi-Family,Rural Area,2024-08-09,True
+221064,53811,True,118150.71,Townhouse,Rural Area,2025-06-18,True
+730179,75630,True,292250.75,Single Family,Downtown,2024-08-20,True
+518625,42264,False,410603.79,Townhouse,Suburbs,2024-09-13,True
+452923,17260,True,1680188.51,Townhouse,Rural Area,2024-11-18,True
+958056,12036,True,1911679.22,Single Family,Downtown,2024-12-06,False
+726644,14016,True,1152641.74,Townhouse,Suburbs,2025-06-02,True
+111988,17648,True,1750088.06,Single Family,Suburbs,2025-05-29,False
+566351,52627,False,781105.67,Single Family,Rural Area,2025-04-13,False
+848567,95415,True,1590947.76,Single Family,Suburbs,2025-02-15,True
+614479,82253,False,283302.6,Single Family,Suburbs,2024-10-09,True
+412149,24449,False,238254.61,Townhouse,Rural Area,2025-05-14,False
+394161,15687,False,1778116.02,Multi-Family,Suburbs,2024-10-29,False
+766512,20868,False,119005.61,Multi-Family,Rural Area,2025-04-08,True
+357770,20383,True,883557.24,Multi-Family,Rural Area,2025-01-16,True
+373008,34605,False,1002479.05,Single Family,Rural Area,2025-05-25,True
+455888,79522,True,99551.39,Condo,Suburbs,2025-01-23,True
+945673,29520,True,1991147.08,Townhouse,Suburbs,2025-01-22,True
+760418,92701,True,183801.0,Condo,Downtown,2025-05-17,True
+529003,25999,False,1807102.98,Townhouse,Rural Area,2025-03-14,False
+492085,16394,True,1723740.79,Condo,Downtown,2025-03-21,False
+207842,14195,False,1719427.43,Multi-Family,Suburbs,2025-05-04,False
+632870,97708,False,394980.31,Single Family,Downtown,2025-04-14,True
+985727,57030,False,998561.57,Multi-Family,Suburbs,2024-09-28,True
+844878,74880,True,1126307.49,Multi-Family,Downtown,2025-07-27,False
+202662,85010,True,934594.54,Multi-Family,Rural Area,2024-12-03,False
+686491,46074,True,1646633.11,Townhouse,Downtown,2024-10-27,False
+808225,78255,False,167508.19,Multi-Family,Downtown,2024-11-05,False
+324258,52860,False,948641.97,Multi-Family,Rural Area,2025-04-14,False
+802544,89446,False,530694.15,Single Family,Rural Area,2025-01-19,False
+206835,67608,True,432079.79,Townhouse,Downtown,2024-10-08,False
+482292,53712,True,1178902.91,Townhouse,Suburbs,2025-03-03,True
+179147,37952,True,1827164.17,Condo,Rural Area,2025-06-02,False
+627615,35627,False,625225.41,Condo,Suburbs,2025-03-14,False
+250210,67649,True,753452.37,Multi-Family,Downtown,2025-05-31,False
+319190,12794,True,907306.2,Multi-Family,Downtown,2025-06-18,True
+403806,18011,True,1574573.08,Multi-Family,Rural Area,2024-11-21,True
+396238,57355,False,1764012.2,Single Family,Downtown,2024-10-13,False
+325115,77547,False,644539.48,Condo,Downtown,2024-08-27,True
+584932,20871,False,339992.98,Multi-Family,Downtown,2025-06-03,True
+789536,46725,True,942817.44,Townhouse,Suburbs,2025-02-15,False
+781919,18743,False,125610.52,Townhouse,Suburbs,2025-07-19,True
+674593,64295,True,1267166.47,Condo,Rural Area,2025-04-21,False
+624860,64718,True,1106431.41,Multi-Family,Suburbs,2025-06-16,False
+650533,28063,False,1617280.39,Townhouse,Downtown,2024-10-16,False
+574239,19937,True,1205508.11,Multi-Family,Downtown,2024-08-30,True
+834078,48059,False,915790.37,Condo,Downtown,2025-03-05,False
+618377,73351,True,1686935.7,Multi-Family,Rural Area,2025-04-25,True
+178189,91362,False,542081.83,Condo,Suburbs,2025-03-28,False
+594475,18962,True,1993841.25,Single Family,Downtown,2025-07-10,True
+915334,45182,True,1767571.99,Townhouse,Downtown,2024-10-09,True
+253677,44897,False,1166907.86,Multi-Family,Downtown,2025-07-06,False
+540077,84526,True,1066065.28,Multi-Family,Suburbs,2025-07-05,False
+408410,36049,True,353878.29,Condo,Suburbs,2024-10-17,False
+401319,41951,False,1792302.3,Single Family,Suburbs,2025-02-18,False
+295776,50682,True,1655684.76,Condo,Suburbs,2025-01-13,False
+100199,46757,True,1374790.64,Condo,Rural Area,2025-04-19,False
+603612,38034,True,1089056.27,Multi-Family,Rural Area,2024-12-07,True
+270969,22800,False,1306704.79,Townhouse,Downtown,2025-05-02,False
+632409,10575,False,1687823.79,Multi-Family,Rural Area,2025-04-18,False
+518405,77502,False,222147.86,Multi-Family,Rural Area,2024-10-28,False
+984814,82960,True,1997025.7,Condo,Rural Area,2025-05-10,True
+789535,78255,False,1214199.98,Condo,Rural Area,2025-05-31,True
+711080,13367,False,1471475.63,Single Family,Downtown,2025-01-02,True
+609492,68890,False,454399.45,Single Family,Downtown,2024-09-13,True
+844037,41861,True,1252278.9,Multi-Family,Rural Area,2025-01-28,True
+173036,73104,False,1395957.18,Condo,Suburbs,2024-09-13,False
+414430,22515,True,1031021.81,Townhouse,Suburbs,2024-08-10,False
+611610,29520,False,1342708.0,Condo,Downtown,2025-07-14,False
+886977,67248,True,1060107.44,Multi-Family,Suburbs,2025-05-17,True
+152738,14089,True,1384944.62,Townhouse,Downtown,2025-06-24,False
+416206,83441,False,1110423.83,Multi-Family,Downtown,2024-12-14,True
+472719,51633,False,1101314.68,Single Family,Downtown,2025-03-13,False
+197147,85463,True,1415993.07,Townhouse,Rural Area,2025-01-10,False
+831538,99350,True,757250.5,Condo,Suburbs,2025-06-02,True
+705312,95690,True,1243604.05,Multi-Family,Rural Area,2025-03-20,True
+951786,11040,True,176984.03,Condo,Downtown,2025-04-20,True
+122245,97060,False,298904.93,Single Family,Downtown,2024-12-15,True
+522133,72500,False,1246201.87,Condo,Suburbs,2025-03-25,False
+607042,91580,False,314886.0,Townhouse,Suburbs,2025-07-11,False
+755091,28589,False,449562.7,Townhouse,Rural Area,2025-01-09,True
+356508,32247,True,249571.99,Townhouse,Downtown,2024-10-10,True
+383322,16192,True,534423.85,Condo,Rural Area,2025-07-20,True
+581185,45745,False,1714790.35,Townhouse,Downtown,2024-09-05,False
+541829,22119,True,1703301.81,Townhouse,Rural Area,2025-02-01,True
+662200,99142,True,1390043.3,Multi-Family,Rural Area,2025-04-11,False
+644591,47667,True,273423.41,Townhouse,Rural Area,2025-07-06,True
+165879,16017,False,1058712.98,Condo,Rural Area,2024-10-30,True
+461961,93181,True,973809.61,Condo,Suburbs,2025-07-06,False
+656570,44005,False,365228.5,Townhouse,Suburbs,2025-04-09,True
+511720,40797,True,1696580.84,Townhouse,Downtown,2025-04-09,False
+873481,38541,True,1479872.23,Townhouse,Suburbs,2025-04-05,False
+216245,19699,False,1770438.84,Single Family,Downtown,2024-10-03,True
+861992,71036,True,1501684.96,Condo,Suburbs,2025-04-13,True
+372295,51588,False,1736467.09,Single Family,Downtown,2025-05-18,True
+893083,34824,False,1759204.72,Multi-Family,Rural Area,2025-03-14,True
+904359,87854,True,652654.44,Single Family,Rural Area,2025-06-27,True
+869785,52627,True,468385.14,Townhouse,Rural Area,2025-05-12,False
+638837,57496,True,827851.13,Multi-Family,Downtown,2025-07-05,False
+572611,79742,True,688547.6,Multi-Family,Rural Area,2025-04-25,False
+183804,96460,False,1443081.67,Condo,Suburbs,2025-03-18,True
+537756,54063,True,1363548.35,Townhouse,Suburbs,2025-07-23,False
+222853,25116,False,615048.44,Townhouse,Rural Area,2025-01-20,False
+748559,67330,True,703235.33,Condo,Suburbs,2025-02-14,False
+479958,50197,True,1803329.17,Condo,Rural Area,2024-09-01,True
+281170,49797,False,1928127.99,Condo,Downtown,2024-12-16,True
+846584,13424,False,599270.31,Townhouse,Rural Area,2024-12-22,True
+593438,43826,False,131782.3,Townhouse,Rural Area,2024-11-08,False
+941497,96371,False,249270.11,Townhouse,Downtown,2025-02-04,True
+301882,44189,True,108714.66,Townhouse,Downtown,2025-04-20,True
+944355,53811,True,1789105.32,Multi-Family,Downtown,2025-04-29,True
+745452,58758,True,439074.28,Townhouse,Suburbs,2025-05-09,False
+570094,41977,False,1060496.24,Townhouse,Downtown,2025-05-08,True
+761944,30428,False,1635235.36,Single Family,Suburbs,2025-04-11,False
+439941,54165,True,1754738.29,Condo,Downtown,2025-06-02,False
+599749,49449,True,906013.83,Single Family,Suburbs,2024-09-09,False
+643204,15225,True,824243.82,Townhouse,Downtown,2024-09-20,True
+724674,85823,True,1665635.15,Townhouse,Suburbs,2025-05-15,False
+799037,95478,True,1101245.73,Single Family,Suburbs,2025-07-28,False
+622857,85470,False,1852859.62,Condo,Rural Area,2024-10-02,True
+492009,48732,False,392485.6,Single Family,Downtown,2024-09-29,False
+548422,63447,False,1967543.13,Multi-Family,Suburbs,2024-09-30,True
+831750,76752,True,805147.29,Multi-Family,Suburbs,2024-09-13,False
+141407,10048,False,1534406.35,Townhouse,Suburbs,2025-04-16,False
+180829,42220,False,1617042.96,Multi-Family,Rural Area,2025-03-28,False
+655080,61278,True,1271572.97,Townhouse,Rural Area,2025-02-01,False
+765226,98909,False,1055680.75,Townhouse,Rural Area,2025-04-28,False
+291592,16192,False,769958.9,Single Family,Suburbs,2025-04-22,True
+983938,58451,True,86067.98,Townhouse,Suburbs,2024-08-26,True
+152136,97859,True,1819863.84,Condo,Downtown,2025-07-11,True
+885294,32895,False,1672266.46,Condo,Downtown,2024-11-02,True
+503493,90550,True,712147.8,Condo,Downtown,2025-03-16,True
+139641,44043,False,1955002.18,Condo,Downtown,2025-05-21,True
+544397,98543,True,1076366.57,Townhouse,Downtown,2024-12-30,True
+401941,30352,True,601510.73,Single Family,Suburbs,2024-12-29,True
+700784,57241,False,80273.96,Townhouse,Rural Area,2025-02-05,True
+247691,34902,True,1118452.28,Townhouse,Rural Area,2025-06-27,True
+727992,42204,True,1858302.23,Townhouse,Downtown,2024-08-10,True
+303358,45141,True,1607031.08,Single Family,Rural Area,2025-07-04,True
+442278,34225,True,1983630.42,Townhouse,Suburbs,2024-11-07,True
+602956,55051,True,460141.01,Townhouse,Suburbs,2025-05-19,True
+643432,20038,True,1520449.39,Single Family,Suburbs,2025-06-17,False
+793686,75796,True,490393.29,Single Family,Downtown,2024-12-03,False
+602108,21647,True,854083.69,Single Family,Rural Area,2025-02-14,True
+621309,82127,False,298195.58,Townhouse,Suburbs,2025-01-17,True
+187888,87039,False,996152.6,Single Family,Downtown,2025-03-10,True
+982840,18250,True,390457.95,Single Family,Downtown,2025-07-23,True
+166538,49797,True,879955.61,Single Family,Suburbs,2025-07-31,False
+536423,98432,False,1529764.33,Condo,Rural Area,2025-03-01,False
+398122,87974,False,662600.7,Condo,Suburbs,2024-12-08,True
+705386,21053,False,1161064.34,Multi-Family,Suburbs,2025-02-04,True
+711239,10587,True,107522.33,Multi-Family,Downtown,2025-02-25,False
+224525,58430,False,1840821.81,Single Family,Rural Area,2024-10-01,True
+144602,61846,False,605466.4,Multi-Family,Downtown,2025-01-30,False
+502894,42977,False,943168.73,Condo,Downtown,2025-03-18,True
+407086,18055,True,1739151.8,Single Family,Downtown,2024-08-13,True
+424085,96215,True,169475.29,Single Family,Downtown,2024-10-05,True
+462203,54220,False,397345.85,Multi-Family,Downtown,2025-02-13,False
+803184,75937,True,1737511.37,Townhouse,Downtown,2025-01-18,True
+130230,43141,True,1917907.34,Single Family,Downtown,2025-05-24,False
+211266,14117,False,208478.46,Multi-Family,Rural Area,2025-06-19,False
+251655,78741,True,1265815.58,Multi-Family,Downtown,2025-06-16,False
+799497,39361,True,1426066.0,Condo,Rural Area,2024-08-16,False
+612708,55455,False,1423781.53,Townhouse,Downtown,2025-01-12,True
+646895,62678,True,862173.35,Townhouse,Downtown,2025-01-17,False
+613616,56622,False,1342499.34,Multi-Family,Downtown,2024-11-23,False
+900798,16891,True,687559.72,Condo,Rural Area,2024-10-14,False
+163828,19462,False,747336.09,Townhouse,Rural Area,2024-12-25,True
+696503,46993,True,1399054.11,Multi-Family,Downtown,2025-06-15,True
+424386,94880,False,976974.4,Multi-Family,Rural Area,2024-12-08,True
+705999,13929,False,1946607.18,Single Family,Rural Area,2025-04-07,False
+435843,79088,True,1298143.16,Condo,Rural Area,2025-04-07,False
+758063,16231,False,1317433.97,Multi-Family,Downtown,2025-07-30,False
+911488,25999,True,1537691.33,Condo,Rural Area,2025-02-06,True
+699524,40318,True,919722.48,Townhouse,Suburbs,2024-10-16,False
+312717,48133,False,1594437.51,Multi-Family,Suburbs,2025-06-28,True
+994629,20868,True,404550.81,Townhouse,Suburbs,2024-09-30,True
+296120,90244,False,1747479.87,Townhouse,Rural Area,2025-05-23,False
+652287,13772,True,994158.07,Townhouse,Rural Area,2024-12-16,False
+690665,97609,True,261556.84,Townhouse,Downtown,2025-06-14,False
+546246,31067,True,758048.11,Multi-Family,Rural Area,2024-09-09,True
+729532,73104,True,475079.56,Townhouse,Suburbs,2025-08-02,False
+478488,70661,False,1355768.31,Multi-Family,Downtown,2025-03-08,False
+377378,31425,False,1530501.18,Multi-Family,Downtown,2025-07-23,True
+714373,37821,True,1611530.82,Condo,Downtown,2025-01-02,True
+368959,18097,True,415580.11,Condo,Suburbs,2024-11-10,True
+834145,54220,True,507237.78,Multi-Family,Suburbs,2025-02-13,False
+148708,61226,True,1120603.96,Single Family,Rural Area,2025-06-15,True
+299220,13772,True,489224.61,Condo,Downtown,2025-06-12,True
+622788,69778,False,1132408.16,Multi-Family,Suburbs,2025-05-17,False
+964666,28917,False,1259305.06,Condo,Downtown,2025-04-18,True
+604105,34826,True,494033.88,Single Family,Rural Area,2025-04-30,True
+372902,85672,False,154219.93,Multi-Family,Suburbs,2024-12-31,False
+980185,94564,True,1715230.94,Single Family,Downtown,2024-09-03,True
+616815,70488,True,1186256.34,Multi-Family,Rural Area,2025-05-14,True
+489518,16231,False,613122.99,Condo,Downtown,2025-06-21,False
+418404,61235,False,1900303.98,Condo,Suburbs,2024-12-31,True
+484591,16695,False,72577.69,Townhouse,Suburbs,2024-09-14,False
+128739,87345,True,947733.15,Condo,Suburbs,2024-09-04,False
+628611,88887,False,636378.69,Townhouse,Downtown,2024-10-25,False
+569575,65787,False,1303910.1,Condo,Rural Area,2025-01-15,False
+484984,29037,False,1086289.95,Multi-Family,Suburbs,2025-07-28,False
+406510,58898,False,573176.27,Single Family,Downtown,2025-07-27,True
+228334,11432,False,1204018.32,Condo,Downtown,2024-12-29,False
+674344,56142,True,914476.45,Townhouse,Suburbs,2025-02-24,False
+166035,18743,True,1156563.41,Single Family,Suburbs,2024-09-20,True
+625930,94570,False,1726708.32,Multi-Family,Rural Area,2025-01-06,False
+449781,54165,False,1286671.04,Townhouse,Suburbs,2024-12-19,False
+957493,16891,True,61018.31,Townhouse,Rural Area,2025-05-06,True
+195027,92157,False,1347371.78,Multi-Family,Rural Area,2024-08-21,False
+381425,19452,True,79011.88,Townhouse,Rural Area,2025-07-01,True
+426701,37913,False,1020774.91,Condo,Suburbs,2025-05-22,False
+653176,97609,False,477617.4,Multi-Family,Downtown,2024-11-01,False
+254227,30703,False,1789920.23,Townhouse,Downtown,2024-12-17,True
+182527,87407,False,1176738.58,Multi-Family,Downtown,2024-12-20,True
+377203,46130,False,997983.8,Single Family,Downtown,2024-12-16,True
+553429,53579,False,487680.65,Multi-Family,Suburbs,2025-01-07,True
+497712,43819,False,581148.96,Condo,Suburbs,2025-04-17,True
+997248,34992,True,1834177.65,Townhouse,Suburbs,2025-07-14,False
+685811,20900,False,389633.15,Condo,Downtown,2024-10-24,False
+933140,17260,False,640271.61,Single Family,Suburbs,2024-11-26,False
+781878,55450,False,627042.83,Multi-Family,Rural Area,2025-02-19,False
+833532,13048,True,672959.05,Multi-Family,Suburbs,2024-11-05,True
+963920,84538,False,1502499.4,Condo,Downtown,2024-09-20,True
+441182,91362,True,1605478.39,Townhouse,Downtown,2024-10-23,False
+922392,83549,False,1914669.31,Single Family,Suburbs,2024-09-17,False
+375607,57241,False,1999404.62,Multi-Family,Downtown,2024-09-20,False
+804764,47563,True,594946.54,Condo,Rural Area,2024-11-06,False
+911979,45360,True,342005.74,Townhouse,Downtown,2024-10-17,False
+301965,69120,True,635839.81,Condo,Downtown,2025-03-03,True
+358032,36049,True,651186.53,Multi-Family,Rural Area,2025-01-29,False
+913031,67267,True,61769.48,Condo,Rural Area,2025-05-02,True
+714766,19374,True,184738.15,Condo,Downtown,2024-10-21,True
+766336,51588,True,1987709.13,Condo,Suburbs,2025-03-11,True
+723019,98015,False,1771097.79,Townhouse,Rural Area,2025-03-15,False
+496337,34225,True,1012855.01,Multi-Family,Rural Area,2025-01-18,True
+553439,32895,True,824608.3,Single Family,Suburbs,2024-08-11,True
+373831,29035,False,296446.63,Multi-Family,Suburbs,2024-10-19,True
+193291,27040,False,146106.44,Single Family,Rural Area,2025-06-04,True
+216140,99086,True,1858176.89,Single Family,Rural Area,2025-05-19,False
+859714,32944,True,595413.18,Multi-Family,Downtown,2025-07-23,False
+260772,22028,False,548274.26,Single Family,Suburbs,2025-06-09,False
+402965,24163,True,1660298.47,Multi-Family,Suburbs,2024-10-20,True
+891128,42194,True,60803.13,Single Family,Downtown,2025-06-08,False
+942057,64725,True,1538266.76,Multi-Family,Suburbs,2024-10-14,True
+966401,68585,True,63792.41,Multi-Family,Suburbs,2025-01-09,True
+856753,12629,True,1963025.08,Condo,Rural Area,2024-08-16,False
+599277,61292,False,1482307.7,Condo,Downtown,2024-11-30,True
+211495,69820,True,689865.82,Condo,Rural Area,2025-01-06,False
+413931,96503,True,1576065.29,Condo,Downtown,2025-01-28,False
+615903,84703,False,450361.85,Condo,Downtown,2024-12-25,False
+854783,50360,False,648932.13,Townhouse,Downtown,2024-09-26,False
+873222,12036,False,546217.65,Single Family,Suburbs,2024-11-08,True
+984365,46693,False,1623582.24,Townhouse,Suburbs,2025-01-01,False
+940272,62086,False,995727.46,Single Family,Downtown,2025-05-21,True
+515193,51192,True,1062651.15,Single Family,Suburbs,2025-05-30,True
+389948,89446,True,170754.72,Multi-Family,Suburbs,2025-05-08,False
+970321,35055,True,1696173.56,Multi-Family,Suburbs,2025-07-31,False
+281990,55826,True,256636.28,Multi-Family,Downtown,2024-09-21,True
+267265,85207,False,803584.95,Condo,Downtown,2025-05-18,True
+620654,25924,True,1310799.35,Multi-Family,Rural Area,2024-09-02,True
+621817,94155,False,541626.01,Condo,Suburbs,2025-06-04,True
+816169,62716,True,752102.81,Multi-Family,Downtown,2025-04-06,False
+901124,92998,False,1387279.57,Townhouse,Rural Area,2024-11-11,False
+423273,63576,True,1335713.18,Condo,Rural Area,2025-03-24,False
+404813,19643,False,1668898.3,Single Family,Rural Area,2025-07-29,True
+144020,71316,False,784000.52,Multi-Family,Downtown,2025-05-11,False
+116904,13960,False,625119.55,Townhouse,Suburbs,2024-10-13,True
+976131,13766,True,394553.8,Townhouse,Rural Area,2024-12-18,False
+187139,65787,False,1696638.35,Multi-Family,Rural Area,2024-10-09,True
+213828,58351,False,1685260.09,Condo,Downtown,2025-07-08,False
+587507,81939,True,472401.32,Multi-Family,Rural Area,2025-07-22,True
+281149,83031,False,217763.0,Single Family,Suburbs,2024-09-29,False
+881113,87345,True,548942.85,Single Family,Rural Area,2025-04-07,False
+435142,91693,True,990947.23,Townhouse,Suburbs,2024-09-23,False
+708518,15708,True,1677912.39,Townhouse,Downtown,2024-10-13,False
+433119,22351,True,1163858.59,Condo,Suburbs,2024-11-14,True
+917253,38501,True,1058864.13,Townhouse,Downtown,2024-10-10,False
+420916,64725,True,1585043.78,Townhouse,Suburbs,2024-12-29,True
+379715,46644,False,1611526.19,Single Family,Rural Area,2024-09-17,True
+267205,68688,False,1154855.87,Multi-Family,Rural Area,2024-11-25,True
+520877,40935,False,77629.83,Townhouse,Downtown,2024-09-14,False
+448460,38688,True,1286168.9,Townhouse,Downtown,2025-04-14,False
+253248,47447,False,53338.07,Condo,Rural Area,2025-01-23,True
+892224,46932,False,302422.24,Single Family,Suburbs,2025-01-05,True
+555800,97871,False,286109.2,Single Family,Rural Area,2025-07-22,False
+842057,19616,True,1592934.44,Multi-Family,Suburbs,2025-03-29,False
+763182,13367,False,651800.35,Single Family,Rural Area,2025-02-10,True
+271598,45945,False,1298012.74,Single Family,Rural Area,2025-06-08,False
+838934,37019,True,1194197.09,Condo,Suburbs,2024-09-10,True
+671114,92791,False,213247.42,Condo,Rural Area,2025-05-09,False
+188951,19937,False,199734.99,Single Family,Rural Area,2025-06-22,True
+879741,97836,True,440542.07,Multi-Family,Rural Area,2025-01-24,False
+771841,85672,False,68830.19,Condo,Downtown,2024-12-22,False
+536085,66681,True,1350556.04,Single Family,Downtown,2024-11-01,True
+804690,99350,False,658232.37,Multi-Family,Suburbs,2024-11-15,False
+812776,18411,True,766814.42,Condo,Rural Area,2024-08-06,True
+495537,28917,False,474171.34,Condo,Suburbs,2025-07-24,False
+999956,62593,True,239592.7,Condo,Downtown,2024-08-23,False
+774720,85470,True,678916.67,Townhouse,Rural Area,2025-02-04,False
+352075,24449,True,1297173.26,Multi-Family,Suburbs,2024-12-18,False
+331524,69631,False,1410256.81,Townhouse,Rural Area,2025-05-23,True
+461251,95685,False,657269.18,Condo,Suburbs,2025-03-28,True
+891060,76523,True,640758.41,Multi-Family,Rural Area,2024-10-12,True
+510848,34519,False,1711247.69,Multi-Family,Rural Area,2024-08-23,False
+515946,90281,False,1328673.01,Townhouse,Rural Area,2024-12-31,True
+142429,74248,False,1291084.34,Townhouse,Suburbs,2024-12-20,True
+799606,78255,True,904990.92,Condo,Rural Area,2025-02-16,True
+874095,13577,True,1163179.43,Townhouse,Suburbs,2025-03-18,True
+601180,27007,False,780724.61,Multi-Family,Suburbs,2025-02-12,False
+125303,78100,False,264855.37,Townhouse,Downtown,2025-07-19,False
+696010,53299,False,443627.76,Single Family,Downtown,2024-11-25,True
+738958,77128,True,1934092.02,Condo,Suburbs,2024-12-05,True
+227602,15319,True,1252036.89,Condo,Rural Area,2024-11-26,True
+591427,85751,False,1234946.82,Multi-Family,Rural Area,2025-04-16,True
+947616,52265,False,1981268.15,Townhouse,Downtown,2024-09-23,False
+776506,95976,False,880324.28,Condo,Rural Area,2024-08-21,True
+566208,42220,False,1229397.63,Condo,Suburbs,2024-12-01,False
+169379,30795,True,1976068.36,Multi-Family,Suburbs,2025-06-02,True
+327871,56142,True,1719310.19,Townhouse,Downtown,2024-12-17,False
+851876,43000,True,951900.71,Townhouse,Suburbs,2024-08-11,True
+229641,83650,True,849398.23,Townhouse,Rural Area,2024-10-13,True
+315160,28647,False,1365548.08,Condo,Downtown,2025-01-27,False
+114970,17325,True,217596.99,Multi-Family,Rural Area,2025-01-14,False
+654275,20858,False,1821296.28,Multi-Family,Downtown,2025-03-08,True
+157307,22028,False,1308571.48,Condo,Suburbs,2024-11-19,False
+486456,94362,True,978438.67,Multi-Family,Downtown,2024-11-21,True
+937788,27508,True,1468563.53,Multi-Family,Suburbs,2024-10-10,True
+790206,87039,False,1106569.47,Condo,Suburbs,2025-07-03,True
+241982,67649,True,1918855.07,Townhouse,Suburbs,2025-04-15,False
+332794,77491,False,704498.53,Townhouse,Suburbs,2025-06-30,False
+981547,44749,True,1353727.96,Single Family,Rural Area,2025-07-01,True
+213266,97609,True,1371588.83,Condo,Downtown,2024-08-07,True
+510516,47563,True,1546613.02,Multi-Family,Suburbs,2025-01-10,True
+988232,83873,True,109320.96,Condo,Rural Area,2025-05-21,False
+477142,65944,True,1237602.28,Townhouse,Downtown,2024-11-02,True
+162550,87039,True,1809316.79,Condo,Downtown,2025-06-13,False
+225110,77777,False,1527112.51,Multi-Family,Suburbs,2025-06-15,True
+462765,34563,True,1894945.24,Multi-Family,Downtown,2025-02-27,False
+700252,30663,False,723836.17,Townhouse,Rural Area,2024-12-14,False
+364941,76512,False,1613916.68,Condo,Downtown,2025-01-23,False
+184871,20416,False,699775.4,Multi-Family,Downtown,2025-04-18,True
+519633,23956,False,506426.13,Single Family,Suburbs,2025-05-16,False
+723500,80603,False,284758.94,Condo,Suburbs,2024-12-25,True
+206131,95690,True,177103.59,Multi-Family,Downtown,2024-09-22,False
+907006,26056,False,1416580.54,Townhouse,Downtown,2025-01-13,True
+388911,97836,True,154854.06,Townhouse,Suburbs,2024-10-28,True
+993052,29439,False,686656.68,Single Family,Suburbs,2025-03-02,True
+910352,76543,True,1065090.64,Condo,Downtown,2024-12-16,False
+471270,62593,True,1737324.93,Townhouse,Rural Area,2025-05-13,True
+543654,29520,True,522957.14,Townhouse,Suburbs,2024-08-10,True
+871515,28404,True,1385314.46,Townhouse,Downtown,2024-11-10,True
+556016,43141,False,1061179.13,Multi-Family,Suburbs,2025-04-24,False
+431288,77547,False,1199925.3,Townhouse,Downtown,2024-11-06,True
+745897,39369,True,1178028.9,Townhouse,Suburbs,2025-06-30,False
+400586,45438,False,1707506.73,Condo,Rural Area,2025-01-12,False
+573578,21503,True,1926613.24,Condo,Suburbs,2025-06-15,False
+302790,13577,True,536722.29,Townhouse,Downtown,2025-04-21,True
+198344,82359,True,938446.4,Townhouse,Downtown,2024-08-14,True
+605410,13099,True,1270892.88,Townhouse,Suburbs,2025-07-15,True
+850245,48195,False,503983.48,Condo,Downtown,2025-06-16,False
+219159,39369,False,90347.48,Multi-Family,Downtown,2024-12-30,False
+801186,49988,True,1938182.57,Townhouse,Downtown,2024-12-25,True
+430726,95415,False,301300.65,Multi-Family,Suburbs,2024-08-20,True
+659322,73351,False,1383454.5,Condo,Suburbs,2025-04-20,True
+966882,70450,False,391019.91,Single Family,Downtown,2024-10-14,True
+285887,30621,True,1638254.2,Multi-Family,Rural Area,2025-06-20,True
+952278,39875,True,1876842.57,Townhouse,Downtown,2024-10-03,True
+902029,28404,True,735453.37,Condo,Rural Area,2024-11-19,False
+542605,80854,False,324176.54,Condo,Rural Area,2024-10-03,False
+953439,52109,False,1873091.86,Single Family,Downtown,2025-05-18,False
+708270,95450,False,676113.48,Multi-Family,Downtown,2024-12-20,False
+363410,20416,False,72660.0,Townhouse,Rural Area,2024-10-24,False
+848906,88692,True,1654138.79,Townhouse,Rural Area,2025-08-03,False
+739128,52391,True,1978567.72,Condo,Rural Area,2025-02-25,True
+840736,94570,False,1991864.26,Condo,Downtown,2024-12-10,False
+532481,57692,True,245843.99,Multi-Family,Downtown,2025-04-18,False
+382624,73847,False,210686.54,Condo,Suburbs,2024-10-29,True
+817672,61292,True,903136.5,Townhouse,Rural Area,2025-04-20,False
+173881,73351,False,1077251.31,Townhouse,Rural Area,2025-03-19,False
+186600,98445,True,1268042.75,Townhouse,Suburbs,2025-04-24,True
+914887,10164,False,930942.15,Townhouse,Downtown,2024-11-03,True
+177059,10498,False,1439549.44,Condo,Rural Area,2025-01-29,True
+130304,36447,False,377784.28,Multi-Family,Suburbs,2025-03-21,True
+596816,80518,False,1222384.14,Multi-Family,Rural Area,2025-07-24,True
+998543,85751,True,648947.03,Single Family,Rural Area,2025-01-12,True
+999219,85988,False,900935.98,Townhouse,Downtown,2024-10-16,False
+449739,87293,True,1966387.66,Multi-Family,Downtown,2024-09-18,False
+769263,95980,False,853680.11,Condo,Downtown,2025-03-28,True
+717292,34699,False,379135.1,Condo,Downtown,2024-11-14,False
+250329,86029,True,1382398.24,Multi-Family,Suburbs,2025-04-24,True
+435240,26004,True,118523.81,Single Family,Suburbs,2024-10-13,False
+168267,31180,True,262938.73,Single Family,Rural Area,2024-08-22,False
+224912,52627,True,1889233.16,Condo,Rural Area,2025-02-14,True
+517694,80603,True,205120.9,Condo,Suburbs,2025-06-18,True
+711817,42290,False,1050849.48,Condo,Rural Area,2024-08-18,False
+876494,24493,True,259405.52,Single Family,Suburbs,2025-06-22,False
+131475,97824,True,1286443.26,Multi-Family,Suburbs,2024-11-30,False
+420226,78823,False,1292553.83,Townhouse,Rural Area,2025-01-12,True
+980127,39731,False,127063.21,Condo,Downtown,2025-07-04,True
+585403,16394,False,93321.61,Single Family,Downtown,2025-05-27,True
+577875,15716,False,1761909.08,Single Family,Rural Area,2024-11-17,True
+649961,31171,False,414915.12,Single Family,Downtown,2025-06-30,False
+707357,48416,True,305017.34,Condo,Suburbs,2025-07-11,True
+874692,14075,True,1404395.21,Condo,Downtown,2025-07-04,True
+572999,46690,False,241415.73,Single Family,Suburbs,2025-06-30,True
+491835,58566,True,1466699.41,Townhouse,Downtown,2025-04-12,True
+516239,88275,False,1226062.97,Multi-Family,Suburbs,2024-08-26,False
+496140,40625,True,1006480.21,Condo,Downtown,2024-11-17,False
+467992,78255,False,622700.99,Multi-Family,Rural Area,2024-12-08,True
+156711,21063,False,1621209.05,Townhouse,Suburbs,2025-05-19,True
+332756,50529,True,1593585.55,Condo,Rural Area,2025-03-23,False
+371208,77684,True,872548.39,Multi-Family,Downtown,2024-11-07,False
+600283,83423,False,882162.26,Single Family,Suburbs,2024-09-13,False
+805057,46352,False,431196.79,Single Family,Rural Area,2025-03-18,True
+426716,41758,True,1146427.91,Condo,Rural Area,2025-07-15,True
+460440,84671,False,195643.55,Multi-Family,Downtown,2024-12-02,False
+175148,85010,True,1100651.76,Single Family,Downtown,2024-09-18,True
+481819,30428,True,1766133.02,Condo,Rural Area,2025-01-31,True
+179986,33839,False,1725790.41,Townhouse,Downtown,2024-08-16,False
+337902,25812,True,1440321.6,Condo,Suburbs,2024-09-18,True
+503046,50816,False,102414.01,Multi-Family,Rural Area,2024-10-13,False
+225084,92918,True,1868418.06,Condo,Suburbs,2024-08-16,True
+280971,54257,True,728638.23,Multi-Family,Suburbs,2025-06-07,False
+994677,91437,True,1734649.59,Single Family,Suburbs,2025-07-11,True
+984261,54257,False,1734526.7,Multi-Family,Suburbs,2024-11-21,True
+131422,31554,False,1096346.93,Townhouse,Rural Area,2025-01-31,False
+134899,72490,False,505536.86,Townhouse,Rural Area,2025-04-20,True
+737292,92085,True,1327956.79,Condo,Downtown,2025-04-14,True
+917768,59994,False,853193.11,Townhouse,Downtown,2025-04-01,True
+618807,28063,False,1655664.89,Townhouse,Rural Area,2024-11-02,False
+950242,70450,False,1592049.54,Condo,Rural Area,2025-04-29,False
+495874,53863,False,500523.62,Townhouse,Downtown,2024-11-15,False
+266393,46134,True,1513942.71,Condo,Suburbs,2024-09-10,False
+783915,23557,False,1439965.18,Single Family,Downtown,2024-10-31,True
+265437,14243,False,732503.34,Multi-Family,Suburbs,2024-09-20,False
+921682,45063,True,131371.22,Townhouse,Rural Area,2025-01-15,True
+996780,64725,True,1457777.03,Townhouse,Suburbs,2024-11-27,False
+994748,36755,False,519687.87,Condo,Suburbs,2024-12-11,True
+949120,80520,False,1724522.6,Townhouse,Downtown,2025-01-25,False
+787623,27742,False,129704.42,Townhouse,Suburbs,2024-12-12,False
+260747,63576,False,1715004.81,Townhouse,Downtown,2024-09-16,True
+732868,75185,True,573097.42,Townhouse,Rural Area,2024-12-03,False
+198995,87039,True,994036.09,Multi-Family,Suburbs,2024-12-21,False
+704333,88887,False,1638077.81,Single Family,Suburbs,2024-12-20,True
+429015,31425,True,692554.07,Townhouse,Downtown,2025-06-03,False
+330173,97708,True,125110.3,Townhouse,Rural Area,2025-07-27,True
+625748,61046,True,117040.86,Townhouse,Downtown,2025-07-10,True
+529019,99810,True,253690.28,Single Family,Downtown,2025-05-20,True
+318036,42411,True,265630.86,Multi-Family,Suburbs,2025-01-15,True
+339857,38127,False,249711.21,Condo,Downtown,2025-03-11,True
+571579,89051,False,1870226.6,Multi-Family,Suburbs,2025-06-09,True
+219899,36755,False,1793379.98,Multi-Family,Downtown,2024-11-01,True
+489122,39200,True,458385.02,Single Family,Downtown,2024-11-23,True
+495022,12141,False,560420.51,Single Family,Downtown,2025-06-10,False
+742227,80893,False,574165.75,Townhouse,Suburbs,2025-01-28,True
+770312,19247,False,257329.34,Townhouse,Suburbs,2024-12-12,True
+641729,20188,True,1864849.81,Single Family,Suburbs,2025-06-12,False
+935477,15716,True,428167.87,Single Family,Rural Area,2025-03-31,True
+616893,13960,True,69858.4,Condo,Downtown,2024-08-25,False
+564188,14876,False,1441221.22,Single Family,Rural Area,2024-10-01,True
+860089,25893,False,1010494.33,Townhouse,Downtown,2025-01-06,True
+556296,91549,True,1879633.3,Multi-Family,Suburbs,2025-05-06,False
+551267,52627,True,298524.28,Condo,Rural Area,2025-01-11,True
+360340,22119,True,1463859.18,Single Family,Suburbs,2025-07-25,False
+587772,37821,True,1876479.09,Multi-Family,Downtown,2024-11-07,True
+196622,85698,False,1258569.46,Condo,Rural Area,2024-11-11,False
+253965,50905,False,380497.78,Condo,Suburbs,2024-12-31,False
+842914,73011,True,820555.51,Multi-Family,Downtown,2025-03-24,False
+952233,13929,True,1534746.38,Townhouse,Downtown,2025-03-08,True
+347407,80802,True,1071245.94,Multi-Family,Downtown,2024-09-01,True
+863132,69436,False,563332.58,Townhouse,Rural Area,2024-12-06,True
+767393,32445,False,372390.41,Single Family,Downtown,2025-01-08,True
+453055,56714,False,1250072.21,Townhouse,Downtown,2024-08-14,True
+675148,85045,True,331863.98,Single Family,Suburbs,2025-02-15,True
+981032,70076,False,189974.49,Single Family,Downtown,2024-12-13,True
+966590,45741,True,727433.03,Single Family,Downtown,2025-08-02,False
+279353,64725,False,394340.58,Single Family,Suburbs,2024-09-16,False
+337467,28917,False,521986.86,Single Family,Suburbs,2024-12-23,False
+424092,32060,True,384463.04,Townhouse,Downtown,2025-02-16,False
+704579,44346,True,517100.61,Multi-Family,Downtown,2024-12-15,True
+266013,63789,True,397505.45,Single Family,Suburbs,2024-11-30,True
+414173,34992,False,1726475.33,Single Family,Rural Area,2025-04-15,False
+172614,46932,False,364370.49,Multi-Family,Rural Area,2024-11-07,True
+670047,36027,True,1440631.77,Multi-Family,Suburbs,2024-08-17,True
+177610,39875,False,1335509.45,Multi-Family,Suburbs,2025-02-13,True
+816757,27559,True,153563.47,Multi-Family,Suburbs,2024-11-27,False
+255892,75796,True,424998.54,Multi-Family,Rural Area,2024-08-28,False
+309581,93300,False,1116695.43,Condo,Suburbs,2025-01-18,True
+854974,32000,False,472902.68,Townhouse,Suburbs,2024-09-14,True
+618508,89158,False,124126.93,Condo,Suburbs,2024-11-05,True
+126220,75578,False,1620776.08,Multi-Family,Suburbs,2025-06-30,False
+554913,27357,False,1638572.95,Condo,Downtown,2024-12-28,True
+827425,11356,False,1818836.77,Condo,Suburbs,2025-05-07,False
+549624,69778,True,1111540.73,Single Family,Suburbs,2025-06-14,False
+131213,50092,False,1599558.76,Townhouse,Suburbs,2025-03-03,True
+879881,13960,True,538193.03,Condo,Suburbs,2025-04-06,False
+576973,69849,False,944637.75,Condo,Suburbs,2024-09-12,False
+864533,94270,False,1321069.05,Multi-Family,Downtown,2024-09-30,True
+190238,27609,False,424819.5,Single Family,Rural Area,2024-11-21,False
+629476,19394,True,702245.98,Multi-Family,Rural Area,2025-03-06,False
+865127,59885,False,1525855.56,Single Family,Rural Area,2025-03-06,False
+977618,22515,True,1280935.61,Condo,Suburbs,2025-05-11,False
+805151,63219,False,708618.91,Townhouse,Rural Area,2025-05-22,True
+171297,52083,False,1079928.46,Single Family,Suburbs,2024-12-26,True
+485407,31441,False,321343.78,Condo,Rural Area,2024-12-30,True
+447524,30621,False,587468.99,Multi-Family,Rural Area,2024-10-27,False
+729206,80603,False,1987895.8,Condo,Rural Area,2024-10-28,True
+406903,61594,True,541878.25,Multi-Family,Rural Area,2024-11-08,False
+385168,30795,True,780669.56,Condo,Suburbs,2025-07-11,True
+635365,88959,True,128365.46,Single Family,Downtown,2025-01-12,False
+235835,16174,False,1902848.01,Single Family,Suburbs,2025-07-03,False
+390782,40623,False,388413.84,Multi-Family,Rural Area,2024-12-18,False
+895495,61278,True,877064.08,Multi-Family,Rural Area,2024-08-22,False
+107978,51163,False,1858800.21,Townhouse,Suburbs,2025-03-17,False
+217109,15742,False,1908699.89,Townhouse,Downtown,2025-01-27,True
+522639,82253,False,250041.43,Townhouse,Rural Area,2025-06-23,False
+173621,90850,False,988205.12,Condo,Suburbs,2025-07-20,True
+542473,11451,True,896531.58,Multi-Family,Rural Area,2025-05-15,True
+489463,48677,True,1819147.92,Condo,Downtown,2025-03-07,True
+753376,44457,False,1799814.68,Multi-Family,Downtown,2024-08-21,False
+535014,66681,False,1947329.43,Single Family,Downtown,2024-08-19,False
+469522,41292,True,911566.54,Townhouse,Suburbs,2025-06-07,False
+454694,51854,False,1334185.37,Single Family,Suburbs,2024-11-23,True
+743952,20858,True,795861.48,Townhouse,Suburbs,2024-08-30,True
+278459,41758,False,1286030.98,Townhouse,Downtown,2024-08-28,True
+513932,29453,False,473818.49,Single Family,Suburbs,2025-06-20,False
+230190,82960,False,898846.31,Single Family,Downtown,2025-07-17,True
+327743,38815,False,1134228.15,Townhouse,Downtown,2025-04-14,True
+635962,66817,False,1343908.84,Condo,Suburbs,2024-12-11,False
+906246,20416,True,1015360.07,Townhouse,Downtown,2025-05-25,True
+388670,85698,False,1027694.04,Multi-Family,Rural Area,2025-03-18,True
+138611,97824,False,1439674.57,Single Family,Suburbs,2025-02-05,False
+697419,56061,False,1355946.86,Townhouse,Suburbs,2025-06-04,True
+272280,94155,True,1798296.34,Multi-Family,Suburbs,2025-04-04,True
+800491,29994,False,185543.16,Townhouse,Downtown,2025-06-14,True
+631594,69820,False,426348.95,Single Family,Rural Area,2025-05-23,False
+190091,53712,False,1222002.62,Condo,Downtown,2025-03-12,False
+698806,52655,False,397508.09,Single Family,Downtown,2025-02-09,True
+244419,19508,False,1872128.93,Single Family,Downtown,2024-10-21,False
+287158,16174,True,432934.16,Condo,Suburbs,2025-08-01,True
+687600,94687,True,1960453.05,Single Family,Rural Area,2025-03-12,False
+636301,34519,False,1458422.31,Single Family,Rural Area,2024-12-10,False
+837816,80854,True,53072.87,Single Family,Suburbs,2024-12-07,False
+781073,21894,True,1764823.43,Condo,Suburbs,2024-12-15,False
+364865,87214,False,1984101.71,Townhouse,Downtown,2024-12-21,False
+323406,39731,False,1589177.09,Townhouse,Suburbs,2025-02-24,False
+489483,91437,True,669299.38,Condo,Suburbs,2024-11-13,True
+378567,85190,True,260865.92,Multi-Family,Rural Area,2025-07-22,False
+794872,41977,True,242401.55,Condo,Rural Area,2024-12-31,False
+365410,16394,False,386174.08,Townhouse,Rural Area,2024-10-19,True
+703401,63219,False,1877852.76,Townhouse,Suburbs,2024-12-03,True
+461436,52627,False,565857.84,Townhouse,Suburbs,2025-03-17,True
+463755,26844,True,920876.56,Townhouse,Suburbs,2024-09-05,True
